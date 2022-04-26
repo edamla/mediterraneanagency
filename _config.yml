@@ -14,8 +14,9 @@ google_analytics: 'G-4HBNJGRG32'
 katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
 #twitter: 'https://twitter.com/damlayayinevi'
 #facebook: 'https://www.facebook.com/damlayayinevi'
-instagram: 'https://instagram.com/mediterraneanagency'
-youtube: 'https://www.youtube.com/c/mediterraneanagency'
+instagram: 'https://instagram.com/mediterranean_agency'
+#youtube: 'https://www.youtube.com/c/mediterraneanagency'
+telegram: 'https://t.me/MediterraneanAgency'
 
 pagepreview:
   enabled: false
