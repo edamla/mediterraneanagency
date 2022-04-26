@@ -2,7 +2,7 @@
 layout: post
 title:  "Nursultan(Astana) International Eurosian Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
-categories: [ Award ]
+categories: [ Fair ]
 image: assets/images/posts/nursultanbookfair.jpg
 tags: ["Literature","Young Adult","Children"]
 sticky: false
