@@ -15,9 +15,13 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-He was born in 1899. During his youth years until the age of seventeen, he lived in psychic and physical depression due a bone sickness he suffered from at the age of eight or nine. He rejected his doctors’ advice to amputate his arm. Safa described his experiences in hospitals in his novel Dokuzuncu Hariciye Koğuşu, which was filmed in 1967.
-In 1911, Peyami Safa had to give up his education at Vefa High School, and began working in a printing house and later in the Ministry of Post. He taught himself French, and in 1918 together with his elder brother began publishing a newspaper. In later years, he published three literary periodicals. He also wrote in various newspapers sometimes as
-a columnist, and sometimes as a novelist. Most of his novels were written before 1940. In these novels, he stressed on the west-east conflict in the Turkish society during the early years of the Turkish Republic.
-
-Besides these novels, he wrote many serial stories. Some of these are about a gentleman thief named Cingöz Recai. He wrote 15 novels, excluding those written under pseudonym. He also wrote 17 non-fictions and 9 textbooks mostly about literature. He died on June 15, 1961 in Istanbul at the age of 62.
-<!--more-->
+Gaga Publishing Limited Company, whose idea dates back 10 years, started its publication life in April / 2018 under the leadership of Saadet KARAMAN,
+an educator who has devoted himself to education and touched the lives of many people throughout the years he worked.
+Our Starting Point: To produce innovative, modern, meeting the needs of the age, educational, interesting and serving the purpose, to make them easier for our esteemed colleagues and to increase the gains of our beloved students.
+We are just at the beginning of the journey, but in this journey we set off with different ideas and hearts devoted to education from different branches, importance will be given to functionality rather than commercial purposes.
+Our goal: To research, to identify the needs with the people in the kitchen of the business and to produce solutions. To support innovative approaches, to follow world-leading approaches and to pursue original new approaches.
+Our Products: They are prepared with patience and effort by experienced educators who are experts in their fields and will be prepared in line with the same principles as we continue to progress in our publishing life.
+Our principle: “The best advertisement is to win people’s appreciation with a quality product.” is to be able to create original products based on the principle. Our primary goal is to be versatile in the preparation of our product ingredients. While preparing our products, it is our priority to encourage books, reading and learning, to attract attention and to ensure the satisfaction of the reader.
+To support our writers to use their creative ideas freely during the writing phase, to reach as many people as possible by determining the needs of the society,
+to create a wide range of products by hosting versatile ideas.
+We care! Respect for the book, education, educator, innovative approaches, different and original ideas and ideas…
