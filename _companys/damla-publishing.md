@@ -2,7 +2,7 @@
 layout: company
 title: "Damla Publishing"
 key: "damlapublishing"
-image: assets/images/companies/damlapublishing.png
+image: assets/images/companies/damla-publishing.jpg
 
 twitter: https://twitter.com/damlayayinevi
 facebook: https://www.facebook.com/damlayayinevi

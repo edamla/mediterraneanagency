@@ -1,8 +1,8 @@
 ---
 layout: company
-title: "Gaga Books"
-key: "gagabooks"
-image: assets/images/companies/gagabooks.png
+title: "Gaga Publishing"
+key: "gagapublishing"
+image: assets/images/companies/gaga-publishing.jpg
 
 twitter: https://twitter.com/gagabooks
 facebook: https://www.facebook.com/gagabooks

@@ -1,7 +1,7 @@
 # Site
 name: 'Mediterranean Agency'
 language: "en"
-description: 'We bring people together'
+description: 'We bring people, souls and stories together'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
@@ -76,12 +76,19 @@ defaults:
     values:
       layout: book
 
-  # all authors
+  # all companys
   - scope:
       type: "companys"
       path: "_companys"
     values:
       layout: company
+
+  # all catalogs
+  - scope:
+      type: "catalogs"
+      path: "_catalogs"
+    values:
+      layout: catalog
 
   # all persons
   - scope:
@@ -119,6 +126,8 @@ feed:
       path: "/titles/feed.xml"
     companys:
       path: "/represented/feed.xml"
+    catalogs:
+      path: "/catalogs/feed.xml"
     illustrators:
       path: "/illustrators/feed.xml"
 
@@ -151,6 +160,9 @@ collections:
   companys:
     output: true
     permalink: /companies/:title
+  catalogs:
+    output: true
+    permalink: /catalogs/:title
   illustrators:
     output: true
     permalink: /ilustrators/:title
