@@ -1,8 +1,8 @@
 ---
 order: 3
-title:  "Gizemli Gizem Ah Çarpan Bir Eleman Olsam!"
+title:  "Sold UAE"
 img: "assets/images/slides/3.jpg"
 mobile-img: "assets/images/slides/3m.jpg"
-href: "/kitaplar/gizemli-gizem-ah-bir-carpan-eleman-olsam"
+href: "javascript:void(0)"
 target: "" # _blank
 ---

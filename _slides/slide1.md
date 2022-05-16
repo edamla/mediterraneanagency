@@ -1,8 +1,8 @@
 ---
 order: 1
-title:  "Saçaklı Kızın Pasaklı Günlüğü 2"
+title:  "Sold Mexico and Malaysia"
 img: "assets/images/slides/1.jpg"
 mobile-img: "assets/images/slides/1m.jpg"
-href: "/kitaplar/sacakli-kizin-pasakli-gunlugu-2"
+href: "javascript:void(0)"
 target: "" # _blank
 ---
