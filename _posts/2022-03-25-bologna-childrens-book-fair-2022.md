@@ -10,4 +10,4 @@ featured: false
 # For adding excerpt add <!--more--> and break the line
 ---
 
-Mediterranean Agency has attended Bologna Children's Book Fair with the passionete crew in order to represent Turkish and Foreign Literature to its network. After a long desperate period of Pandemic it was lovely and promising event that raises all the publishing industry members all over the world.
+Mediterranean Agency has attended Bologna Children's Book Fair with the passionete crew in order to represent all publishers and Foreign Literature to its network. After a long desperate period of Pandemic it was lovely and promising event that raises all the publishing industry members all over the world.
