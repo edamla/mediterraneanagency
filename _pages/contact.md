@@ -19,7 +19,7 @@ comments: false
 </div> -->
 
 
-<form action="https://formspree.io/f/mknyqepa" method="POST">    
+<!-- <form action="https://formspree.io/f/mknyqepa" method="POST">    
 <p class="mb-4"> We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -31,4 +31,4 @@ comments: false
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
-</form>
+</form> -->
