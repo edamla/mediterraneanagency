@@ -8,7 +8,7 @@ permalink: "/represented"
     <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
         {% for company in site.companys %}
-            <div class="col-lg-3 mb-5">
+            <div class="col-6 col-lg-2 mb-2">
                 <div class="p-4 border rounded">
                     <div class="row">
                         <a href="{{ company.url }}">
@@ -36,7 +36,7 @@ permalink: "/represented"
 
 <style>
     footer {
-       position: fixed !important;
+       *position: fixed !important;
        bottom: 0px !important;
        width: 100vw !important;
    }
