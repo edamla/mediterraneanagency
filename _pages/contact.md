@@ -5,7 +5,7 @@ comments: false
 ---
 
 <h5>Phone, Whatsapp, Telegram</h5>
-<div><a href="tel:+902125142828,8202">+90 537 496 32 36</a></div>
+<div><a href="tel:+905325866356">+90 532 586 6356</a></div>
 <h5>E-Mail:</h5>
 <div><a href="mailto:{{site.email}}">{{site.email}}</a></div>
 <hr>
