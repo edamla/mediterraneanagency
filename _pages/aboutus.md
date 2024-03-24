@@ -6,7 +6,7 @@ image: "/assets/images/logo.jpg"
 comments: false
 ---
 
-## Who we are
+## About Us
 
 We were established in Istanbul where the continents of Europe and Asia meet, and which has hosted many civilizations, and is the closest and culturally close to all parts of the world.
 
