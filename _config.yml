@@ -16,7 +16,7 @@ katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalog
 #facebook: 'https://www.facebook.com/damlayayinevi'
 instagram: 'https://instagram.com/mediterranean_agency'
 #youtube: 'https://www.youtube.com/c/mediterraneanagency'
-telegram: 'https://t.me/MediterraneanAgency'
+#telegram: 'https://t.me/MediterraneanAgency'
 
 pagepreview:
   enabled: false
