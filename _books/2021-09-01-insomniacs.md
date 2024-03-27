@@ -1,0 +1,62 @@
+---
+layout: book
+title:  "Insomniacs"
+
+publisher: vadipublishing
+authors: "DR."
+illustrators: ["Hüma Abay"]
+translators: #["naci-turan","burak-dogru"]
+image: assets/images/ean/9786059114622.jpg
+categories: [ "Literature" ]
+tags: [ "literature"]
+previewpage: false
+featured: false
+
+# Book attributes
+ean: 9786059114622
+languages: []
+page: 200
+size: "13,5x21cm"
+#publish-number: 60
+cover: "Paperback"
+original-name:  "Uykusuzlar"
+original-language: "Turkish"
+youtube:
+
+# Foreign Rights attributes
+sold: [] # 'AZ', 'TR'
+
+# Buyout Ecommerce
+# dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# kitapyurdu: "https://www.kitapyurdu.com/kitap/sacakli-kizin-pasakli-gunlugu-2-/560122.html&filter_name=Sa%C3%A7akl%C4%B1+K%C4%B1z%27%C4%B1n+Pasakl%C4%B1+G%C3%BCnl%C3%BC%C4%9F%C3%BC+2"
+# idefix: "https://www.idefix.com/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# hepsiburada: "https://www.hepsiburada.com/sacakli-kiz-in-pasakli-gunlugu-2-damla-yayinevi-p-HBV000012ER86"
+# trendyol: "https://www.trendyol.com/genc-damla-yayinevi/sacakli-kiz-in-pasakli-gunlugu-2-p-54825777"
+# gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
+# odatvkitap: #"https://www.odatvkitap.com.tr"
+# bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
+# amazontr: #"https://www.amazon.com.tr"
+# dkitap: #"https://www.dkitap.com/sacakli-kizin-pasakli-gunlugu"
+# damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kiz-in-pasakli-gunlugu-2-bu-iste-bi-terslik-var"
+
+# For adding excerpt add <!--more--> and break the line
+---
+The Imaginator, a miraculous device that opens
+the way for the rulers to sustain their power, offer-
+ing people paradise on a silver tray in every home.
+And two groups: those who connect to the Imagi-
+nator and sleep, and the sleepless...
+In this book, DR. presents a dystopian view of
+Istanbul to the reader.
+Two sleepless individuals, Sadık and retired phys-
+ics teacher Orhan, are searching for the meaning/
+meaninglessness of life.
+Uykusuzlar (The Sleepless), a novel written 20
+years before today when VR goggles started open-
+ing the doors to a new world and moving life into
+the metaverse universe, describes the near future.
+Combining a strong plot with powerful predic-
+tions, how about looking at the 21st century’s
+Turkey from DR.’s perspective?
+<!--more--> 
+

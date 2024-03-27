@@ -4,11 +4,6 @@ title: "Damla Publishing"
 key: "damlapublishing"
 image: assets/images/companies/damla-publishing.jpg
 
-twitter: https://twitter.com/damlayayinevi
-facebook: https://www.facebook.com/damlayayinevi
-youtube: https://youtube.com/damlayayinevi
-instagram: https://instagram.com/damlayayinevi
-site: https://www.damlapublishing.com
 
 categories: #[ cat1, cat2 ]
 tags: #[ araştırmacı, tarihçi]

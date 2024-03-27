@@ -10,7 +10,7 @@ permalink: "/titles"
 {% assign bookarray = "" | split: ',' %}
 {% assign sortedarray = "" | split: ',' %}
 
-{% assign sortedarray = site.books | sort: "publish-number" | reverse %}
+{% assign sortedarray = site.books | sort: "publisher" | reverse %}
 
 {% for book in sortedarray limit:10 %}
     {% assign bookarray = bookarray | push: book %}

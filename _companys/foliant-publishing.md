@@ -2,21 +2,16 @@
 layout: company
 title: "Foliant Publishing"
 key: "foliantpublishing"
-image: assets/images/companies/foliant-publishing.png
-
-twitter: https://twitter.com/damlayayinevi
-facebook: https://www.facebook.com/damlayayinevi
-youtube: https://youtube.com/damlayayinevi
-instagram: https://instagram.com/damlayayinevi
-site: https://www.damlapublishing.com
-
-categories: #[ cat1, cat2 ]
-tags: #[ araştırmacı, tarihçi]
+image: assets/images/companies/foliant-publishing.jpg
+link: 
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Foliant is a multidisciplinary Kazakh publishing house operating in the publishing industry since 1996. The main editorial office, own production and the trading house of the same name are located in the capital of the Republic of Kazakhstan, Nur-Sultan. 
-Foliant prepares and publishes a wide range of books in Kazakh and Russian. These are fiction and educational publications for children and adolescents of all ages, fiction of various genres for adult readers, illustrated popular science publications, as well as educational, scientific, legal and other specialized literature. 
-The only private publishing house of its kind in Kazakhstan, today "Foliant" is one of the leading manufacturers of book products in the Central Asian region, and also acts as the organizer of the Eurasian International Book Fair – the largest cultural and educational event in the Eurasian space, uniting on one large intellectual platform publishing, bookselling, scientific, educational and printing companies in Europe and Asia.
- 
+Alia is a child oriented publishing house offering interactive Arabic childrens literature for the purpose of reviving the passion to read within the child. 
+
+Through Alias titles the child is offered a wide variety of topics that make him/her self confident, beacause of the simple vocabulary used, the child will also be urged to re-read the stories again again, because of the age appropriate material presented to them.
+
+Overall, the interactivity the stories give the child, make him/her feel as a part of the on going story itself. 
+
+Alia owns the rights of all its publications and is willing to sell translation rights and film production rights to interested business partners from different parts of the world. 
 <!--more-->

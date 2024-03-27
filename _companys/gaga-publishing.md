@@ -4,11 +4,6 @@ title: "Gaga Publishing"
 key: "gagapublishing"
 image: assets/images/companies/gaga-publishing.jpg
 
-twitter: https://twitter.com/gagabooks
-facebook: https://www.facebook.com/gagabooks
-youtube: https://youtube.com/gagabooks
-instagram: https://instagram.com/gagabooks
-site: https://gagabooks.com
 
 categories: #[ cat1, cat2 ]
 tags: #[ araştırmacı, tarihçi]
