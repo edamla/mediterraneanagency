@@ -1,26 +1,26 @@
 ---
 layout: book
-title:  "Child Discipline In The Family"
+title:  "Love Conversations In The Family"
 
 
-publisher: celikpublishing
-authors: "Ragıp Güzel"
+publisher: foliantpublishing
+authors: "Vehbi Vakkasoğlu"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9799756457688.jpg
+image: assets/images/ean/9786056843242.jpg
 categories: [ "Family" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
 # Book attributes
-ean: 9799756457688
+ean: 9786056843242
 languages: []
-page: 288
+page: 432   
 size: "13,5x21cm"
 #publish-number: 60
 cover: "Paperback"
-original-name:  "Aile Huzuru"
+original-name:  "Ailede Sevgi Sohbetleri"
 original-language: "Turkish"
 youtube:
 
@@ -42,16 +42,33 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Every result is in the beginning. No drop can
-overflow an empty glass.”
-Children are the future of our lives and our
-world... And they are just like a tape recorder. They
-play what we put in! If we want to hear and see
-good things tomorrow, we should pay attention
-today. That’s why family is impor-tant... Children
-grow up seeing. They develop by seeing us, their
-parents. At this point, there are duties that fall on
-the parents. This book tries to explain how to do
-this sacred duty.
+LOVE and CONVERSATION...
+Two human beauties we are beginning to forget...
+Conversation is born from love,
+Love continues and flourishes through conversa-
+tion.
+Hearts devoid of love remain devoid of conversa-
+tion,
+Environments without conversation become arid,
+barren, lifeless.
+Love and conversation without family are incom-
+plete, lacking,
+Love and conversation begin, develop, and expand
+within the family first.
+The most suitable ground for love and conversa-
+tion is the family,
+The family is the final stronghold of love and con-
+versation.
+In his book “Love and Conversations in the Family,”
+Vehbi Vakkasoğlu discusses the values that make
+a family a family in a conversational warmth. The
+book provides information on various topics ranging
+from how parents should treat their children to envi-
+ronmental consciousness, from religious knowledge
+to social needs.
+In this book, each topic is kept to a length that can
+be read in 15 minutes, aiming for families to come
+together and converse for at least 15 minutes
+every day.
 <!--more--> 
 

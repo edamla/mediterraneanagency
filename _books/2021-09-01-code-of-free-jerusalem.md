@@ -1,0 +1,64 @@
+---
+layout: book
+title:  "Code Of Free Jerusalem"
+
+
+publisher: mihrabadpublishing
+authors: "Nurettin Taşkesen"
+illustrators: [""]
+translators: #["naci-turan","burak-dogru"]
+image: assets/images/ean/9786058247574.jpg
+categories: [ "Historical Novel" ]
+tags: [ "literature"]
+previewpage: false
+featured: false
+
+# Book attributes
+ean: 9786058247574
+languages: []
+page: 280
+size: "13,5x21cm"
+#publish-number: 60
+cover: "Paperback"
+original-name:  "Özgür Kudüs'ün Şifresi"
+original-language: "Turkish"
+youtube:
+
+# Foreign Rights attributes
+sold: [] # 'AZ', 'TR'
+
+# Buyout Ecommerce
+# dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# kitapyurdu: "https://www.kitapyurdu.com/kitap/sacakli-kizin-pasakli-gunlugu-2-/560122.html&filter_name=Sa%C3%A7akl%C4%B1+K%C4%B1z%27%C4%B1n+Pasakl%C4%B1+G%C3%BCnl%C3%BC%C4%9F%C3%BC+2"
+# idefix: "https://www.idefix.com/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# hepsiburada: "https://www.hepsiburada.com/sacakli-kiz-in-pasakli-gunlugu-2-damla-yayinevi-p-HBV000012ER86"
+# trendyol: "https://www.trendyol.com/genc-damla-yayinevi/sacakli-kiz-in-pasakli-gunlugu-2-p-54825777"
+# gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
+# odatvkitap: #"https://www.odatvkitap.com.tr"
+# bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
+# amazontr: #"https://www.amazon.com.tr"
+# dkitap: #"https://www.dkitap.com/sacakli-kizin-pasakli-gunlugu"
+# damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kiz-in-pasakli-gunlugu-2-bu-iste-bi-terslik-var"
+
+# For adding excerpt add <!--more--> and break the line
+---
+During a period when Jerusalem and the Al-Aqsa
+Mosque were under occupation, and Islamic lands
+were fragmented under the rule of self-interested
+Emirs, what did Saladin accomplish? His struggle
+to establish Islamic unity upon the solid founda-
+tions laid by Nur ad-Din Zengi offers us profound
+lessons from eight centuries ago. Saladin, who
+succeeded in gathering Muslims, who had become
+divided and manipulated by strife and who did not
+hesitate to shed each other’s blood or play into
+the hands of their enemies, under the banner of
+Islam, also instilled in minds the consciousness of
+rescuing Jerusalem. In a period reminiscent of the
+current fragmented state of Islamic countries, Sala-
+din’s policies throughout his life provide us with the
+key to Free Jerusalem. All we need to do is careful-
+ly study his life and understand the messages he
+conveyed to us.
+<!--more--> 
+

@@ -1,8 +1,8 @@
 ---
 layout: company
-title: "Foliant Publishing"
-key: "foliantpublishing"
-image: assets/images/companies/foliant-publishing.jpg
+title: "Foliant Yayınları"
+key: "foliantpublishing-tr"
+image: assets/images/companies/foliant-publishing-tr.jpg
 link: 
 
 # For adding excerpt add <!--more--> and break the line
