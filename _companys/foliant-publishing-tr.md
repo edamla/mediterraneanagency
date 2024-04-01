@@ -7,11 +7,9 @@ link:
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Alia is a child oriented publishing house offering interactive Arabic childrens literature for the purpose of reviving the passion to read within the child. 
+Foliant Publications began its journey in March 2018 under the name "Selen". After adding 27 works to our publishing world, it proceeded with a name change to "Foliant".
 
-Through Alias titles the child is offered a wide variety of topics that make him/her self confident, beacause of the simple vocabulary used, the child will also be urged to re-read the stories again again, because of the age appropriate material presented to them.
+While contributing to the development of our literature and writers with local authors, Foliant Publications also aims to introduce the beauties of different cultures through translated works to its readers.
 
-Overall, the interactivity the stories give the child, make him/her feel as a part of the on going story itself. 
-
-Alia owns the rights of all its publications and is willing to sell translation rights and film production rights to interested business partners from different parts of the world. 
+It has initiated efforts to produce works guiding every age group in fields such as education, popular science, preschool, children's and young adult literature, history, health, family, and literature, among others. In conducting these efforts, it strives to maintain quality publishing both in terms of materials used and the content of the texts.
 <!--more-->

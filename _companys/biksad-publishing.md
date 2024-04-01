@@ -2,14 +2,14 @@
 layout: company
 title: "Biksad Publishing"
 key: "biksadpublishing"
-image: assets/images/companies/alia-publishing.jpg
+image: assets/images/companies/biksad-publishing.jpg
 link: 
 
 # For adding excerpt add <!--more--> and break the line
 ---
-"People always want to describe beauty. They consider the beautiful to be valuable and close to themselves, and they passionately connect to it.
+"We are in pursuit of our lost civilization. We are searching for our lost treasure.
 
-The time we live in, however, seems distant from these values, with understanding diminishing day by day, and spirits feeling suffocated, like a dry, barren season. In such an environment, the healthiest and most steadfast way to find happiness is to seek and find what is beautiful and good.
-
-And so, we set out on this journey, guided by this belief…"
+Our ancestors imparted crucial values to humanity.
+For centuries, the world revolved around these values, darkness was illuminated by them, and humanity found its way through them. Our civilization, our sun, rose from the East and illuminated the entire world.
+We are searching for that lost light."
 <!--more-->
