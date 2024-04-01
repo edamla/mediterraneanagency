@@ -2,7 +2,7 @@
 layout: company
 title: "Foliant Publishing"
 key: "foliantpublishing-kz"
-image: assets/images/companies/foliant-publishing-kz.png
+image: assets/images/companies/foliant-publishing-kz.jpg
 
 categories: #[ cat1, cat2 ]
 tags: #[ araştırmacı, tarihçi]
