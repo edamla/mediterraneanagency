@@ -45,13 +45,11 @@ sold: [] # 'AZ', 'TR'
 In the work; ‘The Virtue of Faith’, ‘The Virtue of
 Saying La ilaha illallah’, ‘The Virtue of Prayer’, ‘The
 Virtue of the Community’, ‘The Virtue of Saying
-Amen’, ‘The Night of Power and the Fast of Shaw-
-wal’, ‘The Virtue of Giving Charity’, ‘Zakat, Hajj and
+Amen’, ‘The Night of Power and the Fast of Shawwal’, ‘The Virtue of Giving Charity’, ‘Zakat, Hajj and
 Sacrifice Issues such as ‘The Virtue’, ‘The Virtue of
 the Surahs’ are mentioned with verses and hadiths.
 “I am as my servant thinks about me. When my
-servant remembers me, I am with him. If he re-
-members me from within, I will remem-ber him in
+servant remembers me, I am with him. If he remembers me from within, I will remem-ber him in
 a better (and virtuous) congrega-tion than them. If
 he approaches me an inch, I will approach him a
 cubit. If he approaches me one cubit, I approach

@@ -43,16 +43,13 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The value of reading history becomes clearer as
-you age. Lessons extracted from the past are cru-
-cial for those who heed experience. Because wise
+you age. Lessons extracted from the past are crucial for those who heed experience. Because wise
 individuals know that everything has a beginning...
 Wouldn’t it be easier to approach and evaluate
-newly discovered information as informed individu-
-als and to reach solutions for our own discoveries?
+newly discovered information as informed individuals and to reach solutions for our own discoveries?
 We say that ideas are the sole factor that develops
 a person. But could your work, which may serve
-as a gateway for blessings and prayers, be con-
-sidered worthless? Remember! A name should
+as a gateway for blessings and prayers, be considered worthless? Remember! A name should
 remain behind... A benefit should touch humanity
 and the future. And your discovery, molded with
 sincerity and affection, should guide those who

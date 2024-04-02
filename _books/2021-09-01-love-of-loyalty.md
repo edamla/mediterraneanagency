@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-My childhood and youth were filled with sepa-
-ration, sadness, and pains. I was someone who
+My childhood and youth were filled with separation, sadness, and pains. I was someone who
 never bowed down in the face of injustice. I was
 fighting all the difficulties on my own and somehow
 overcoming every challenge. Betrayals, dirty traps,

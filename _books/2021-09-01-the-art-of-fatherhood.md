@@ -42,17 +42,14 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 When you visit any bookstore today, you can come
-across dozens of books related to “motherhood.” How-
-ever, strangely enough, there is not much written or dis-
-cussed about the other cornerstone of the family, which
+across dozens of books related to “motherhood.” However, strangely enough, there is not much written or discussed about the other cornerstone of the family, which
 is equally important, “fatherhood.” In the modern world,
 the mission attributed to the father seems to be limited
 to merely earning money and providing for the family.
 However, recent sharp fractures observed in families
 have proven how wrong this perception is. It should not
 be forgotten that children are the most precious trust
-given to us, and raising this trust in the best way pos-
-sible is the joint responsibility of both the mother and
+given to us, and raising this trust in the best way possible is the joint responsibility of both the mother and
 the father. A responsible father’s guidance, ethics, and
 good example cannot be replaced by the mother alone,
 someone else, or any institution.

@@ -46,11 +46,9 @@ The woman who was given the good news that
 there is Heaven under her feet; she has occupied
 very lofty positions throughout his-tory with the
 realms of faith in her heart, the flowers of morality
-in her soul, knowledge, wisdom and pure con-
-science.
+in her soul, knowledge, wisdom and pure conscience.
 From the age of bliss to the time we live in, many
-Islamic reforms, which are the pride of the wom-
-en’s class, have filled the gaps and have become
+Islamic reforms, which are the pride of the women’s class, have filled the gaps and have become
 miraculous. Transferring the glory of the past to the
 present and making it easier for the women of our
 time to benefit from these clean resources will help

@@ -42,18 +42,15 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Marriage means entering into a “union of life”.
-This unity is essentially based on sharing. Mar-
-riage is bringing two lives together under one roof
+This unity is essentially based on sharing. Marriage is bringing two lives together under one roof
 and sharing joys, sorrows, happiness, troubles
-and hopes under that roof. This is marriage con-
-sciousness. Not being alone, providing material
+and hopes under that roof. This is marriage consciousness. Not being alone, providing material
 and moral security, and getting married just to have
 children are approaches that are far from marriage
 awareness. These desires are present in every
 marriage, but they are valuable and meaningful as
 a result of marriage, not as a cause.
-I wrote this book to provide a solution to marriag-
-es that are struggling in the grip of the modern age,
+I wrote this book to provide a solution to marriages that are struggling in the grip of the modern age,
 to show a humble path to young people who are
 about to get married, to evaluate the psychology
 and pathology of marriage, and to remind us of

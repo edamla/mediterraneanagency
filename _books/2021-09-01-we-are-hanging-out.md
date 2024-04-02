@@ -49,9 +49,7 @@ to you like this: “You are not black, they are too
 white!”
 If the people around you in the environment you
 entered are handcuffs on your wrist, weight on
-your soul, darkness in your heart, the things spo-
-ken are a chain around your neck, the sins com-
-mitted become shackles on your feet, then you are
+your soul, darkness in your heart, the things spoken are a chain around your neck, the sins committed become shackles on your feet, then you are
 “hanging out” in the devil’s place.
 So, how about you? Where and with whom are
 you hanging out?

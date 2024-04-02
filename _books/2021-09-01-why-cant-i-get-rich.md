@@ -41,20 +41,16 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-By the time you read this book, I will have al-
-ready become rich... Oh, my dear reader, waiting
+By the time you read this book, I will have already become rich... Oh, my dear reader, waiting
 at the launching ramp of poverty. In these moments
 when you experience the final days of poverty, you
 are only 3-5 pages away from the days when you’ll
-say, “Damn, what times we lived in!” First and fore-
-most, why did we publish this book? Not to make
+say, “Damn, what times we lived in!” First and foremost, why did we publish this book? Not to make
 you rich, of course. If that were the case, I would
 have become rich. The book aims to explore the
 existential loneliness of an actor who looks into the
-eyes of people, offering dreams, laughter, and oc-
-casional thought-provoking moments, attempting to
-answer the question, “Can theater fill one’s stom-
-ach?” and voicing the idea that “Artists may be
+eyes of people, offering dreams, laughter, and occasional thought-provoking moments, attempting to
+answer the question, “Can theater fill one’s stomach?” and voicing the idea that “Artists may be
 hungry, art doesn’t feed them!” Furthermore, in this
 book, I have described, to the best of my ability,
 “What you should never do if you want to become

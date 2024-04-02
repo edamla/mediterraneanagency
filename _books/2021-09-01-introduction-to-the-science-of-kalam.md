@@ -45,8 +45,7 @@ sold: [] # 'AZ', 'TR'
 Abdullatif Harputi, whose life corresponded to the
 end of the 19th century and the beginning of the
 20th century, became one of the pioneers of “New
-Era Science and Theology” with an innovative ap-
-proach.
+Era Science and Theology” with an innovative approach.
 As a matter of fact, while he was writing his
 work “Tenkıhu’l Kelâm F’i Akaid-i Ehli’l-Islâm”, he
 drew attention to the creed, morality, philosophy,
@@ -57,7 +56,6 @@ search of a book that contained the basic beliefs
 of religion and that stood up to the stubborn and
 modern atheists. I have not come across such a
 book belonging to the theologians of the past Ahl
-as-Sunnah. The science of kalam should be com-
-piled according to the situation and location.
+as-Sunnah. The science of kalam should be compiled according to the situation and location.
 <!--more--> 
 

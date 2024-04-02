@@ -45,25 +45,19 @@ sold: [] # 'AZ', 'TR'
 What is adolescence? Did prophets experience
 adolescent crisis? Did the Prophet of Allah (peace
 be upon him) face youth difficulties? Did those
-around him experience adolescent crisis? Can indi-
-viduals with different characteristics be disciplined
+around him experience adolescent crisis? Can individuals with different characteristics be disciplined
 with the same educational method? Is there a
 personalized educational method? Which attributes
-are reflected in education? According to which ped-
-agogy do we educate our children? How much do
+are reflected in education? According to which pedagogy do we educate our children? How much do
 we know about the pedagogy of the Sunnah? Can
-parents act as a barrier in education? Is adoles-
-cence a biological state? Why is the same situation
+parents act as a barrier in education? Is adolescence a biological state? Why is the same situation
 not observed in everyone? Is the foundation of the
 burning and destructive passage of adolescence
-encountering the first sin of the youth? While sci-
-ence considers adolescence problematic, how did
-the Prophet of Allah entrust the greatest respon-
-sibilities to adolescents at this age? What does
+encountering the first sin of the youth? While science considers adolescence problematic, how did
+the Prophet of Allah entrust the greatest responsibilities to adolescents at this age? What does
 modern pedagogy fail to see? The communication
 of our Prophet with the youth provides answers to
-these and many more questions. To avoid prob-
-lems in our children’s education, we incorporate
+these and many more questions. To avoid problems in our children’s education, we incorporate
 ‘Sunnah pedagogy’ into our lives.
 <!--more--> 
 

@@ -43,25 +43,20 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 “Eşref Bey’s orderly, Zenci Musa, has shouldered
-his burden and ascended: Prophet Jesus.” - Meh-
-met Akif Ersoy
+his burden and ascended: Prophet Jesus.” - Mehmet Akif Ersoy
 “In the days when I had the honor of being one
 of those who escaped from Malta and raised the
 banner of the National Struggle, Musa, my heroic
 Arab, died of tuberculosis.”
-Kuşçubaşı Eşref, a warrior of the Ottoman Em-
-pire, was born in Sudan and died in the Özbekler
+Kuşçubaşı Eşref, a warrior of the Ottoman Empire, was born in Sudan and died in the Özbekler
 Tekkesi in Üsküdar. He was a member of the
 Teşkilat-ı Mahsusa (Special Organization), a heroic
-Ottoman soldier. Zenci Musa’s life began in a Turk-
-ish neighborhood in Crete, and he was a brave and
+Ottoman soldier. Zenci Musa’s life began in a Turkish neighborhood in Crete, and he was a brave and
 loyal warrior who rushed to wherever there was
-fire, from Trablusgarp to the Balkans, from Çanak-
-kale to Jerusalem, from the deserts of Yemen to
+fire, from Trablusgarp to the Balkans, from Çanakkale to Jerusalem, from the deserts of Yemen to
 Anatolia. He met Kuşçubaşı Eşref in the deserts
 of Libya and fought on every front the Ottoman
-army sent him to until his last breath. He support-
-ed the War of Independence from Istanbul, which
+army sent him to until his last breath. He supported the War of Independence from Istanbul, which
 was under British occupation. He never faltered,
 never succumbed to despair, and fought tirelessly
 for the rights and justice of his Muslim brothers

@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 The Quran, as a Mushaf, is right next to us, but
 when it comes to “women’s rights,” we are far from
 it. Despite being the living example of the Quran,
-the Messenger of Allah exhibited the utmost re-
-spect for women, yet, with fabricated narrations,
+the Messenger of Allah exhibited the utmost respect for women, yet, with fabricated narrations,
 “the better half of the society” continues to be
 mistreated.
 Young people! Would you like to marry a man
@@ -54,8 +53,7 @@ Would you accept being called “inauspicious”?
 Men! Aren’t women the cause of temptation? Who
 will enter hell first? Are the majority of those who
 will enter Paradise men or women? Do men have
-the right to divorce while women don’t? The pres-
-sure to prevent women from education! The claim
+the right to divorce while women don’t? The pressure to prevent women from education! The claim
 that men and women are created from different
 substances! Accusations of “betrayal” against
 women through Eve! The answers to many more

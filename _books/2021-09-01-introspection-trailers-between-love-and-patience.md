@@ -41,20 +41,16 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Sometimes a person gets so stuck and over-
-whelmed that he wants to leave the world behind
+Sometimes a person gets so stuck and overwhelmed that he wants to leave the world behind
 with all its messes and sail to different states,
 different worlds. The troubled mood that he thinks
-he can get rid of by moving from city to city, coun-
-try to country, is actually the need to escape from
+he can get rid of by moving from city to city, country to country, is actually the need to escape from
 the concrete world. This problem, which cannot
 be solved by traveling around, can sometimes be
 solved by moving from one room to another and
-resting on a prayer rug for a few minutes. The per-
-son who can do this has moved not to another city,
+resting on a prayer rug for a few minutes. The person who can do this has moved not to another city,
 but to another world. He traveled long distances,
-not short ones. Does a person need to commu-
-nicate with his family and loved ones, but not to
+not short ones. Does a person need to communicate with his family and loved ones, but not to
 establish a relationship with his Creator? Turning
 to Allah, remembering and remembering Him is
 the most vital need of the human soul. When a

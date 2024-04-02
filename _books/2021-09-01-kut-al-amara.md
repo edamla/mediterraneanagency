@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The Battle of Kut al-Amara is an epic in which
-13,300 British soldiers and commanders surren-
-dered unconditionally to the Ottoman army. This
+13,300 British soldiers and commanders surrendered unconditionally to the Ottoman army. This
 victory was achieved with the contribution of Arab
 militia supporting the Ottoman army. This battle,
 in which the British were humiliated, is the second
@@ -59,8 +58,7 @@ of Muslims against oppressive states around the
 world. Kut al-Amara is a historical battle where
 despite having different races and cultures, the
 Islamic ummah united and erected a monument of
-victory against the British. The salvation of Mus-
-lims, who still suffer great pains and are always
+victory against the British. The salvation of Muslims, who still suffer great pains and are always
 subjected to Crusader attacks, lies in this spirit of
 unity and solidarity. Therefore, the Battle of Kut
 al-Amara vividly demonstrates the importance of

@@ -48,11 +48,9 @@ Hazrat Uthman (radiyallahu anh) into a word or a
 book.
 We would like to commend Reverend M. Necati
 Bursalı for his work and state that this book will be
-beneficial to everyone, since saying it is not pos-
-sible and leaving it means that it is not possible to
+beneficial to everyone, since saying it is not possible and leaving it means that it is not possible to
 show them to anyone.
-A star from the sun of the Prophet, Hazrat Uth-
-man!.. Whether you run to the sun, make your
+A star from the sun of the Prophet, Hazrat Uthman!.. Whether you run to the sun, make your
 night a day, or look at this pole star, determine your
 direction!.
 <!--more--> 

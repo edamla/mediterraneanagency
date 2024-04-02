@@ -51,8 +51,7 @@ in a difficult situation at home and in its colonies.
 Kut’s silence in this way is a great military and
 political blow on behalf of the British. As a matter of
 fact, Britain’s reputation in the Orient was shaken.
-Six months after the defeat at Gallipoli, they suf-
-fered a new defeat here, dealing a great blow to
+Six months after the defeat at Gallipoli, they suffered a new defeat here, dealing a great blow to
 the influence of the British on the Islamic world.
 This victory will glorify Turkey’s influence in the
 eyes of Muslim communities, and the British will

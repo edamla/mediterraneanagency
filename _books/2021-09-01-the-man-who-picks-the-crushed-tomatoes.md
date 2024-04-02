@@ -52,8 +52,7 @@ even want to write that chapter himself. But after
 a shocking surprise, he is forced to complete the
 book.
 “The Man Who Chose the Bruised Tomato” is a
-compelling memoir-novel from the pen of the mas-
-ter writer Vehbi Vakkasoğlu, where you will find the
+compelling memoir-novel from the pen of the master writer Vehbi Vakkasoğlu, where you will find the
 sweet examples of Anatolian wisdom...
 <!--more--> 
 

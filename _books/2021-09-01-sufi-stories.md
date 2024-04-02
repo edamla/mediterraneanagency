@@ -43,18 +43,15 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 I hope that this work, which I wrote as “Nur
-Yarns, Sufi Stories from the Language of Guard-
-ians”, will bring a new sparkle to the eyes and
+Yarns, Sufi Stories from the Language of Guardians”, will bring a new sparkle to the eyes and
 show clusters of spiritual food. In this work, you will
-find hadith and wisdom, legen-ds from the Guard-
-ians, and diamond-colored pearls. Threads of Nur
+find hadith and wisdom, legen-ds from the Guardians, and diamond-colored pearls. Threads of Nur
 will weave fabrics of wisdom and silks of mana
 on the looms of the heart. Threads of Light will
 strike the plectrum of love on the string of our life
 instrument, and faith will drive the honey of love to
 our lips... Threads of Light will bundle time pearls
 into bundles and whisper into our hearts. The-se
-pearls, what pearls they are!.. We will see togeth-
-er...
+pearls, what pearls they are!.. We will see together...
 <!--more--> 
 

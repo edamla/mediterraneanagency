@@ -45,8 +45,7 @@ It was a March when people looked through
 doors once again. March of ‘65. He was born.
 Once you are born, It was inevitable to be dangled
 down from the hands of the midwife. What was not
-inevitable was being forgotten upside down. Com-
-pulsively... Since that day, everything has been
+inevitable was being forgotten upside down. Compulsively... Since that day, everything has been
 collected incessantly. Now, all that everything is
 presented to you: “Hiçbirşey”
 <!--more--> 

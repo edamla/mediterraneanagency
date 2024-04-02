@@ -45,14 +45,12 @@ sold: [] # 'AZ', 'TR'
 I am the mysterious sovereign of futile lands...
 I am the sultan of hearts consumed by longing...
 I am the exile of yearnings hungering for peace...
-I am the language of desolation... I am the rep-
-resentation of the helpless, the companion of the
+I am the language of desolation... I am the representation of the helpless, the companion of the
 lost, the final wish of those awaiting death, the
 night reflecting the longing for mornings of those
 who cannot reunite, and the wingless messenger
 named love... Who am I? I am never the one to say
-‘I am’ without meaning, easily spoken yet meta-
-phorically striking. Who am I? I am the bearer of
+‘I am’ without meaning, easily spoken yet metaphorically striking. Who am I? I am the bearer of
 centuries-old yearnings. I carry the burdens of a
 lifetime of ruin. I am the language of lamentation
 at the end of every deadlock. Who am I? I am the

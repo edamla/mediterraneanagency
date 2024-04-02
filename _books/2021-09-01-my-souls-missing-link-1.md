@@ -49,8 +49,7 @@ lost, the chain opens up, and all the healthy links
 fall apart. Nature does not tolerate emptiness. For
 every positive link lost, a negative one takes its
 place and settles in. As a person loses the links of
-their own soul, the negative behaviors and situa-
-tions of the people around them slowly start to fill
+their own soul, the negative behaviors and situations of the people around them slowly start to fill
 those voids. For example, when the link of wisdom
 is lost, it is replaced by the link of ignorance. If the
 link of self-confidence is lost, it is replaced by the

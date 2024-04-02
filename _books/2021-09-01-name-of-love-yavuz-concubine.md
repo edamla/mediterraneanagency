@@ -51,11 +51,9 @@ hostility!” He was giving the news of a great war.
 That concubine? Concubine with a fairy face,
 twig height, ruddy cheeks... The concubine whose
 dimples bloom when she speaks, and mares run
-high in her eyes when she is silent... From the mo-
-ment she entered the private room of the palace,
+high in her eyes when she is silent... From the moment she entered the private room of the palace,
 she was giving the news of a great love.
-One is a Sultan who rules the world, the oth-
-er is a Circassian girl who drinks the sherbet of
+One is a Sultan who rules the world, the other is a Circassian girl who drinks the sherbet of
 martyrdom with the love of that Sultan... And this
 magnificent work that has emerged. Every line is
 gripping... Every line is impressive...

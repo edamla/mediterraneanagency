@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 This book is the blissful capital of hearts, the light
-of the eyes of lovers, and a branch from the heav-
-ens of wisdom... It is such a branch that the lights
+of the eyes of lovers, and a branch from the heavens of wisdom... It is such a branch that the lights
 of truth burn at its ends...
 <!--more--> 
 

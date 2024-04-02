@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The sacrifice made by three friends for their home-
-land,
+The sacrifice made by three friends for their homeland,
 Cevher Nine’s patriotism and courage,
 The adventurous journey of Little Mischief on the
 road to the sultan,

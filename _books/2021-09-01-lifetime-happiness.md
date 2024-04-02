@@ -44,15 +44,13 @@ sold: [] # 'AZ', 'TR'
 ---
 Everyone needs happiness. Every man and
 woman want to be happy at home. This is quite
-natural. The important thing is to live life conscious-
-ly. As I receive calls from many countries abroad,
+natural. The important thing is to live life consciously. As I receive calls from many countries abroad,
 all the way to the United Sta-tes, there are also
 people calling from Turkey, even coming to visit me
 for advice on family problems. Before marriage, it
 is a proud beha-vior for our young girls to consult
 ideas and get information about a peaceful home,
 espe-cially in preparation for marriage. This work
-has been prepared in order to lead our young peo-
-ple who are in such a quest.
+has been prepared in order to lead our young people who are in such a quest.
 <!--more--> 
 

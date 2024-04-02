@@ -47,15 +47,11 @@ means leader. As in the front at the al-tar, it means
 the one who is at the beginning of every good
 deed.
 Here is Imam-i Azam Abu Hanifa: The judge, the
-judge who takes care of every problem of the peo-
-ple... The leader with his sharp mind and appear-
-ance... The educator who teaches by endearing,
+judge who takes care of every problem of the people... The leader with his sharp mind and appearance... The educator who teaches by endearing,
 who is wellversed in the scien-ce of psychology,
-and the scholar who knows science and its re-
-sources very well...
+and the scholar who knows science and its resources very well...
 Even the title of distinguished professor, whose
-scientific identity is known today, does not fully ex-
-press him. Abu Yusuf, one of the students trained
+scientific identity is known today, does not fully express him. Abu Yusuf, one of the students trained
 by Abu Hanifa, said: “I would give half of my wealth
 to a scholar council of Abu Hanifa.” How well this
 word expresses his divine pleasure in the lesson

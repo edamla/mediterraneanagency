@@ -42,17 +42,13 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-There have always been deviations from abso-
-lute truths in the history of humanity, and there
+There have always been deviations from absolute truths in the history of humanity, and there
 have always been people who are the epitome of
 virtue, who warn people against these deviations,
-and call them to the good, the truth and the beauti-
-ful.
-The absolute truth is Islam, which Allah is ple-
-ased with. It was handed down from the first
+and call them to the good, the truth and the beautiful.
+The absolute truth is Islam, which Allah is pleased with. It was handed down from the first
 human and the first prophet to our beloved Prophet
-like a torch. Prophets are exemplary people cho-
-sen by Allah in order to convey the divine message
+like a torch. Prophets are exemplary people chosen by Allah in order to convey the divine message
 to people. There is patience, tolerance, mercy and
 good news for people in their lives and struggles.
 For this reason, there is a necessity for Muslims to

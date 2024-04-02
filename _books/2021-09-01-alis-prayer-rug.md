@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Ali is the son of an alcoholic father. Just a few
-days before his 10th birthday, he sees his grand-
-mother in a dream. This elderly woman, who
+days before his 10th birthday, he sees his grandmother in a dream. This elderly woman, who
 passed away months ago, announces to him that
 she has chosen a ‘magnificent’ gift for his birthday
 and if he uses it, he will fly to Heaven. This gift is
@@ -60,10 +59,8 @@ Prophet Muhammad described prayer as one of
 the ‘three things he loved most’ in the world. He
 described it as the ‘light of his eyes’ or the ‘pillar of
 religion.’ In another saying, he referred to it as the
-‘ascension of believers.’ Like the journey expe-
-rienced during the Ascension, it is a ‘Burak’ that
-transports one beyond horizons, even to the heav-
-ens... With the book in your hands, Cüneyd Suavi
+‘ascension of believers.’ Like the journey experienced during the Ascension, it is a ‘Burak’ that
+transports one beyond horizons, even to the heavens... With the book in your hands, Cüneyd Suavi
 offers you ‘views of paradise’ from that wonderful
 journey. To all children and to everyone whose
 heart remains in ‘childlike purity’...

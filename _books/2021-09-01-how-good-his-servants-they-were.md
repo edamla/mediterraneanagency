@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The Sultan of the Prophets; He would pray and
-insist on worshiping all night long until his bless-
-ed feet swelled and he could not stand on them.
+insist on worshiping all night long until his blessed feet swelled and he could not stand on them.
 When he was asked the reason for this; “Shouldn’t
 I be a grateful servant?” he would answer.
 In this work; You will read the levels that the

@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Kösem Sultan, who saw that the enraged sol-
-diers who entered the harem were rushing to kill
+Kösem Sultan, who saw that the enraged soldiers who entered the harem were rushing to kill
 her sweet soul, first tried to get rid of this attack
 with the weapon of the word. When it didn’t work,
 she offered her money and wealth, her treasure
@@ -52,8 +51,7 @@ door and did not want to give time to her. During
 this dreadful time, every second of which seemed
 like an hour, there was only one road left; fight like
 a valiant...
-The chief killer of the incomparable Valide Sulta-
-na left her, thinking she was dead. They were just
+The chief killer of the incomparable Valide Sultana left her, thinking she was dead. They were just
 starting to move away from this bloody room when
 they noticed that she was groaning and breathing.
 The unlucky killers of this bloody night realized that

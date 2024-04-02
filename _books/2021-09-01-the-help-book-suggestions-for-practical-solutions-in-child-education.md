@@ -45,8 +45,7 @@ sold: [] # 'AZ', 'TR'
 find various case studies and various solu-tions
 from life that you can say like me/us, and feel the
 sincerity of the author.”
-Rukiye ÖZBAY, Child Development and Edu-cat-
-ion Teacher
+Rukiye ÖZBAY, Child Development and Edu-cation Teacher
 “The book not only provides theoretical and
 applied pedagogical information, but also offers
 psychological support to parents. This book can

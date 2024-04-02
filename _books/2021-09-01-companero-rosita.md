@@ -41,8 +41,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-While standing alone in the dark cell of the pris-
-on, as days turned into years, receiving no news
+While standing alone in the dark cell of the prison, as days turned into years, receiving no news
 from anyone, unable to talk to anyone, feeling as
 though the world had drifted far away, suddenly, a
 light appears, a voice, a glimmer of hope... A voice
@@ -56,15 +55,11 @@ that begins from the mountains of Peru, where
 she joined the guerrillas with the hope of showing
 a better future to underprivileged children, and
 extends all the way to Turkey... A road that you will
-read in one breath, woven with faith, love, resil-
-ience against torture, and the compassion of moth-
-erhood. It is the tale of “Compañero Rosita,” who
+read in one breath, woven with faith, love, resilience against torture, and the compassion of motherhood. It is the tale of “Compañero Rosita,” who
 discovers herself and transforms from a caterpillar
 into a butterfly, soaring into a different world.
-“Compañero Rosita” is a documentary novel, gen-
-tly and clearly narrated. It instills patience without
-losing excitement, defies hardships without impris-
-oning tears. The determined and steadfast Rosa
+“Compañero Rosita” is a documentary novel, gently and clearly narrated. It instills patience without
+losing excitement, defies hardships without imprisoning tears. The determined and steadfast Rosa
 has something to tell everyone.
 Zeynep Zelan
 <!--more--> 

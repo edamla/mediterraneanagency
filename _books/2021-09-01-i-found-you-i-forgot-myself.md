@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-One must be familiar and infatuated with some-
-one to such an extent that if their heart calls sand
+One must be familiar and infatuated with someone to such an extent that if their heart calls sand
 grains pearls, they should appear as pearls to
 their eyes. To remain constant on the journey of
 love and to find happiness, one must be willing to

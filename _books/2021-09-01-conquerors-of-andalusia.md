@@ -42,14 +42,12 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The Muslim conquerors, for the sake of spread-
-ing the word of God and jihad, had reached as
+The Muslim conquerors, for the sake of spreading the word of God and jihad, had reached as
 far as the Great Wall of China in the East and the
 shores of the Atlantic Ocean in the West. Perhaps
 the vast sea had hindered them, but there was
 a new land before them: Al-Andalus. Gibraltar,
-standing guard with the demeanor of a giant sen-
-tinel, seemed to beckon them through the mists.
+standing guard with the demeanor of a giant sentinel, seemed to beckon them through the mists.
 On a spring day, with the hoofprints of thousands
 of horses still fresh on the shore, the Conquerors
 had paused beneath the shadow of this immense
@@ -58,7 +56,6 @@ of Iberia. Visigoths, Franks, Western Romans, and
 Byzantines, await no longer. The Islamic Armies
 are coming. Tarik ibn Ziyad, Musa ibn Nusayr, Abd
 al-Aziz ibn Musa are coming. The conquerors are
-coming. They bring Islam to the dark ages of Eu-
-rope, they bring humanity, they bring justice...
+coming. They bring Islam to the dark ages of Europe, they bring humanity, they bring justice...
 <!--more--> 
 

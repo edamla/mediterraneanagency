@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 ---
 Bringing the Ottoman Empire to the peak of its
 power and splendor, reaching the gates of Vienna,
-Reshaping the world map by organizing uninter-
-rupted raids from Anatolia to the heart of Christian
+Reshaping the world map by organizing uninterrupted raids from Anatolia to the heart of Christian
 Europe, Turning the Medi-terranean into a “Turkish
 Lake”, Securing the Red Sea and the holy lands
 of MeccaMedina with the navy he established in

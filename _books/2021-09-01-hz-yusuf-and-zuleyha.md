@@ -47,8 +47,7 @@ legend; It is a beautiful story of a beautiful prophet.
 It is mentioned in the Qur’an as “the most beautiful
 of stories”.
 It’s beautiful, how beautiful it is!..
-A story full of love, excitement, longing, em-bar-
-rassment and wisdom... The tears of Prophet
+A story full of love, excitement, longing, em-barrassment and wisdom... The tears of Prophet
 Yaqub, the sufferings of Prophet Yusuf... That ball
 of light, the child being thrown into the well, then
 being sold as a slave for a little price, and then

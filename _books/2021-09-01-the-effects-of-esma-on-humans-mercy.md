@@ -41,9 +41,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-A modern life philosophy based on selfish emo-
-tions dominates today. From the countless inci-
-dents we reluctantly witness on news programs,
+A modern life philosophy based on selfish emotions dominates today. From the countless incidents we reluctantly witness on news programs,
 it’s evident that this philosophy doesn’t align with
 the human spirit. However, as descendants of a
 tradition that hesitates even to harm an ant, we
@@ -51,20 +49,17 @@ needed a life model built on compassion. This
 could only be possible through the reintroduction
 of the Beautiful Names (Esma’ül Hüsna) into our
 lives, leading to the development of an effective
-and universal personality portrait within the frame-
-work of Divine names.
+and universal personality portrait within the framework of Divine names.
 But have we missed the opportunity? No! Hatice
 Fahrunnisa Kaykı, who has been researching the
-Beautiful Names for years, addresses contempo-
-rary humanity by focusing on “mercy” in her work.
+Beautiful Names for years, addresses contemporary humanity by focusing on “mercy” in her work.
 By introducing the Beautiful Names, which form
 the fundamental model of “being moral with God’s
 morality,” in different dimensions, she examines
 how these names affect our individual and social
 development.
 This book will not only reveal our compassion for
-others but also unveil our self-compassion, contrib-
-uting significantly to our spiritual development as
+others but also unveil our self-compassion, contributing significantly to our spiritual development as
 the offspring of a fragile and delicate era.
 <!--more--> 
 

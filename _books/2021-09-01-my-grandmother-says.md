@@ -45,8 +45,7 @@ Our grandmother, our beloved grandmother...
 In fact, most of us had a grandmother by our
 side; The person who sits next to us, who is our
 refuge in times of trouble, who guides us with his
-life experience when we need guidance. He en-
-graved in our minds with the language of wisdom
+life experience when we need guidance. He engraved in our minds with the language of wisdom
 that today’s strangeness is not the work of the
 mind...
 Our grandmothers, grandfathers, aunts and
@@ -56,12 +55,10 @@ The grandmother in this book is exactly like
 that...
 Our author reaches out his hand from a corner of
 the book full of proverbs, idioms, old songs, new
-songs, books and photographs, just like our grand-
-mother did, and asks curiously: “Is the world still
+songs, books and photographs, just like our grandmother did, and asks curiously: “Is the world still
 the same?” This question takes us on a journey to
 completely different realms...
-Are you ready for a journey with our grand-
-mother, who is the embodiment of the bridge from
+Are you ready for a journey with our grandmother, who is the embodiment of the bridge from
 past to present?
 Those who hide the grandmother somewhere
 inside themselves... Please guide...

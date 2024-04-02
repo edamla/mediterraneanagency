@@ -42,15 +42,13 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Like a sparrow, our author continues to hop from
-branch to branch in this book as well. While read-
-ing the book, sometimes you find yourself in front
+branch to branch in this book as well. While reading the book, sometimes you find yourself in front
 of a spider’s web at the end of a thread, and other
 times, you are at the farthest point of a flat planet
 catching stars with a fishing line. Amidst all these
 diversities, our author does not neglect to dedicate
 himself to sparrows. After all, our fingers are like
-sparrows; they should be used in a manner appro-
-priate to their purposes, shouldn’t they? “When I
+sparrows; they should be used in a manner appropriate to their purposes, shouldn’t they? “When I
 feel that a word is missing from my life, my heart
 aches deeply. I’m sure you also experience this to
 some extent. Wouldn’t it be nice if someone could

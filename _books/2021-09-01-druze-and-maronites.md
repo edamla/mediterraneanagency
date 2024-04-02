@@ -43,16 +43,14 @@ sold: [] # 'AZ', 'TR'
 ---
 “The Law of Tradition, The Justice of the Otto-
 mans” offers an insightful exploration of Lebanon’s
-socio-political landscape in the 19th century, fo-
-cusing on the interactions between the Druze and
+socio-political landscape in the 19th century, focusing on the interactions between the Druze and
 Maronite sectarian groups within the framework of
 the Ottoman Legal System. The book examines
 the historical origins of conflicts between these
 groups and their enduring significance in global
 politics. Through an analysis of legal and judicial
 practices during Ottoman rule, it illuminates how
-justice was administered in Lebanon’s mountain-
-ous regions and highlights the role of sectarianism
+justice was administered in Lebanon’s mountainous regions and highlights the role of sectarianism
 in shaping societal dynamics. By delving into court
 cases that reached Istanbul and local judgments,
 the book provides a nuanced understanding of the

@@ -41,25 +41,20 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-This book challenges the validity of a secular-
-ization-centered historiography by addressing
+This book challenges the validity of a secularization-centered historiography by addressing
 existing theses on Islam and Secularism. In this
 “secularization narrative” secularism is perceived
-as a progressive and advanced stage. This narra-
-tive can only be evaluated by placing secularism
+as a progressive and advanced stage. This narrative can only be evaluated by placing secularism
 as an actor at the center of the story. But there are
 different perspectives from different corners of the
 world that reveal a variety of historical possibilities.
 Indicators measuring the level of secularization
-are all based on the visibility or invisibility of reli-
-gious symbols and practices. The author makes a
+are all based on the visibility or invisibility of religious symbols and practices. The author makes a
 psychological and political interpretive contribution
 to analyzes of secularization by drawing attention
-to possible secular motivations behind overtly reli-
-gious appearances or religious motivations that do
+to possible secular motivations behind overtly religious appearances or religious motivations that do
 not bear any visible religious symbols. Sometimes
-most religious behavior hides purely worldly mo-
-tives and intentions, and vice versa.
+most religious behavior hides purely worldly motives and intentions, and vice versa.
 Based on these contributions, the author argues
 that the processes of religiosity and worldliness
 should be understood from a cyclical perspective,

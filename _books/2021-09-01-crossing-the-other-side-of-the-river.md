@@ -46,11 +46,9 @@ but they never came. Many mothers waited for
 their sons. Many sisters waited for their brothers.
 Many wives waited for their husbands. Many girls
 waited for their lovers... But they never came.”
-In her collection of 19 stories, Samira Osmanbe-
-gović-Bakšić brings to light the mercilessness of
+In her collection of 19 stories, Samira Osmanbegović-Bakšić brings to light the mercilessness of
 war by narrating the firsthand experiences of those
-who lived through it. The stories shed light on as-
-pects of the war that we are not familiar with, such
+who lived through it. The stories shed light on aspects of the war that we are not familiar with, such
 as children in orphanages being sold to Italians for
 adoption or Bosnian prisoners of war ending up in
 Serbian Hospitals, where they faced torture instead

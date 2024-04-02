@@ -44,15 +44,13 @@ sold: [] # 'AZ', 'TR'
 Social psychology and political psychology work
 with a very different subject and methodological
 knowledge, which do not aim to understand the
-mental state and disorders of society. While psychi-
-atry has theories that take into account the social
+mental state and disorders of society. While psychiatry has theories that take into account the social
 aspects of the causes and treatments of mental
 illnesses, it focuses primarily on the individual (a
 single person) and his disorders. Therefore, in this
 context, the field that we can call “social mentality”
 is the subject of all human sciences and has not
-yet become the subject of any science. This defi-
-ciency is precisely why the question “the current
+yet become the subject of any science. This deficiency is precisely why the question “the current
 state of the population’s mental health or whether
 it is deteriorating” is so frequently asked in friendly
 conversations among mental health professionals
@@ -60,11 +58,9 @@ and in the media.
 Of course, the fact that scientific knowledge does
 not yet have a legitimate place does not mean that
 the need for knowledge of human group behavior
-has been suspended. Many scientists and think-
-ers are trying to produce information about human
+has been suspended. Many scientists and thinkers are trying to produce information about human
 group behavior, as if to fill this gap. The purpose of
-writing this book lies precisely at this point; To em-
-phasize that one of the defining features of human
+writing this book lies precisely at this point; To emphasize that one of the defining features of human
 existence is “group existence”, that this feature of
 human beings is discussed separately in many
 branches of the academic world, and that a holistic

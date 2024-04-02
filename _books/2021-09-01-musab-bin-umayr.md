@@ -45,12 +45,10 @@ sold: [] # 'AZ', 'TR'
 Mus’ab was born into a wealthy family in Mecca,
 the mother of cities. This handsome and delicate
 young man of the city was illuminated by the elixir
-he took from the sun of truth in the month of proph-
-ecy in a very difficult time. He walked on the path
+he took from the sun of truth in the month of prophecy in a very difficult time. He walked on the path
 of faith and wisdom, following the Prophet, the
 source of truth, and always on thorns. Although he
 was impoverished, he did an outstanding service in
-laying the foundations of Islam, especially in Medi-
-na.
+laying the foundations of Islam, especially in Medina.
 <!--more--> 
 

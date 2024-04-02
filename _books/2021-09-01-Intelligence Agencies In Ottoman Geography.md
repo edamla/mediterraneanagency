@@ -50,16 +50,14 @@ the first qibla of Muslims. With the conquest by Hz.
 Omar (may Allah be pleased with him), it became
 the sacred city entrusted to all Muslims. Why is
 the year 2017, declared as the Year of Jerusalem,
-important? Because: it marks the 1380th anniver-
-sary of the conquest of Jerusalem by the Islamic
+important? Because: it marks the 1380th anniversary of the conquest of Jerusalem by the Islamic
 Army Commander sent by Hz. Omar, Abu Ubaidah
 ibn al-Jarrah, in 637; the 830th anniversary of
 the liberation of the city from the Crusaders by
 the Conqueror of Jerusalem, Sultan Saladin, in
 1187; the 500th anniversary of the incorporation of
 Jerusalem into Ottoman rule by the First Ottoman
-Caliph, Sultan Selim I, in 1517; the 100th anni-
-versary of the British occupation of Jerusalem on
+Caliph, Sultan Selim I, in 1517; the 100th anniversary of the British occupation of Jerusalem on
 December 9, 1917, during the First World War; and
 the 50th anniversary of Israel declaring Jerusalem
 as its capital by occupying the entire city on June
@@ -70,8 +68,7 @@ significantly influenced the outcome of this war?
 Which commanders fought heroically, and which
 ones led to defeat on the battlefields? You will
 find the answers to all these questions in the book
-“Jerusalem 1917”. You will learn about the sacri-
-fices of unnamed heroes and the unimaginable
+“Jerusalem 1917”. You will learn about the sacrifices of unnamed heroes and the unimaginable
 hardships of the Gaza-Jerusalem-Palestine front,
 and you will remember our heroic ancestors with
 mercy.

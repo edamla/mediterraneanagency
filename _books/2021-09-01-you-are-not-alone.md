@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The issue of the headscarf, which is occasion-
-ally forced into Turkey’s agenda, has been one of
+The issue of the headscarf, which is occasionally forced into Turkey’s agenda, has been one of
 the most talked-about and debated issues in our
 country over the past half century. In reality, it is a
 fundamental religious issue and the right to wear
@@ -55,8 +54,7 @@ as they wish, the issue is still being reheated and
 brought back into the forefront by some. Master
 writer Üstün İnanç has extraordinarily portrayed
 this issue in his novel “You Are Not Alone” and
-extensively addressed the topic. The film ad-
-aptation of the novel, which has garnered great
+extensively addressed the topic. The film adaptation of the novel, which has garnered great
 interest from our society, has also been brought
 to the silver screen by Mesut Uçakan, reaching
 a wide audience. The novel, revolving around a
@@ -66,8 +64,7 @@ and intellectual struggles between Western culture
 and Islamic civilization of our past half-century.
 “You Are Not Alone,” brought to our cultural life by
 Mihrabad Publications’ 32nd edition, is an excellent
-novel that has the power to eliminate the prema-
-ture judgments of many people who have fallen
+novel that has the power to eliminate the premature judgments of many people who have fallen
 into different views.
 <!--more--> 
 

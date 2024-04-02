@@ -46,21 +46,16 @@ International competition in the field of education
 is intense. In this competitive process, states that
 understand what influences the drive to work at a
 cognitive level are working towards the cultivation
-of strong-willed minds. In this context, psychol-
-ogists and neurologists have developed various
+of strong-willed minds. In this context, psychologists and neurologists have developed various
 practices by taking into account the dynamics of
-the brain to sustain willpower, which can be ob-
-served both cognitively and physically.
-For the integration of willpower with the process-
-es of education, significant responsibilities fall on
+the brain to sustain willpower, which can be observed both cognitively and physically.
+For the integration of willpower with the processes of education, significant responsibilities fall on
 parents, siblings, friends, teachers, and school
 administrators. Thus, the education process can
 reach its deserved point for both the system and
 the teacher and the student.
-This book provides guidance to parents, teach-
-ers, and students in establishing and strengthening
-willpower. It emphasizes that willpower is a learn-
-able and developable quality, and includes various
+This book provides guidance to parents, teachers, and students in establishing and strengthening
+willpower. It emphasizes that willpower is a learnable and developable quality, and includes various
 activities and practices for emotional, cognitive,
 and behavioral control.
 <!--more--> 

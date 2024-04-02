@@ -58,8 +58,7 @@ crushing on someone, standing up to the school
 gangs...
 And all the while, her diary is playing a magical
 game with her! How so?
-I won’t spoil it! You’ll have to see for yourself. Defi-
-nitely give it a read!
+I won’t spoil it! You’ll have to see for yourself. Definitely give it a read!
 Because fun is guaranteed!
 <!--more--> 
 

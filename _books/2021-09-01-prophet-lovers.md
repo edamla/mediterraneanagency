@@ -46,15 +46,13 @@ He is so beautiful that he will be the Beloved of
 the Allah of the worlds... The whole universe was
 created for his sake. All the Prophets received the
 light of prophethood from him. His nûr illuminated
-hearts, which were blinded in the dungeon of blas-
-phemy and brutality...
+hearts, which were blinded in the dungeon of blasphemy and brutality...
 He is our greatest intercessor in the hereaf-ter,
 giving glad tidings of heaven to believers, bringing
 mercy, and showing the way to Allah.
 He is the most beloved of the Allah of the
 Worlds... In all his attributes... He is unique in
 everything that can be found in human bein-gs, in
-beauty, maturity, knowledge, gentleness, compas-
-sion and mercy...
+beauty, maturity, knowledge, gentleness, compassion and mercy...
 <!--more--> 
 

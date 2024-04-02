@@ -50,15 +50,13 @@ good news from the borderlands, floods from the
 valleys, fires from the forest villages, outbreaks of
 diseases, grievances, oppressions, celebrations,
 and weddings; epics circulated from hand to hand
-like historical documents. If culture is one of the el-
-ements that make nations, then folk poets were the
+like historical documents. If culture is one of the elements that make nations, then folk poets were the
 caravans carrying culture. The state of the people,
 the condition of the country, was inquired of them,
 heard through the strings of the bağlama. “From
 the Strings of the Bağlama: Anatolia in the Words
 of the Poets” was written to share what was heard
 from the saz of the lovers with you. Let’s become
-companions through the words of the lovers to-
-gether.
+companions through the words of the lovers together.
 <!--more--> 
 

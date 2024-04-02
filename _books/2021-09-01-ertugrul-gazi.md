@@ -46,21 +46,18 @@ The gates of Anatolia were opened to us with
 the victory of Malazgirt by Alparslan. Among those
 who entered through this gate was the Kayı Tribe.
 Under the leadership of Ertuğrul Gazi, the tribe
-had completed its search for a place and estab-
-lished its tents in Söğüt and Domaniç. Ertuğrul,
+had completed its search for a place and established its tents in Söğüt and Domaniç. Ertuğrul,
 who gained the appreciation of Sultan Alaeddin
 Keykubat of the Anatolian Seljuk State, fought with
 Mongol forces on one side, Byzantine forces and
 the Knights Templar on the other, and internally
-thwarted centers of betrayal with his superior politi-
-cal acumen. Ertuğrul Gazi, who frequently met with
+thwarted centers of betrayal with his superior political acumen. Ertuğrul Gazi, who frequently met with
 the spiritual leaders of the time and received their
 prayers, laid the foundation of the Ottoman Empire,
 which would reign for 624 years and continue with
 justice and fairness across three continents and
 seven climates. Ertuğrul Gazi, with both his devout
-personality and his courage and determination, in-
-spired the Turkmen tribes and became a beacon of
+personality and his courage and determination, inspired the Turkmen tribes and became a beacon of
 hope for everyone. As you read his work, you will
 witness the resilience, steadfastness, efforts, and
 courage of a founding leader, and you will witness

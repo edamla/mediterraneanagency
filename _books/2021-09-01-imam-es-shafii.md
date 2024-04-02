@@ -44,14 +44,11 @@ sold: [] # 'AZ', 'TR'
 ---
 The spread of Islam to various regions brought
 with it new issues and questions to be answered.
-With the completion of the revelation of the Qu-
-ran and the death of our Prophet (pbuh), many of
+With the completion of the revelation of the Quran and the death of our Prophet (pbuh), many of
 these questions emerged that were not explicitly
 addressed either in the Quran or the hadiths.
-In response to this challenge, scientists have de-
-voted much of their time to solving these problems.
-Their efforts aimed not only to respond to contem-
-porary problems but also to formulate principles
+In response to this challenge, scientists have devoted much of their time to solving these problems.
+Their efforts aimed not only to respond to contemporary problems but also to formulate principles
 and methodologies that would guide Muslims in the
 centuries to come.
 This novel deals with the life of Imam Shafii,

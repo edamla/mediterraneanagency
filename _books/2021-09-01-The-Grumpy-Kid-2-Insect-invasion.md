@@ -41,32 +41,23 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/asik-suratli-cocuk-2-bocek-isti
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Hadi hadi
-bekleme aç ve okumaya başla!
-Gıcırtılı Kasaba’ya bahar geldi. Herkes
-neşe içinde gülücükler saçıyor. Ama bu
-kadar neşenin içinde bile neşelenmeyecek, asık
-suratı gülmeyecek kim var?
-Evet tabi ki Mert!
-Çünkü ya bahar polenlerinden biri burnundan içeri
-girip, kafasının içinde hiç durmadan bir o yana bir bu yana
-savrularak onu hiç uyutmazsa??? Sanırım dünyada bundan
-korkunç başka bir şey olmaz sanıyorsun? Ama yanıldığını
-söylemeliyim! Çünkü her gece kasabadaki tahıllar “kim olduğu
-bilinmeyen” hırsızlar tarafından çalınmaya başlanıp, insanlar
-istemsiz bir şekilde uykuya dalıyorsa...
-Arkadaşların, annen, baban, kardeşlerin...
-İşte bu gerçekten korkunç!
-Peki ya bunun sebebini öğrenebilmek için korkunç madene
-giren korkunç böcekleri takip etmek gerekiyorsa???
-Tamam tamam, korkma, bu işi çözmek tabi ki cesurların işi!
-Senin mi? Eh kanıtla bakalım! Bu madene girmek öyle kolay
-değil. Benden söylemesi, sessizce Mert, Zek, Nehir ve
-yeni kız Fındık’ın peşinden gidebilirsin...
-Ama çıt çıkartma ki, böcek istilasına yakalanma,
 
-ŞİİİİİİİİİİİİŞŞŞŞŞT!
+Come on, come on
+Don't wait, open up and start reading!
+Spring has arrived in Creaky Town. Everyone
+is spreading smiles with joy. But even amidst all this cheer, is there anyone who won't be cheered up, whose face won't crack a smile?
+Yes, of course, it's Mert!
+Because what if one of those spring pollens enters his nose
+and keeps bouncing around inside his head, not letting him sleep for a moment??? You might think there's nothing more terrible than that in the world, right? But I must tell you, you're wrong! Because if every night the grains in town start getting stolen by "unknown" thieves, and people involuntarily fall asleep...
+Your friends, your mom, dad, siblings...
+Now, that's truly terrifying!
+And what if to find out the reason for this, you have to follow the terrifying bugs into the terrifying mine???
+Okay okay, don't be scared, solving this is definitely the job for the brave!
+Are you up for it? Well, let's see some proof! Getting into that mine isn't easy at all. Just so you know, you can quietly follow Mert, Zek, Nehir, and the new girl, Fındık...
+But don't make a sound, or you might get caught in a bug invasion,
 
-Bu kitap böceklerle DOLUUUUUU!!!
+SHHHHHHHHHH!
+
+This book is FILLED WITH BUGS!!!
 <!--more--> 
 

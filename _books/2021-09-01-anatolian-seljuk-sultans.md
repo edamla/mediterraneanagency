@@ -51,8 +51,7 @@ Apart from the fratricidal conflicts of the Anatolian
 Seljuk State, it narrates the rise of Baba Alaaddin
 Keykubad and the pains of its downfall with the
 manipulation of his son, II. Gıyaseddin Keyhüsrev,
-by palace intrigues. Written by Muhsin İlyas Sub-
-aşı, one of our country’s renowned authors, this
+by palace intrigues. Written by Muhsin İlyas Subaşı, one of our country’s renowned authors, this
 work in your hands, staying faithful to historical
 truths, sheds light on the hidden aspects of our
 history, providing not only moments of pride and
@@ -60,7 +59,6 @@ honor but also thought-provoking and sometimes
 chilling insights. This piece, featuring intrigues
 spun by the state bureaucracy that disregards the
 future of the state for its own gain, alongside loves,
-passions, delivers objective information in a novel-
-istic style.
+passions, delivers objective information in a novelistic style.
 <!--more--> 
 

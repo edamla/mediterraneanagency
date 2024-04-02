@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-This fire within me is consuming me every mo-
-ment. I am melting, as if my conscience is inflicting
+This fire within me is consuming me every moment. I am melting, as if my conscience is inflicting
 the agony of the mistake I made... It hurts... It hurts
 so much that while I am alive, it feels like my flesh
 is being sliced apart... I say to myself, ‘How can I
@@ -53,17 +52,13 @@ How can I repay the rights of others when death
 knocks on my door and the moment of judgment
 arrives? I... I cannot understand... How could I
 make such a mistake? How could I be so blind?
-How could I be so thoughtless... I am so remorse-
-ful! Oh Allah! This weak servant cannot turn back
+How could I be so thoughtless... I am so remorseful! Oh Allah! This weak servant cannot turn back
 time, surely... But is there no way for them to
 become as if they never committed the mistake?
 Show me a way out... How can I rid myself of this
-torment of conscience? I don’t even have the cour-
-age to commit the same mistake again... Besides...
+torment of conscience? I don’t even have the courage to commit the same mistake again... Besides...
 I have no hope left for myself... That’s why, how will
 I extinguish this fire now? How will I undo what I
-have done? I have no idea... I am constantly con-
-suming my life and breaths with the same ques-
-tion: ‘Tell me, O heart, are you remorseful?’
+have done? I have no idea... I am constantly consuming my life and breaths with the same question: ‘Tell me, O heart, are you remorseful?
 <!--more--> 
 

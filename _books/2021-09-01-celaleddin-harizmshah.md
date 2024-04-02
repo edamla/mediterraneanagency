@@ -46,14 +46,11 @@ The Khwarazmshahs, the political heirs of the
 Great Seljuk Empire, were a vast Turkic state in
 the 12th century, stretching from the Aral Sea to
 the Indian Ocean and from the Caucasus to the
-Syr Darya River. Genghis Khan, preparing to in-
-vade Khwarazm by burning and destroying it, was
+Syr Darya River. Genghis Khan, preparing to invade Khwarazm by burning and destroying it, was
 getting ready to invade Khurasan, Iran, Iraq, and
-Anatolia. Left with only a single sword of sover-
-eignty from his father Sultan Muhammad, the last
+Anatolia. Left with only a single sword of sovereignty from his father Sultan Muhammad, the last
 lion of Khwarazm, Jalal al-Din, reestablished the
-state and stood before the Mongols like a moun-
-tain. Jalal al-Din, a sultan who was so sacrificial
+state and stood before the Mongols like a mountain. Jalal al-Din, a sultan who was so sacrificial
 for jihad that he would send his mother, wife,
 and children to death when necessary, so brave
 that he would engage in one-on-one combat with
@@ -62,8 +59,7 @@ forgive those who betrayed him, spent his life from
 Khurasan to Anatolia on horseback, covering a
 vast geography. His aim was to reunite Muslims
 and stand together against the impending Mongol
-threat. In this book, you will read about the cou-
-rageous and heroic life of the great Turkic ruler
+threat. In this book, you will read about the courageous and heroic life of the great Turkic ruler
 Jalal al-Din Khwarazmshah, filled with examples of
 courage and bravery.
 <!--more--> 

@@ -48,8 +48,7 @@ greatest sultan, Alaaddin Muhammed. At the age
 of 21, he succeeded to the throne in place of his
 father, who was defeated by Genghis Khan and
 retreated and his hometown was devastated. He
-had withdrawn by writing hundreds of epics be-
-tween India and Diyarbekir and had established a
+had withdrawn by writing hundreds of epics between India and Diyarbekir and had established a
 new state with his conquests in Eastern Anatolia,
 Georgia and Azerbaija while losing another state.
 Genghis Khan died before he could capture him

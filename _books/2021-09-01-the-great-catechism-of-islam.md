@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-This work was created by simplifying the pre-
-cious work of the deceased Ömer Nasuhi Bilmen,
+This work was created by simplifying the precious work of the deceased Ömer Nasuhi Bilmen,
 the retired head of Religious Affairs from Fatih
 Dersiam, called “The Great Islamic Catechism”. As
 it is known, the catechism; the fard-i ayn that every

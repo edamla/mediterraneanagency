@@ -43,21 +43,17 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The journey of a temple that has survived
-through the 17th century and reached our pres-
-ent day is equipped with a struggle against time.
+through the 17th century and reached our present day is equipped with a struggle against time.
 After the first two were destroyed in earthquakes,
-Hagia Sophia, rebuilt for the third time, has man-
-aged to maintain its central role in humanity’s
+Hagia Sophia, rebuilt for the third time, has managed to maintain its central role in humanity’s
 sense of refuge until today. The fate of such a
 monument, which opened on December 27, 537,
 and witnessed significant events for 1483 years
 until our present day, has not been the same as
 that of the nation that created it. Because while
-the Byzantine Empire that built it has fallen, Ha-
-gia Sophia has not. Alongside the extraordinary
+the Byzantine Empire that built it has fallen, Hagia Sophia has not. Alongside the extraordinary
 events that occurred with the birth of our Prophet
-in 571, the dome of Hagia Sophia was also shak-
-en and cracked by an earthquake. Finally, with
+in 571, the dome of Hagia Sophia was also shaken and cracked by an earthquake. Finally, with
 the announcement of “Ni’mel Ceyş,” the conquest
 took place, and Hagia Sophia was illuminated with
 the word of unity. This book, which addresses the

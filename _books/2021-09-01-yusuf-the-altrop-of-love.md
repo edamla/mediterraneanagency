@@ -53,7 +53,6 @@ passion; His father loved him dearly, they threw
 him into the well. Zuleikha fell in love with him, they
 imprisoned her. He only loved his LORD, That’s
 true LOVE; He placed the throne of sovereignty
-beneath his feet and made him the most distin-
-guished Statesman in the world!
+beneath his feet and made him the most distinguished Statesman in the world!
 <!--more--> 
 

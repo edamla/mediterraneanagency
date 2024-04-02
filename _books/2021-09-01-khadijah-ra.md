@@ -47,8 +47,7 @@ first mother of Islam. She is the mother who is the
 greatest example of an Islamic woman. She was
 brought up in such an era and time that the world
 was on fire that day.
-The brooks of the world were filled with polythe-
-ists, and sin and immorality became fashionable.
+The brooks of the world were filled with polytheists, and sin and immorality became fashionable.
 Bloody feet were walking overhead, innocents
 were moaning.
 You will think as you read the life of the first wife

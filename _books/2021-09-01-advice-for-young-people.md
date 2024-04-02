@@ -42,23 +42,17 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 This work, which contains the two treatises “O
-Son” and “Ten Rules” by Imam al-Ghazali, ad-
-dresses the establishment of a society composed
-of individuals adorned with moral virtues and dis-
-cusses the things to be done and avoided.
+Son” and “Ten Rules” by Imam al-Ghazali, addresses the establishment of a society composed
+of individuals adorned with moral virtues and discusses the things to be done and avoided.
 “O Son,” focusing more on the application rather
-than theoretical ethics, emerged as a sincere initia-
-tive of one of Imam al-Ghazali’s students who was
-concerned about the afterlife, and it received im-
-mense attention from all circles. The main reason
+than theoretical ethics, emerged as a sincere initiative of one of Imam al-Ghazali’s students who was
+concerned about the afterlife, and it received immense attention from all circles. The main reason
 for this interest is undoubtedly his addressing of “O
-son!” which actually encompasses all young peo-
-ple, and young readers find much of themselves in
+son!” which actually encompasses all young people, and young readers find much of themselves in
 the work.
 Similarly, the treatise named “Ten Rules” outlines
 the indispensable principles that a believer must
-adhere to, providing almost a formula that facili-
-tates the trade for the afterlife for those who come
+adhere to, providing almost a formula that facilitates the trade for the afterlife for those who come
 to the world.
 Despite being of a size that can be easily read,
 this work holds great significance as it contains

@@ -51,8 +51,7 @@ on the verge of collapse, for 33 years with great
 difficulty? Furthermore, why isn’t Osman Gazi,
 who established an order prioritizing humanity and
 subdued the mighty Byzantine Empire, promoted
-enough out of fear of being taken as an exam-
-ple? In this work, which prioritizes privileges and
+enough out of fear of being taken as an example? In this work, which prioritizes privileges and
 highlights the truth instead of Western-planned
 history, we’ve said what couldn’t be said! While
 doing this, we have stayed away from the class of

@@ -43,22 +43,18 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 “In your hand, in your tongue, in your heart,
-you’re the leader... You’re the age when Fatih con-
-quered Istanbul!” - Arif Nihat Asya
-Just as the durability of a building lies in its foun-
-dation, the secret to Fatih’s conquest lies in the
+you’re the leader... You’re the age when Fatih conquered Istanbul!” - Arif Nihat Asya
+Just as the durability of a building lies in its foundation, the secret to Fatih’s conquest lies in the
 education he received during his childhood. The
 book “How Did Fatih Become Fatih?” was written
 to share with the readers the secret of a great ruler
 like Fatih, a world-renowned statesman. What are
 the secrets behind Fatih’s upbringing? How did
-Prince Mehmed transform into Fatih? Who con-
-tributed to Fatih’s upbringing? What processes did
+Prince Mehmed transform into Fatih? Who contributed to Fatih’s upbringing? What processes did
 he go through until becoming Fatih? What sources
 nourished him on the path to conquest? What were
 the secrets of his success in conquest? What were
-Fatih’s leadership codes? Can we raise today’s Fa-
-tih’s? You will find the answers to these questions
+Fatih’s leadership codes? Can we raise today’s Fatih’s? You will find the answers to these questions
 in our book “How Did Fatih Become Fatih?”.
 <!--more--> 
 

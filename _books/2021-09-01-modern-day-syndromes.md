@@ -53,15 +53,12 @@ Which one of us doesn’t lament about a cluttered
 mind and the struggle to gather their thoughts?
 Which one of us doesn’t experience the stress of
 Monday’s workday already on Sunday?
-Certainly, these questions alone cannot fully indi-
-cate the extent of the modern time syndrome, but
+Certainly, these questions alone cannot fully indicate the extent of the modern time syndrome, but
 could our answers point to the fact that we might
 be caught in its grip?
 What are the “Modern Time Syndromes” brought
 into our daily lives by the speed of technological
-advancements, the chaos of city life, the bombard-
-ment of communication tools, the variety of work-
-ing styles, the allure of new generation media, the
+advancements, the chaos of city life, the bombardment of communication tools, the variety of working styles, the allure of new generation media, the
 pressures of social environments, and many other
 reasons?
 <!--more--> 

@@ -44,15 +44,13 @@ sold: [] # 'AZ', 'TR'
 ---
 It’s the story of Giray, who always dreamed of
 being known as the best forward in the world when
-he was young and of being a son who didn’t em-
-barrass his family. By the age of 26, when he looks
+he was young and of being a son who didn’t embarrass his family. By the age of 26, when he looks
 back, he sees that he has achieved a large part
 of his dreams. At least he is the forward of a club
 that is at the bottom of the amateur league, and his
 father still hasn’t disowned him.
 However, when he meets Sara one day while
-spending time with his friends Ismail and Toner, sit-
-ting under an electric pole eating sunflower seeds,
+spending time with his friends Ismail and Toner, sitting under an electric pole eating sunflower seeds,
 not only his dreams but his whole life changes.
 And Giray’s real story begins from then on. Is it a
 platonic love story for him? Or will it end up being a
@@ -62,8 +60,7 @@ living in this house?”
 The story of Giray and Sara is a love story that
 will outshine Kerem and Aslı, Leyla and Mecnun,
 and Ciguli and Binnaz. Alongside adventure, love,
-football, comedy, and many other topics are cov-
-ered in this book...
+football, comedy, and many other topics are covered in this book...
 It’s the perfect time to start “Kontrpiye” so you
 won’t miss out!
 <!--more--> 

@@ -43,10 +43,8 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The Göktürks initiate a tremendous struggle for
-independence, aiming to revive their fallen cus-
-toms and rebuild their collapsed cities from the
-dusty pages of history. As all signs of the Drag-
-on Year point towards independence, the brave
+independence, aiming to revive their fallen customs and rebuild their collapsed cities from the
+dusty pages of history. As all signs of the Dragon Year point towards independence, the brave
 people of the Karluk tribe have sworn to stand
 by anyone who rebels against China. In the time
 span from Kürşad’s rebellion to Aşina Fenzi, there

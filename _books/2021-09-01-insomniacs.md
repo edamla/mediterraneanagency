@@ -42,21 +42,16 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The Imaginator, a miraculous device that opens
-the way for the rulers to sustain their power, offer-
-ing people paradise on a silver tray in every home.
-And two groups: those who connect to the Imagi-
-nator and sleep, and the sleepless...
+the way for the rulers to sustain their power, offering people paradise on a silver tray in every home.
+And two groups: those who connect to the Imaginator and sleep, and the sleepless...
 In this book, DR. presents a dystopian view of
 Istanbul to the reader.
-Two sleepless individuals, Sadık and retired phys-
-ics teacher Orhan, are searching for the meaning/
+Two sleepless individuals, Sadık and retired physics teacher Orhan, are searching for the meaning/
 meaninglessness of life.
 Uykusuzlar (The Sleepless), a novel written 20
-years before today when VR goggles started open-
-ing the doors to a new world and moving life into
+years before today when VR goggles started opening the doors to a new world and moving life into
 the metaverse universe, describes the near future.
-Combining a strong plot with powerful predic-
-tions, how about looking at the 21st century’s
+Combining a strong plot with powerful predictions, how about looking at the 21st century’s
 Turkey from DR.’s perspective?
 <!--more--> 
 

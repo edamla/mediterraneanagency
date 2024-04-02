@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Mustafa Necati Bursalı, with his poetic style and
-sincere language, tells us about the great per-
-sonalities who are in the blessed pages of Islamic
+sincere language, tells us about the great personalities who are in the blessed pages of Islamic
 history and who have shaped their lives with the
 love of Allah.
 <!--more--> 

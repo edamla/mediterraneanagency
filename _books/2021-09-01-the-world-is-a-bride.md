@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 “O you who have imprisoned yourselves within
 your egos! O slaves and servants! O blind and
 deaf! O worshipers of the world! O those who carry
-their coffins on the backs of their camels! O wor-
-shippers of wealth and possessions! O those who
+their coffins on the backs of their camels! O worshippers of wealth and possessions! O those who
 have not yet awakened from their slumber! On the
 night that connects Thursday to Friday, there is
 a grand wedding in front of Hacı Ağa’s mansion!

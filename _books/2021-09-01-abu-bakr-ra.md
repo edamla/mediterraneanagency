@@ -56,8 +56,7 @@ the personality of every person who learned the
 religion of Islam from two world servers, and you
 will immediately try to live it. This means that every
 book teaches people somthing according to their
-own level, but it cannot give the secrets of happi-
-ness of life in definite lines. But those like this book
+own level, but it cannot give the secrets of happiness of life in definite lines. But those like this book
 should be excluded from this rule.
 <!--more--> 
 

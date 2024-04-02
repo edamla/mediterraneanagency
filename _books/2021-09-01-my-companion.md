@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 ---
 My road companion draws attention to the world
 of conversation that needs to be experienced. It
-offers the hope of rediscovering lost values, sug-
-gesting that what has been lost can be found again
+offers the hope of rediscovering lost values, suggesting that what has been lost can be found again
 where it was lost. It says that to find goodness and
 beauty, one must search tirelessly, day and night,
 regardless of the season. Negativity and conflicts
@@ -54,12 +53,10 @@ throughout the novel, you will stay away from
 them...
 Positive relationships between men and women,
 the struggles of those who cannot have children,
-adventurous caravan life, places visited, impres-
-sions gained, stories of people encountered on the
+adventurous caravan life, places visited, impressions gained, stories of people encountered on the
 road, readings, conversations held morning and
 night, are narrated in the progressing time from
-yesterday to today, intertwined with the most deli-
-cate emotional expression, the folk songs.
+yesterday to today, intertwined with the most delicate emotional expression, the folk songs.
 My road companion says: “Those who find peace
 and happiness are those who know how to live in
 the world as travelers.”

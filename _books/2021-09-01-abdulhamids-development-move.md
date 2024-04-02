@@ -49,10 +49,8 @@ in military, commercial, health, transportation,
 education, culture, industry, and energy sectors.
 These reforms stimulated economic growth and
 placed the Ottoman Empire among the top 10
-fastest-growing economies in the world. The insti-
-tutions he established laid the foundations of the
+fastest-growing economies in the world. The institutions he established laid the foundations of the
 Republic of Turkey. If he had not been hindered, he
-would have implemented more projects and ad-
-vanced the Ottoman civilization further.
+would have implemented more projects and advanced the Ottoman civilization further.
 <!--more--> 
 

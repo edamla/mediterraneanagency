@@ -42,13 +42,11 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-What is prophethood? Who is called a proph-
-et? What do prophets need? What are prophets
+What is prophethood? Who is called a prophet? What do prophets need? What are prophets
 advocating? What are their style and manner?
 What are their characteristics and the messages
 they want to convey to people? Have prophets
-given symbolic messages for scientific and tech-
-nological advancements? How are the stories of
+given symbolic messages for scientific and technological advancements? How are the stories of
 prophets presented in the Qur’an? What wisdom
 and lessons need to be drawn from these stories?
 How did prophets pray? I leave you alone with the

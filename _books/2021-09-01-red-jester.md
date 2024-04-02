@@ -49,9 +49,7 @@ harbors numerous superstitions, the color of your
 chromosome determines who you are and where
 you live. And whether you’ll survive...
 If you can survive!
-The Crimson Jester series portrays an epic ad-
-venture and an emotional love story set in an envi-
-ronment of legendary battles, tragic fractures, and
+The Crimson Jester series portrays an epic adventure and an emotional love story set in an environment of legendary battles, tragic fractures, and
 merciless villains, where humble heroes emerge.
 But there’s also an inspiring story about change in
 the heart. A kind of inspiration that resonates with

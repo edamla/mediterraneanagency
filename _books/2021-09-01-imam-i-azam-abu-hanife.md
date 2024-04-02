@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Stars receive their light from the Sun. They ap-
-pear at night and disappear during the day. They
+Stars receive their light from the Sun. They appear at night and disappear during the day. They
 adorn the sky and bring light to darkness.
 There are earthly stars that derive their light from
 the Sun of humanity. These earthly stars radiate

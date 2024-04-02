@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Gone are the days of old children; today’s chil-
-dren are different. They seem to have grown up
+Gone are the days of old children; today’s children are different. They seem to have grown up
 in another realm and then casually drop by our
 world, asking, “Is there anything new?” It’s safe to
 say, our task is challenging. I’m not sure how to
@@ -52,7 +51,6 @@ their rights. However, as an architect, I plan to do
 my part by laying a solid foundation. Therefore, I
 want to introduce our most precious beings, our
 children, to the Owner of this universe. The book in
-your hands will open the door to this noble endeav-
-or with 11 delightful riddles, God willing
+your hands will open the door to this noble endeavor with 11 delightful riddles, God willing
 <!--more--> 
 

@@ -43,25 +43,20 @@ sold: [] # 'AZ', 'TR'
 ---
 Once There Was the Word, initially published
 in 1995, aimed to provide Turkish readers with a
-comprehensive overview of hermeneutical liter-
-ature, much of which was inaccessible due to
+comprehensive overview of hermeneutical literature, much of which was inaccessible due to
 language barriers. Now, a quarter of a century
 later, the book returns in an updated and expanded
 form. The new edition pays particular attention to
 the expansion of hermeneutics in sociology and
-theology, emphasizing connections with philoso-
-phers like Schleiermacher, Bultmann, Heidegger,
+theology, emphasizing connections with philosophers like Schleiermacher, Bultmann, Heidegger,
 Gadamer, Derrida, and Caputo. Additionally, it
-includes a section on the development of inter-
-pretive approaches in sociology, spanning from
+includes a section on the development of interpretive approaches in sociology, spanning from
 Dilthey and Husserl to Goffman, Garfinkel, Winch,
 and Berger, influenced by hermeneutics. The
 book also presents reflections on hermeneutics in
-Turkey’s academic and intellectual landscape. No-
-tably, the authors’ evolving perspectives over the
+Turkey’s academic and intellectual landscape. Notably, the authors’ evolving perspectives over the
 quarter-century between editions contribute to the
-book’s richness, making it a compelling hermeneu-
-tical experience. In its current form, Once There
+book’s richness, making it a compelling hermeneutical experience. In its current form, Once There
 Was the Word not only summarizes contemporary
 hermeneutical literature but also presents original
 insights and invites further discussion.

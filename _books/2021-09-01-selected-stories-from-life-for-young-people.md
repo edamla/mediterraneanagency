@@ -49,7 +49,6 @@ foreign languages, captivating the hearts of people
 worldwide. Since these works appeal to people of
 all ages from 7 to 77, we have made a different
 move in the book you hold by compiling stories
-written specifically for the younger generation. Pre-
-sented with love and prayers.
+written specifically for the younger generation. Presented with love and prayers.
 <!--more--> 
 

@@ -41,8 +41,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-You have read the stories of the winners in text-
-books...
+You have read the stories of the winners in textbooks...
 Memorized the dates of great wars, the clauses
 of treaties...
 The exam questions came from the parts you

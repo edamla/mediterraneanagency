@@ -42,22 +42,18 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 We’ve often heard phrases like “Don’t sit like that;
-it’s sinful,” or “Don’t lie down like this; it’s shame-
-ful,” from our elders. Sometimes, something merely
+it’s sinful,” or “Don’t lie down like this; it’s shameful,” from our elders. Sometimes, something merely
 disliked takes the place of what’s forbidden, and
 sometimes what’s recommended takes the place
 of what’s obligatory. They don’t make what Allah
 has made permissible forbidden; “forbidden” can
 become “permissible” if one finds an opportunity...
 In our society, many people are judged unfairly
-due to ignorance. It’s saddening to see the mem-
-bers of such a noble religion, with a book like the
+due to ignorance. It’s saddening to see the members of such a noble religion, with a book like the
 Quran and a prophet like Muhammad (peace be
-upon him), sometimes become enslaved to tradi-
-tions and customs.
+upon him), sometimes become enslaved to traditions and customs.
 Yet the principle of “Whatever it is, it should be...”
-should be implemented. A Muslim should person-
-ally learn from the source what the consequences
+should be implemented. A Muslim should personally learn from the source what the consequences
 will be when performing any worship or behavior.
 The theologian and writer İbrahim Ünal explains
 the rules of etiquette (adab-ı muaşeret) in his book

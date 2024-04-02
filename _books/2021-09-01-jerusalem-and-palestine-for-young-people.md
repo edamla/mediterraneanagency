@@ -56,10 +56,8 @@ to emerge, we must first learn the historical facts.
 No cause can be defended without being known.
 Jerusalem is the common cause of all Muslims.
 InshaAllah, it will bring unity and solidarity to the
-Islamic world and will also be the means of salva-
-tion for all the oppressed and needy. In this book,
-important topics related to Jerusalem and Pales-
-tine are presented comprehensively, from the time
+Islamic world and will also be the means of salvation for all the oppressed and needy. In this book,
+important topics related to Jerusalem and Palestine are presented comprehensively, from the time
 of Hz. Umar to the present day, in chronological
 order and with illustrations.
 <!--more--> 

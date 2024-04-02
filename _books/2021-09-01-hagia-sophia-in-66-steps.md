@@ -45,15 +45,12 @@ sold: [] # 'AZ', 'TR'
 The numerical equivalent of the blessed name
 “Allah” in the abjad calculation is 66. This number,
 which serves as an inspiration in various fields
-from architecture to art, literature to mysticism in Is-
-lam, has also inspired us. We attempted to explore
+from architecture to art, literature to mysticism in Islam, has also inspired us. We attempted to explore
 the grand mosque in 66 steps. Upon finishing this
-book, you will become acquainted with the intrigu-
-ing details of Hagia Sophia and observe a different
+book, you will become acquainted with the intriguing details of Hagia Sophia and observe a different
 secret in every corner. In your 66-step journey, you
 will embark on a journey through time and traverse
-the golden pages of art history. Sometimes accom-
-panied by traces from the ancient temple of Roman
+the golden pages of art history. Sometimes accompanied by traces from the ancient temple of Roman
 times, Hagia Sophia, and sometimes by traces
 from the Ottoman Grand Mosque, Ayasofya-i Kebir
 Mosque, you will embark on a journey. You will

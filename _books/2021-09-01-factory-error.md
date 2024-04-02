@@ -54,7 +54,6 @@ something about yourself?
 In this book, a few words that your eyes will meet
 might touch your heart. Perhaps a few lines will
 shake you or us. Maybe they will shake you and
-become a means for you to form your own sen-
-tences, what do you think?
+become a means for you to form your own sentences, what do you think?
 <!--more--> 
 

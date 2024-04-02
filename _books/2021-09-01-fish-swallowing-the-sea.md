@@ -54,10 +54,8 @@ burn, and our hearts will constrict at the sight of the
 scenes of humanity we witness. Words of rebellion
 will be on the tip of our tongues, and yet, we will
 remain standing. Countless innocent people will
-be slaughtered by the tyrants, the limits of compas-
-sion will be crossed multiple times, and the arms
-of cruelty will reach places beyond the compre-
-hension of reason, but we will still be obliged to be
+be slaughtered by the tyrants, the limits of compassion will be crossed multiple times, and the arms
+of cruelty will reach places beyond the comprehension of reason, but we will still be obliged to be
 ‘human.’
 <!--more--> 
 

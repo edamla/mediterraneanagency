@@ -46,8 +46,7 @@ During a period when Jerusalem and the Al-Aqsa
 Mosque were under occupation, and Islamic lands
 were fragmented under the rule of self-interested
 Emirs, what did Saladin accomplish? His struggle
-to establish Islamic unity upon the solid founda-
-tions laid by Nur ad-Din Zengi offers us profound
+to establish Islamic unity upon the solid foundations laid by Nur ad-Din Zengi offers us profound
 lessons from eight centuries ago. Saladin, who
 succeeded in gathering Muslims, who had become
 divided and manipulated by strife and who did not
@@ -55,10 +54,8 @@ hesitate to shed each other’s blood or play into
 the hands of their enemies, under the banner of
 Islam, also instilled in minds the consciousness of
 rescuing Jerusalem. In a period reminiscent of the
-current fragmented state of Islamic countries, Sala-
-din’s policies throughout his life provide us with the
-key to Free Jerusalem. All we need to do is careful-
-ly study his life and understand the messages he
+current fragmented state of Islamic countries, Saladin’s policies throughout his life provide us with the
+key to Free Jerusalem. All we need to do is carefully study his life and understand the messages he
 conveyed to us.
 <!--more--> 
 

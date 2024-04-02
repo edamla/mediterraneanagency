@@ -46,8 +46,7 @@ A love story set against the backdrop of life,
 struggling to hold onto love and faith: “...During
 these conversations, Ali was breaking out in a cold
 sweat. He had never felt so helpless and utterly
-alone before. He had learned life with all its bit-
-ter aspects, just as his father had said, even at
+alone before. He had learned life with all its bitter aspects, just as his father had said, even at
 this young age. He started to worry more about
 his family, even about Zeynep. If what the village
 guard Şehmus had said came true and any harm
@@ -55,8 +54,7 @@ came to his loved ones, he would die of grief. How
 could he justify himself alone if so many people
 testified against him?...” With its fluent language
 and captivating style, readers will breeze through
-“Kuş Köprü.” This work, which portrays the Anato-
-lian climate and the simple lives of our people, is
+“Kuş Köprü.” This work, which portrays the Anatolian climate and the simple lives of our people, is
 actually our own story.
 <!--more--> 
 

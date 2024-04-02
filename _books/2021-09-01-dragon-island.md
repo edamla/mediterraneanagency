@@ -43,13 +43,10 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Matti lives in Paris with his foster family. His real
-family disappeared when he was very young. Ev-
-eryone says they are dead, but Matti has a differ-
-ent opinion. As he grows up, he becomes deter-
-mined to search for them.
+family disappeared when he was very young. Everyone says they are dead, but Matti has a differ-
+ent opinion. As he grows up, he becomes determined to search for them.
 Matti also has a friend named Tink. Tink is a
-dreamer who imagines an interesting and ad-
-venturous life. However, it will be Matti who first
+dreamer who imagines an interesting and adventurous life. However, it will be Matti who first
 discovers the opportunity to meet the mysterious
 outside world.
 His uncle Jussi takes Matti to the Drekar Mohoao
@@ -59,7 +56,6 @@ nonsense and finds his uncle Jussi and his friends
 strange. That is until he comes face to face with a
 real dragon...
 The first book in the “Dragon Knights Fellowship”
-series, Dragon Island, opens the door to an adven-
-ture-filled world.
+series, Dragon Island, opens the door to an adventure-filled world.
 <!--more--> 
 

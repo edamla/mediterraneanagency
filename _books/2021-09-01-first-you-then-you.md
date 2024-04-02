@@ -48,18 +48,15 @@ O beloved...
 Clouds carry love from border to border,
 The news of conquest is heard far and wide on the
 horizon.
-The veil of longing is lifted between me and Istan-
-bul,
-Ships made of folded paper carry hope to the har-
-bors filled with joyful tidings...
+The veil of longing is lifted between me and Istanbul,
+Ships made of folded paper carry hope to the harbors filled with joyful tidings...
 Colorful hopes bloom in my soul with you, like a
 rainbow,
 I wait patiently, for this longing has been my legacy
 for so long.
 As if a tale and a dream are etched into my heart
 from words and verses,
-Every fiber of my being carries your name to insur-
-mountable walls...
+Every fiber of my being carries your name to insurmountable walls...
 With every breath, I feel the urge to shout my love
 for you,
 Either I must have you or you must understand,

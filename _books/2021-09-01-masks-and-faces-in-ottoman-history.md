@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Masks and Faces in Ottoman History” is a pio-
-neering work that shows how history can be made
+“Masks and Faces in Ottoman History” is a pioneering work that shows how history can be made
 attractive to large audiences without compromising
 scientific honesty. As one reader aptly put it: ‘Let’s
 see which roof you will bring down on us in this
@@ -52,8 +51,7 @@ not the fault of the mischievous elephant hiding
 among my books. “What can an elephant do if we
 don’t know who built the roof over our heads and
 how?”
-Mustafa Armağan invites his readers to a breath-
-less adventure in the labyrinths of history in his
+Mustafa Armağan invites his readers to a breathless adventure in the labyrinths of history in his
 book “Masks and Faces in Ottoman History”,
 which is sure to cause controversy. It sheds light
 on centuries-old debates such as Baltacı-Katerina

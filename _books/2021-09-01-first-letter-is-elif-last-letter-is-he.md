@@ -47,8 +47,7 @@ They say the heart has 99 doors. The name of
 doors open with Allah. Then, passing through 98
 doors, one reaches ‘Vedud, Rahim’. Each door
 has its own beauty and secret. In each door, Allah
-manifests Himself differently to His beloved ser-
-vant. Hence, each door has its own prayer. Hearts
+manifests Himself differently to His beloved servant. Hence, each door has its own prayer. Hearts
 open to Allah with His Beautiful Names. Hearts
 are opened to eternity with Allah. And hearts are
 entered with Allah... For He is the source of all

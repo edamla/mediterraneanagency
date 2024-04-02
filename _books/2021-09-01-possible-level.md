@@ -41,10 +41,8 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“We were running towards the rain, with whirl-
-winds chasing us from behind. With each step,
+“We were running towards the rain, with whirlwinds chasing us from behind. With each step,
 our laughter was drinking up an ocean of mud. We
-were laughing so much that the world was becom-
-ing a child, the rest was just a story.”
+were laughing so much that the world was becoming a child, the rest was just a story.”
 <!--more--> 
 

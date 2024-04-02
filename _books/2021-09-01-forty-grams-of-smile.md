@@ -47,17 +47,16 @@ faith
 can sense a ‘different beauty’ behind every event.
 And therefore, as they breathe deeply and find
 relief,
-they can see that there is no such thing as ‘coinci-
+they can see that there is no such thing as ‘coinci
 dence’ in the world.
 In the book you hold, while giving some examples
 of these different beauties,
 we aimed to make you smile and contemplate at
 the same time.
-And in doing this challenging task, without compro-
-mising delicacy and grace,
+And in doing this challenging task, without compromising delicacy and grace,
 we have introduced a brand new concept called
 ‘respectful humor’.
-I present the smile-inducing stories in ‘Forty Grams
+I present the smile inducing stories in ‘Forty Grams
 of Smile’
 to you with prayers.
 <!--more--> 

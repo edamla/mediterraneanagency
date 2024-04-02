@@ -46,14 +46,11 @@ In this book, we will take a trip through his-tory in
 chronological order. First, “Who is Hazrat Ali? What
 did he do? What is the scientific degree? How did
 he make a note in history?” We will try to make an
-analysis after investigating and examining such is-
-sues. Let’s also point out that people’s religious be-
-liefs, thoughts, ideas and comments, and political
+analysis after investigating and examining such issues. Let’s also point out that people’s religious beliefs, thoughts, ideas and comments, and political
 stances do not concern us much. It is our duty to
 respect everyone’s opinion (if there is no excess).
 However, Since the life of Ali (ra) is intertwined with
-the Messenger of Allah (saas), we will try to wit-
-ness the journey of these two great people without
+the Messenger of Allah (saas), we will try to witness the journey of these two great people without
 separating them from each other while writing this
 work. Neither our tongues nor our pen will be silent
 against those who have deviated from the ba-sic

@@ -50,8 +50,7 @@ began in the 1940s and continued until the late
 1960s in “Yazıklar Çıkmazı.” The novel tells the
 story of our people who were persecuted, scorned,
 and marginalized for their beliefs and for living by
-those beliefs. İnanç, who possesses a rich lan-
-guage and a fluent style, also shows solutions for
+those beliefs. İnanç, who possesses a rich language and a fluent style, also shows solutions for
 our society, which experienced social turmoil due
 to heavy pressures. While portraying the political
 and social conflicts of our recent history, the novel

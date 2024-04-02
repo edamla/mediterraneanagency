@@ -47,10 +47,8 @@ who were born like the sun in the Mediterranean,
 were interested in sailing and received great help
 from Yavuz’s elder brother Korkut. Upon his death,
 they went to Tunisia and ascended to the sultanate
-in Algeria with their conquests. Suleiman the Mag-
-nificent had to break up the Christian unity that had
-developed in the West after Charles V became em-
-peror. He had himself on land, but in the seas he
+in Algeria with their conquests. Suleiman the Magnificent had to break up the Christian unity that had
+developed in the West after Charles V became emperor. He had himself on land, but in the seas he
 needed a Captain-Darya who could oppose Andrea
 Doria. This could only be Hızır, the only surviving
 member of the Barbarosian Brothers.

@@ -47,8 +47,7 @@ How will we look at life?
 How will we evaluate events?
 As humans, what are our primary duties in this
 world?
-And most importantly, with what qualities and hab-
-its can we free ourselves from being just ordinary
+And most importantly, with what qualities and habits can we free ourselves from being just ordinary
 and simple creatures?
 Sorrows are like flies swarming around our heads
 and hearts. It’s true they bother us, but it should

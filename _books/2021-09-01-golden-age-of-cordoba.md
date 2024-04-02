@@ -48,14 +48,12 @@ brought knowledge, science, and art to the dark
 Middle Ages of Europe? Rather than shedding
 tears and lamenting the lost paradise of Andalusia,
 our real duty is to introduce this great civilization
-to the whole world in all its aspects. It is to show-
-case the era when Andalusia was at the pinnacle
+to the whole world in all its aspects. It is to showcase the era when Andalusia was at the pinnacle
 in every field. While the people of Paris, Vienna,
 and Rome could only venture out into the streets
 at night with torches, the people of Cordoba
 roamed the brightly lit streets in safety until late
-hours. While Europe was unfamiliar with cleanli-
-ness, Cordoba boasted a staggering 800 public
+hours. While Europe was unfamiliar with cleanliness, Cordoba boasted a staggering 800 public
 baths. Clean water networks reached into people’s
 homes. While European palaces had only around
 70-80 books, the library of Caliph Al-Hakam II

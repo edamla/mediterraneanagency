@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 A woman is an important and valuable human
-being. How important they are, is better un-der-
-stood from the hadith-i sharif “Paradise laid under
+being. How important they are, is better understood from the hadith-i sharif “Paradise laid under
 your feet”.
 The woman is the mother. The woman is the
 first guide who creates, educates and directs the

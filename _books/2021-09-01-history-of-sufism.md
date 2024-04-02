@@ -44,16 +44,11 @@ sold: [] # 'AZ', 'TR'
 ---
 Mehmed Ali Aynî is one of the important thinkers
 of the last periods of the Ottoman Empire and the
-first years of the Republic. He worked as an edu-
-cator for many years; He gave lectures and worked
-as an administrator in fields such as history, lan-
-guages, statistics, and Sufism.
-In this book, Aynî examines in detail the under-
-standing of Sufism in India, Egypt, Greece, Alex-
-andria, Judaism and Christianity, and subsequently
+first years of the Republic. He worked as an educator for many years; He gave lectures and worked
+as an administrator in fields such as history, languages, statistics, and Sufism.
+In this book, Aynî examines in detail the understanding of Sufism in India, Egypt, Greece, Alexandria, Judaism and Christianity, and subsequently
 the emergence, development and principles of
-Sufism in Islam. He explains that Sufism is includ-
-ed in all beliefs, that they all have similar aspects
+Sufism in Islam. He explains that Sufism is included in all beliefs, that they all have similar aspects
 and that they all have various educational stages
 for spiritual education.
 This work is a profound book that teaches the

@@ -61,7 +61,7 @@ cations presents to the readers this valuable work
 of Cavit Ersen, titled Osman Gazi, written in a grip-
 ping style and in fluent Turkish, it aims to contrib-
 ute to the awakening historical consciousness in
-society and the ever-expanding love of ancestors
+society and the ever expanding love of ancestors
 in young generations.
 <!--more--> 
 

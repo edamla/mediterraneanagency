@@ -61,12 +61,9 @@ story of how the eight-century-long civilization of
 Muslims came to an end because of the fights
 for the throne; Meanwhile, it also introduces the
 excellent works of art and architecture produced in
-Andalusia, despite the military and political weak-
-ness. Of course, the most important of these archi-
-tectural works is the Alhambra, the “last castle of
+Andalusia, despite the military and political weakness. Of course, the most important of these architectural works is the Alhambra, the “last castle of
 Andalusia”. A phrase repeated perhaps thousands
-of times among the embroideries of this magnifi-
-cent castle-palace shouts to the whole world that
+of times among the embroideries of this magnificent castle-palace shouts to the whole world that
 the sole victor is only Allah: Velâ Galibe İllallah.
 <!--more--> 
 

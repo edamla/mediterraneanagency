@@ -42,16 +42,13 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-And we were a weary tribe migrating from Cen-
-tral Asia on horseback. We were a tribe seeking
+And we were a weary tribe migrating from Central Asia on horseback. We were a tribe seeking
 a homeland; eventually, with a few hundred tents,
 we settled in Söğüt. That’s how our story began.
-We raised the pole of our tent in Söğüt. We ham-
-mered the pegs of its ropes into three continents. I
+We raised the pole of our tent in Söğüt. We hammered the pegs of its ropes into three continents. I
 feel ‘fortunate’ to be a descendant of my ancestor
 Ertuğrul Gazi, and I am filled with gratitude towards
 Vahideddin Han. I wish I could have seen them all
-one by one and kissed their hands. But I am reas-
-sured: “Isn’t paradise for this?”
+one by one and kissed their hands. But I am reassured: “Isn’t paradise for this?”
 <!--more--> 
 

@@ -45,26 +45,20 @@ sold: [] # 'AZ', 'TR'
 LOVE and CONVERSATION...
 Two human beauties we are beginning to forget...
 Conversation is born from love,
-Love continues and flourishes through conversa-
-tion.
-Hearts devoid of love remain devoid of conversa-
-tion,
+Love continues and flourishes through conversation.
+Hearts devoid of love remain devoid of conversation,
 Environments without conversation become arid,
 barren, lifeless.
-Love and conversation without family are incom-
-plete, lacking,
+Love and conversation without family are incomplete, lacking,
 Love and conversation begin, develop, and expand
 within the family first.
-The most suitable ground for love and conversa-
-tion is the family,
-The family is the final stronghold of love and con-
-versation.
+The most suitable ground for love and conversation is the family,
+The family is the final stronghold of love and conversation.
 In his book “Love and Conversations in the Family,”
 Vehbi Vakkasoğlu discusses the values that make
 a family a family in a conversational warmth. The
 book provides information on various topics ranging
-from how parents should treat their children to envi-
-ronmental consciousness, from religious knowledge
+from how parents should treat their children to environmental consciousness, from religious knowledge
 to social needs.
 In this book, each topic is kept to a length that can
 be read in 15 minutes, aiming for families to come

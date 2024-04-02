@@ -47,19 +47,15 @@ even older. No new editions have been made for
 years. This is because I did not want it to happen. I
 wanted to be able to touch and rework the writings
 with what life has added to me in the subsequent
-years. It just didn’t work out, and so the story con-
-tinued to prolong like this...
+years. It just didn’t work out, and so the story continued to prolong like this...
 It seems that it was destined for these days.
-The book you are holding carries some differenc-
-es from the “Shadows of the Days” published in
+The book you are holding carries some differences from the “Shadows of the Days” published in
 1997. I removed a few writings that I couldn’t warm
 up to with my current state, and I also repaired
 some of the other writings according to my own
-perspective However, I didn’t want these modifica-
-tions to change the overall ambiance of the book,
+perspective However, I didn’t want these modifications to change the overall ambiance of the book,
 and I tried to avoid that as much as possible.
-If I were to write today, I would undoubtedly ex-
-press many things differently. However, I know that
+If I were to write today, I would undoubtedly express many things differently. However, I know that
 what I wrote in the past is as much a part of me as
 what I write today. Just like my past experiences...
 <!--more--> 

@@ -41,22 +41,19 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Islamophobia, defined as “anti-Muslim cultur-
-al racism,” has roots in Western history, notably
+Islamophobia, defined as “anti-Muslim cultural racism,” has roots in Western history, notably
 in Orientalism, and has spread beyond Western
 societies. Modernization, Westernization, and
 Enlightenment ideals in the Islamic world have
 also fueled Islamophobia, particularly in countries
 influenced by colonialism or radical Westernization.
 Turkey, with its strict secular modernization efforts,
-is among these countries. Despite recent improve-
-ments in state-religion relations and the lifting of
+is among these countries. Despite recent improvements in state-religion relations and the lifting of
 prohibitions, discrimination and prejudices against
 Islam and Muslims persist in Turkish society. This
 study, the first of its kind and compiled by experts,
 investigates Islamophobic discourses, attitudes,
 and behaviors across various sectors in Turkey,
-including traditional and social media, politics, edu-
-cation, employment, and satire magazines.
+including traditional and social media, politics, education, employment, and satire magazines.
 <!--more--> 
 

@@ -42,13 +42,11 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 In the Hadith Sharif, the most prominent feature
-of the renewers (mujaddids) whose coming is fore-
-told in every century is their ability to find solutions
+of the renewers (mujaddids) whose coming is foretold in every century is their ability to find solutions
 to the material and spiritual ailments of their time
 through renewal, reform, and guidance, rescuing
 the ummah from the crises it faces. Mujaddids
-should not be confused with contemporary reform-
-ers who claim to innovate by introducing things not
+should not be confused with contemporary reformers who claim to innovate by introducing things not
 found in religion. While the latter strive to introduce
 elements contrary to the Quran and Sunnah, the
 mujaddids seek to cleanse innovations and restore
@@ -56,12 +54,9 @@ Islam to its pristine state as it was during the time
 of the Prophet. The personalities mentioned in the
 book are among the leading figures in the spiritual
 realm of their time. In the era in which they lived,
-they faced significant challenges arising from mili-
-tary defeats, political crises, or doctrinal disputes.
+they faced significant challenges arising from military defeats, political crises, or doctrinal disputes.
 They endeavored to resolve the problems of their
-society and fellow Muslims using the most appro-
-priate methods. These eminent figures, who illumi-
-nated their era, continued to guide the ummah in
+society and fellow Muslims using the most appropriate methods. These eminent figures, who illuminated their era, continued to guide the ummah in
 the subsequent centuries through their works
 <!--more--> 
 

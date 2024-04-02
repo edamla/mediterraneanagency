@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The valiant and brave ruler who enlarged the em-
-pire he took over by two and a half times in eight
+The valiant and brave ruler who enlarged the empire he took over by two and a half times in eight
 years and gave the Ottoman Empire a tremendous
 power that dominates three continents...
 The “Yavuz” ruler, who made the Mediterranean

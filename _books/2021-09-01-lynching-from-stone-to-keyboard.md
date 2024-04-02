@@ -44,14 +44,12 @@ sold: [] # 'AZ', 'TR'
 The passage delves into the primal nature of
 humanity, likening it to wolves in a pack where the
 weak are consumed. It questions whether despite
-our perceived progress, the innate brutality de-
-scribed by the Latin phrase “homo homini lupus”
+our perceived progress, the innate brutality described by the Latin phrase “homo homini lupus”
 (man is a wolf to man) still persists. The author
 ponders why, even in advanced societies, herd
 mentality can lead to ruthless and destructive
 behavior, seemingly immune to the influences of
-morality, culture, or governance. They also con-
-template whether the virtual world has any impact
+morality, culture, or governance. They also contemplate whether the virtual world has any impact
 on mitigating these instincts. The book seeks to
 comprehend the desire for mass destruction or
 collective hysteria, noting its enduring savagery
@@ -59,10 +57,8 @@ across different forms. Through an examination
 of the historical trajectory of lynching, its motives,
 actors, and patterns, the author argues that while
 the manifestation of lynching may have changed in
-the postmodern era, its essence remains consis-
-tent with ancient times. Ultimately, the book aims to
+the postmodern era, its essence remains consistent with ancient times. Ultimately, the book aims to
 shed light on efforts to prevent lynching as a form
-of collective hysteria and provide support in com-
-bating it.
+of collective hysteria and provide support in combating it.
 <!--more--> 
 

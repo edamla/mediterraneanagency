@@ -41,25 +41,19 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-This book, resulting from Orhan Toker’s exten-
-sive research and acquired experiences over the
-years, serves as a guide for parents raising chil-
-dren in the digital world. Being a parent in such a
+This book, resulting from Orhan Toker’s extensive research and acquired experiences over the
+years, serves as a guide for parents raising children in the digital world. Being a parent in such a
 world is both confusing and challenging. On one
-hand, there is an immense digital world that oc-
-cupies a significant place in our lives due to the
+hand, there is an immense digital world that occupies a significant place in our lives due to the
 necessities of the age. On the other hand, there
 are children who get lost in the corridors due to
 the misuse of this world or sometimes due to our
 neglect, leaving helpless parents who are unsure
 of what to do between these two situations.
 The book you are holding focuses precisely on
-how to strike a balance between these two as-
-pects. “Being a Parent in the Digital World” pro-
-vides information on how our children, who open
+how to strike a balance between these two aspects. “Being a Parent in the Digital World” provides information on how our children, who open
 their eyes to such a world, can become healthy
-individuals in it. It also serves as a reliable com-
-panion for the parents who guide them on this
+individuals in it. It also serves as a reliable companion for the parents who guide them on this
 magnificent journey with the proper attention, love,
 and care they offer. Let us not forget that “Nothing
 is more valuable in the world than children!”

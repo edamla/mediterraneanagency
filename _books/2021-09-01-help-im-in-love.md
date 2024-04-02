@@ -51,13 +51,11 @@ help?” The person asking for help was a student
 named Büşra. And the words seemed to be written
 with tears. The lines I read suddenly took me back
 to my youth: “Oh God, help! Save me!” I cried out
-to the years... The student who emailed me re-
-ported that she was in love. But the bad part was,
+to the years... The student who emailed me reported that she was in love. But the bad part was,
 the girl was not even 17 yet. And the boy she had
 fallen for was an alcoholic... Moreover, he was
 someone who did not feel remorse for his mistakes
-and almost took pride in them... This book, remain-
-ing faithful to the original emails, narrates the long
+and almost took pride in them... This book, remaining faithful to the original emails, narrates the long
 correspondence between Büşra and me, and with
 the permission of Allah, her salvation.
 <!--more--> 

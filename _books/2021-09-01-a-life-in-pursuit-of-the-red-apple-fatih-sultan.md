@@ -45,8 +45,7 @@ sold: [] # 'AZ', 'TR'
 “Now, I feel myself in the valley of Yarmuk, which
 is narrow for people with the shouts of ‘Allah,
 Allah!’ amid the sounds of horses. By Allah, I asked
-my Allah to resurrect me in every war and to sus-
-tain of that war.”
+my Allah to resurrect me in every war and to sustain of that war.”
 Then he stopped for a while and said:
 “I make my will, raise me up…”
 They stood up. “Bring my sword!” “Why, sir?”

@@ -43,23 +43,18 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 This book is about the clock in our brain. This
-clock is an internal, ticking clock, a commander in-
-side us, dictating what should be done when. This
-book is about rhythm. It’s about the rhythm pres-
-ent in space, plants, and animals, in music, in our
+clock is an internal, ticking clock, a commander inside us, dictating what should be done when. This
+book is about rhythm. It’s about the rhythm present in space, plants, and animals, in music, in our
 emotions, thoughts, and behaviors, in our health
 and illness, in every passing second, in everything
 stationary and moving. It’s a rhythm that causes
 chaos when disturbed and leaves us in awe when
-it functions healthily. This book is about our per-
-spective on life. Everything we notice isn’t random;
+it functions healthily. This book is about our perspective on life. Everything we notice isn’t random;
 it will change our perspective on life. It will offer a
 different perspective on the world, living beings,
 events, and most importantly, on ourselves. When
-we see the determined cycles instead of random-
-ness, we’ll notice the difference and redesign our
-lives. This book will encourage us to correct dis-
-rupted rhythms and reset our clocks according to
+we see the determined cycles instead of randomness, we’ll notice the difference and redesign our
+lives. This book will encourage us to correct disrupted rhythms and reset our clocks according to
 their natural settings.
 <!--more--> 
 

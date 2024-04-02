@@ -41,8 +41,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The results obtained by sciences through ex-
-periments are combined with philosophy. What
+The results obtained by sciences through experiments are combined with philosophy. What
 philosophy combines with, literature adds emotion.
 If philosophy is understood as an effort to grasp
 the essence of something, the texts in this work
@@ -50,15 +49,13 @@ go beyond and transcend the claim to establish a
 “literary philosophy,” aiming to grasp the essence
 of literature.
 “The Journey of Art” is an endeavor to share
-some conclusions reached through the frame-
-work of our perception of society and civilization
+some conclusions reached through the framework of our perception of society and civilization
 in which we live, by contemplating philosophy and
 literature together and discussing our era through
 the lens of our own experiences. While navigating
 the corridors of art forms such as cinema, poetry,
 music, painting, and photography, it is a depiction
-of inner observations that have turned into con-
-templations on these pages. As a nation, through
+of inner observations that have turned into contemplations on these pages. As a nation, through
 the relationship between philosophy and literature,
 it is an effort to present where we stand and the
 possibilities of standing on the ground of art. It

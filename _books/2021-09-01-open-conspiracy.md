@@ -47,7 +47,6 @@ might be the most important book written in the
 on events that will unfold in the 21st century. If
 humankind were to come together to oppose all
 strange things and establish a world civilization,
-undoubtedly ‘Open Conspiracy’ would be the Dec-
-laration of Independence of this civilization.”
+undoubtedly ‘Open Conspiracy’ would be the Declaration of Independence of this civilization.”
 <!--more--> 
 

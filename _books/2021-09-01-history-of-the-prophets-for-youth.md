@@ -51,13 +51,12 @@ mankind, prone to confusion, lacked knowledge of
 the path to paradise, a knowledge reserved only
 for the prophets. Thus, God sent prophets in every
 era, numbering over a hundred thousand, to guide
-humanity. These prophets endured immense hard-
+humanity. These prophets endured immense hard
 ships and even martyrdom in their sacred duty.
 The book provides glimpses of their challenging
 lives. As readers explore these stories, they are
 prompted to reflect on parallels between events in
-today’s world and those in the history of the proph-
-ets, including the occurrence of pandemics akin to
+today’s world and those in the history of the prophets, including the occurrence of pandemics akin to
 the coronavirus.”
 <!--more--> 
 

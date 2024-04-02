@@ -51,17 +51,14 @@ flow and lymph in the palm during changes in the
 person’s state of mind or excitement, and that this
 also alters the lines in the palm.
 It wasn’t fortune-telling. It wasn’t mind-reading.
-Our palms are an indicator panel, much more com-
-plex and comprehensive than a car’s dashboard.
-This book is about our hands and faces, the indi-
-cator panels of our bodies, which, through curiosity
+Our palms are an indicator panel, much more complex and comprehensive than a car’s dashboard.
+This book is about our hands and faces, the indicator panels of our bodies, which, through curiosity
 and exploration, reveal information and warnings
 about our health status, weak points, and organs
 that require attention.
 In accordance with the principle that true health
 lies in not getting sick, valuable information has
-been provided for the preservation of health. Find-
-ing benefit is the greatest source of happiness.
+been provided for the preservation of health. Finding benefit is the greatest source of happiness.
 Wishing you good health.
 <!--more--> 
 

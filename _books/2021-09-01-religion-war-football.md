@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 ---
 This book is not a history of football, military
 history, or religious history. Unfortunately, it does
-not contain specific solutions to the current prob-
-lems of Turkish football either. In this work, where
+not contain specific solutions to the current problems of Turkish football either. In this work, where
 we try to understand and narrate how religion, war,
 and football have melted in the crucible of time,
 we delve into the analysis of how the phenomenon
@@ -52,13 +51,11 @@ of the game has come to occupy the center of our
 lives. Moreover, not only do we confine ourselves
 to this analysis, but we also present predictions
 about how the game can shape our future.
-As Eugen Fink pointed out, the game is a ‘sym-
-bol-action’ that makes it possible to comprehend
+As Eugen Fink pointed out, the game is a ‘symbol-action’ that makes it possible to comprehend
 life and the universe. Symbolic actions are the
 product of a particular worldview and a specific
 socio-cultural environment. From these theoretical
-statements, it can be understood that the funda-
-mental characteristics, strengths, and weakne to
+statements, it can be understood that the fundamental characteristics, strengths, and weakne to
 the issues of Turkish history, culture, and sociology,
 and cannot be treated independently.
 If you are still continuing to read the cover, it

@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-In this world where appearances seek the es-
-sence, understanding the words written on the
+In this world where appearances seek the essence, understanding the words written on the
 back of a photograph and describing the first thing
 we see in the sea of dreams leaves behind a
 winding and fragile trace of the transience of where
@@ -53,12 +52,10 @@ looking at ourselves from the outside. This external
 definition does not necessarily include a physical
 space. The soul is described to have a different
 time from space and objects. Understanding the
-value of time may have been one of humanity’s pri-
-mary concerns in every era. Perhaps what we are
+value of time may have been one of humanity’s primary concerns in every era. Perhaps what we are
 trying to see in photographs is how close we are to
 the value of time. When questions and the answers
-given are not enough, one generates new ques-
-tions from the given answers, just like the expected
+given are not enough, one generates new questions from the given answers, just like the expected
 harvest from cultivated lands eventually returns to
 seeds.
 The soil collects all the dust without distinction.

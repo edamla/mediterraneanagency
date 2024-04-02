@@ -42,25 +42,21 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Selçuk Beg mounted his horse and rode west-
-ward from Yengikent. He crossed mountains and
+Selçuk Beg mounted his horse and rode westward from Yengikent. He crossed mountains and
 rivers. He fought with his sword bareback on his
 horse to establish a homeland. His grandsons,
 Çağrı Beg and Tuğrul Beg, realized his dream
 and founded the Seljuk State. The Oghuz Turks
-had now laid the foundations of a powerful Turk-
-ish state in the east. Çağrı Beg’s son, Alp Arslan,
+had now laid the foundations of a powerful Turkish state in the east. Çağrı Beg’s son, Alp Arslan,
 also followed in his ancestors’ footsteps, taking
-an oath to carry the banner of Islam and Turkish-
-ness further, and worked with all his might for the
+an oath to carry the banner of Islam and Turkishness further, and worked with all his might for the
 sake of the word of God. He defeated the proud
 Byzantine ruler, Romanos Diogenes, at Malazgirt,
 opening the gates of Anatolia to the Turks and
 Muslims. Thus, the foundations of the Turkification
 and Islamization of Anatolia were laid. This book
 narrates the epic and extraordinary victory written
-by the Great Seljuk Sultan Alp Arslan on the Mala-
-zgirt Plain. It also highlights the superior efforts of
+by the Great Seljuk Sultan Alp Arslan on the Malazgirt Plain. It also highlights the superior efforts of
 the brave armies that established themselves in
 Anatolia and the spiritual conquests that sprouted
 from the seeds sown by the mystics of Horasan in

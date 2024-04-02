@@ -41,11 +41,9 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-To Be Deceived... Human beings are also de-
-ceived when they are “young.”
+To Be Deceived... Human beings are also deceived when they are “young.”
 Because they cannot observe the mistakes of
-others, they fall into the same errors and per-
-sistently live by their own truths without listening
+others, they fall into the same errors and persistently live by their own truths without listening
 to anyone. The book you are holding aims to offer
 a friendly conversation to prevent you from falling
 into those mistakes with “your own truths.” Take a

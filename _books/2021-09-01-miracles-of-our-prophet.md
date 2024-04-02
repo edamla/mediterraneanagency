@@ -42,15 +42,13 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Clouds and angels had shaded him since his ear-
-ly years. Spiders and doves had built nests at the
+Clouds and angels had shaded him since his early years. Spiders and doves had built nests at the
 entrance of the cave where he took refuge during
 his migration, deceiving the polytheists. Even the
 wildest animals spoke like humans and confided
 their troubles to that compassionate Prophet. The
 Islamic army, thirsty in the scorching desert, clung
-to life by drinking the water flowing from his bless-
-ed fingers. With his mere gesture, the moon split in
+to life by drinking the water flowing from his blessed fingers. With his mere gesture, the moon split in
 two, and the stones he held in his palm began to
 mention Allah’s name. Because he was the “last”
 and the “greatest” Prophet. He loved us more than

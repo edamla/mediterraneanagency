@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 ---
 The Ideologies of the Quran in the Middle East
 presents the intellectual panorama of the region
-after a so-called peace(!) that put an end to cen-
-turies-old peace and dragged the region into a
+after a so-called peace(!) that put an end to centuries-old peace and dragged the region into a
 vortex. It uncovers the fault lines that led to the
 division of the region into various nations despite
 its ability to coexist with all its diversities. This book
@@ -58,8 +57,7 @@ Kurdish nationalism and feminist women’s move-
 ments that are attempting to reshape the region in
 the horizon of the 21st century.
 The stability of the world order is not possible
-without rearranging the Middle East. The Mid-
-dle East is the homeland of Muslim, Christian,
+without rearranging the Middle East. The Middle East is the homeland of Muslim, Christian,
 and Jewish traditions, and it is also the cradle of
 ancient Mesopotamian and Egyptian traditions.
 Without these traditions, the history of humanity’s
@@ -67,8 +65,7 @@ journey on earth remains incomplete. It should not
 be forgotten that knowing the past of the Middle
 East is an essential reference point to understand
 the present and the future. This book in your hands
-is a concise yet comprehensive guide to under-
-stand the Middle East, providing essential and
+is a concise yet comprehensive guide to understand the Middle East, providing essential and
 succinct information.
 <!--more--> 
 

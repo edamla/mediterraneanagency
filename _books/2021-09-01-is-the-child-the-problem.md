@@ -44,21 +44,17 @@ sold: [] # 'AZ', 'TR'
 ---
 This book has been prepared in light of the
 author’s scientific research on child development.
-The focus of the book is on children and their natu-
-ral needs. Accordingly, the most valid advice on the
+The focus of the book is on children and their natural needs. Accordingly, the most valid advice on the
 problems children face today and their solutions
 has been provided to adults.
 Indeed, the world is changing at a dizzying pace.
 Many of the new developments are leading to
-threatening consequences for families and chil-
-dren. As parents, we constantly need to update
+threatening consequences for families and children. As parents, we constantly need to update
 ourselves on how to approach and what roles to
-adopt. However, within the sources that have be-
-come a dump of information, we don’t know how to
+adopt. However, within the sources that have become a dump of information, we don’t know how to
 find the truth.
 Prepared from a developmental perspective by
-Prof. Dr. Serdal Seven, this work will be the bed-
-side book for parents in understanding the natural
+Prof. Dr. Serdal Seven, this work will be the bedside book for parents in understanding the natural
 needs of children.
 <!--more--> 
 

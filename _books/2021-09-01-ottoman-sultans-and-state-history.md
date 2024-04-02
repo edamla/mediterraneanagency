@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Written and oral works about the past; It ap-
-pears in the form of fairy tales, stories and history.
+Written and oral works about the past; It appears in the form of fairy tales, stories and history.
 However, as a science, history must be separated
 from story and fairy tale. Our duty is to protect the
 borders of history.

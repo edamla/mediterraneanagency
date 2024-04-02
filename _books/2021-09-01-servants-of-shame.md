@@ -60,8 +60,7 @@ The master novelist, who presents “What Serpil
 Told” alongside “You Are Not Alone,” also shares
 Füsun’s life journey, the bitter and sweet events
 she experiences, in “Shameful Fellows.” The
-author draws attention to the quagmire that intel-
-lectuals who have fallen into different ideologies
+author draws attention to the quagmire that intellectuals who have fallen into different ideologies
 find themselves in the novel and provides solutions
 by showing them the right path to salvation. You
 will read Füsun’s journey from feminism to Islamic

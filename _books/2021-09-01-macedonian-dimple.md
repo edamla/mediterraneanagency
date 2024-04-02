@@ -49,8 +49,7 @@ what one has lost is the first step to searching.”
 The novel presents a neutral depiction of the
 period, highlighting the collaboration of the Young
 Turks with Western powers, the Action Army, and
-the events of the 31st of March Incident. Treach-
-erous organizations originating in Monastir and
+the events of the 31st of March Incident. Treacherous organizations originating in Monastir and
 Thessaloniki are discussed, along with the actions
 of the Committee of Union and Progress against
 Abdülhamid.

@@ -45,16 +45,13 @@ sold: [] # 'AZ', 'TR'
 Mustafa Armağan’s book “The Last Sultan’s
 Dance with Wolves” reimagines Ottoman history.
 The book portrays Sultan Abdulhamid II’s 33-year
-struggle to navigate a country surrounded by inter-
-nal and external threats. The issue of dividing the
+struggle to navigate a country surrounded by internal and external threats. The issue of dividing the
 Sick Man’s inheritance emerged in the 1850s, and
-after a heavy defeat against Russia in 1878, impe-
-rialism’s appetite grew, leading to multiple coups
+after a heavy defeat against Russia in 1878, imperialism’s appetite grew, leading to multiple coups
 in Turkey. Sultan Abdulhamid faced threats from
 foreign powers upon ascending the throne. Despite
 imminent collapse, he initiated a 30-year effort to
-modernize the country, focusing on projects rang-
-ing from railways to education. Though labeled the
+modernize the country, focusing on projects ranging from railways to education. Though labeled the
 “Red Sultan” for his defiance against imperialism,
 he made the partitioning of the Ottoman Empire
 costly for Europe, turning what they thought would

@@ -50,14 +50,11 @@ Allah. But half a century later, I found myself asking
 the same questions again. However, when I did
 this, my imagination took me by the hand and led
 me to a “dreamlike” realm. Even the stones and
-soil of this enjoyable realm seemed alive... Even-
-tually, I found myself keeping pace with them and
+soil of this enjoyable realm seemed alive... Eventually, I found myself keeping pace with them and
 being compelled to write “peculiar writings” that
 made me smile.
-During this day-long journey, I sometimes at-
-tacked the stones and got beaten up by them.
-Sometimes, I conversed with the trees. While argu-
-ing with a bird the size of a finger, I learned things I
+During this day-long journey, I sometimes attacked the stones and got beaten up by them.
+Sometimes, I conversed with the trees. While arguing with a bird the size of a finger, I learned things I
 never knew from it.
 If you like, I can tell you about them too, and let’s
 all embark on a “Journey to Wonderland” together.

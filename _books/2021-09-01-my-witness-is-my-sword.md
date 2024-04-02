@@ -42,12 +42,10 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Bora Bey wanted to hold Elif Kız by her shoul-
-ders. But he quickly pulled back his arms, which
+“Bora Bey wanted to hold Elif Kız by her shoulders. But he quickly pulled back his arms, which
 were trembling towards her:
 “Look, Elif Girl,” she said. ‘You cannot know this
-feeling… We are engaged to our sword. Our wed-
-ding will be on horseback. Our groom’s suit is our
+feeling… We are engaged to our sword. Our wedding will be on horseback. Our groom’s suit is our
 shroud.
 Our grave, which will one day be dug where we
 will fall with a treacherous arrow or a treacherous
@@ -56,8 +54,7 @@ dagger blow; it will be our pilgrimage place…”
 love like a poisoned dagger…”
 Those who gave their lives for the sake of “Allah”
 and passed through the soul, leaving their swords
-as witnesses, they drank the sherbet of martyr-
-dom...
+as witnesses, they drank the sherbet of martyrdom...
 Covering the period from the enthronement of
 Suleiman the Magnificent to his death, this novel is
 the story of history within history.

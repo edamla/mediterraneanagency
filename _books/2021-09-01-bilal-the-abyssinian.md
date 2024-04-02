@@ -45,8 +45,7 @@ sold: [] # 'AZ', 'TR'
 The magnificent oppressed who invites the world
 to Islam with the adhan...
 This book is prepared for those who wants know
-that magnificent person who screams “Allahuak-
-bar!” even while groaning under sticks.
+that magnificent person who screams “Allahuakbar!” even while groaning under sticks.
 While reading this precious work, you will find the
 traces of Bilal in the world of humanity and follow
 those traces.

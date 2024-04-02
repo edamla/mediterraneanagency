@@ -50,8 +50,7 @@ world he lives in is a big and bloody scene where
 ridiculous tragedy and sad comedy blend. Here,
 brave and hard-hearted oppressors, incompetent
 fools, and ambitious people who set the world on
-fire with the greed to win, played a real and dan-
-gerous role. However, things went the other way,
+fire with the greed to win, played a real and dangerous role. However, things went the other way,
 and the devils who thought they were in control
 were able to bow down in the face of what they
 thought were idiots. On the stage of Enver, millions

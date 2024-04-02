@@ -47,13 +47,11 @@ Mecca, one of the most formidable stalwarts of its
 inhabitants was undoubtedly Hamza. By nature, he
 loved hunting, adventure, valor, and disliked a still
 life. Returning from the hunt, meeting the Kaaba
-and circumambulating it would give him a differ-
-ent pleasure. For some reason, something broke
+and circumambulating it would give him a different pleasure. For some reason, something broke
 inside him, his heart would melt while he was
 circumambulating.
 The sight of Hamza’s circumambulation on the
-way back from the hunt was worth seeing, be-
-cause the humble attitude of Hamza, who was a
+way back from the hunt was worth seeing, because the humble attitude of Hamza, who was a
 valiant man who did not bow to the mountains, was
 more valuable than others who were not as brave
 as him. Because it would not be so remarkable for

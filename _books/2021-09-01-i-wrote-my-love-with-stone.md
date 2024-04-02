@@ -45,16 +45,12 @@ sold: [] # 'AZ', 'TR'
 One of the most important factors that enriches
 our enlightenment and knowledge is the heritage
 from our past. In this respect, our history is filled
-with materials that we will proudly remember. How-
-ever, because we always look forward, we have
+with materials that we will proudly remember. However, because we always look forward, we have
 not understood the efforts and sacrifices of the
-people who prepared our future with their endeav-
-ors in the past enough. This unfortunate neglect
+people who prepared our future with their endeavors in the past enough. This unfortunate neglect
 has been prevalent in every field, from theology to
-literature, from sociology to architecture, from med-
-icine to astronomy. We have now entered a period
-where we realize that it will be difficult to move for-
-ward without the rich accumulation of the past. In
+literature, from sociology to architecture, from medicine to astronomy. We have now entered a period
+where we realize that it will be difficult to move forward without the rich accumulation of the past. In
 this regard, there are certainly countless names to
 consider. When we look at architecture within this
 focus, one of the most important names we should
@@ -62,8 +58,7 @@ focus on is undoubtedly Mimar Sinan. If we need
 to examine the picture of what an Anatolian child
 brought to the country through his recruitment to
 the Palace, then it is necessary to grasp the hidden
-details of Sinan’s life. If he became the ‘Chief Ar-
-chitect of the Ottoman State’ at the age of 50, then
+details of Sinan’s life. If he became the ‘Chief Architect of the Ottoman State’ at the age of 50, then
 it is of great benefit for us to know very well the
 source from which this gem was brewed and the
 dough from which it was kneaded, and the oven in

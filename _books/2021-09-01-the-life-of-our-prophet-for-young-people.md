@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 ---
 While writing this book, I couldn’t help but recall
 my youth. Some 60 years ago, during my middle
-or high school years, I would constantly ask my-
-self the same question: “As I step into youth, who
+or high school years, I would constantly ask myself the same question: “As I step into youth, who
 should I choose as an ‘example’? Whom should I
 resemble so that I can guide my life accordingly?”
 Of course, at that age, the only thing I thought

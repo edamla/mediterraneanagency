@@ -45,12 +45,10 @@ Where are You Online?
 According to a study, the average daily internet
 usage per person is 6 hours and 43 minutes, while
 social media usage is 2 hours and 24 minutes.
-When you multiply this data by the 5 billion inter-
-net users, you can better understand the massive
+When you multiply this data by the 5 billion internet users, you can better understand the massive
 scale of time spent on the internet.
 The virtual world, which mortgages half of our
-life’s capital, poses a question we need to ask our-
-selves before it traps us in its own realm:
+life’s capital, poses a question we need to ask ourselves before it traps us in its own realm:
 “Where am I online; in the virtual or in reality?”
 If you have answered, we can now begin.
 <!--more--> 

@@ -46,30 +46,21 @@ The human mind remembers information through
 pictures and makes it permanent. However, human
 memory; While creating memory pictures by using
 visual memory through schemas, concept and
-mind maps, one can perceive concepts more eas-
-ily and make all kinds of information more perma-
-nent. At this point, the purpose of visual memory,
+mind maps, one can perceive concepts more easily and make all kinds of information more permanent. At this point, the purpose of visual memory,
 which is based on schemas, concepts and mind
 maps, is to activate the unique unused potential of
 the brain and help it to develop it.
 With visual memory techniques, people can
-make sense of information by directing their con-
-sciousness and subconscious, which stores in-
-formation like a hard disk, to abstract concepts.
+make sense of information by directing their consciousness and subconscious, which stores information like a hard disk, to abstract concepts.
 Through visual memory based on diagrams,
 concepts and mind maps, humans can actively use
-their brains and make sense of the spiritual as-
-pects of worship in a very striking way.
+their brains and make sense of the spiritual aspects of worship in a very striking way.
 Sufism, which tries to build the spiritual integrity
-of man, enriches man’s value system and perspec-
-tive on life with different methods. This gives the
+of man, enriches man’s value system and perspective on life with different methods. This gives the
 brain and intelligence a target. At this point, the
 concepts and value system of Sufism strengthens
-a person’s brain with new methods and also deter-
-mines how he will think or how he will not think. Vi-
-sual memory techniques based on diagrams, mind
-and concept maps also offer people the opportuni-
-ty to internalize the spiritual and mystical aspects
+a person’s brain with new methods and also determines how he will think or how he will not think. Visual memory techniques based on diagrams, mind
+and concept maps also offer people the opportunity to internalize the spiritual and mystical aspects
 of worship more comfortably and more deeply.
 <!--more--> 
 

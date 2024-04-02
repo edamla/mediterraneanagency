@@ -54,16 +54,13 @@ with Islamic values. During this process, Turks,
 through the new states they established with a new
 spirit, identity, and dynamism, opened up to the
 world. They integrated love and faith, justice and
-fairness, tolerance and reason, and valued knowl-
-edge and scientific research, assuming a con-
-structive and proactive role on the stage of history.
+fairness, tolerance and reason, and valued knowledge and scientific research, assuming a constructive and proactive role on the stage of history.
 Consequently, they succeeded in becoming part
 of a universal civilization. This modest work aims
 to present, with examples to some extent, both the
 place of Turks who entered the circle of Islamic
 civilization through the acceptance of Islam and the
-institutions and social organizations they estab-
-lished to serve other nations and societies. It seeks
+institutions and social organizations they established to serve other nations and societies. It seeks
 to convey to the younger generations and readers.
 <!--more--> 
 

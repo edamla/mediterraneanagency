@@ -42,16 +42,14 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-The Almighty Creator has characterized human-
-ity as the most perfect of His creations and has
+The Almighty Creator has characterized humanity as the most perfect of His creations and has
 ordained LIFE as a temporary and mysterious play,
 moreover; regulated as a waiting period with a
 known end, with “Freedom of Choice” within it. In
 other words; “You are human, live like a human!”
 we’ve been told! Look around, Joys are like a
 mountain in this life, while sorrows are deep wells.
-You, descending boat, ascending boat, are be-
-wildered here! Yet, if a person could be a bucket;
+You, descending boat, ascending boat, are bewildered here! Yet, if a person could be a bucket;
 Firstly, filling it with the covenant of FAITH, and
 shouting “PRAYER is the sustenance of life!” Then
 it’s easy; Perceiving love as the sea, with the sky

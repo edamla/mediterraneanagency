@@ -46,27 +46,22 @@ pretend played by adults. This game of pretend
 often distances spouses from their marital duties.
 Unfortunately, these childish attitudes that arise
 in relationships often do not lead to any solutions
-between partners, ultimately resulting in the break-
-down of many marriages due to resolvable issues.
+between partners, ultimately resulting in the breakdown of many marriages due to resolvable issues.
 It’s the children caught in the middle who suffer the
 most in these situations...
 So why does this happen? Is marriage really
 just a game of pretend? Isn’t it time to realize that
-growing up, behaving like adults, and understand-
-ing that marriage is a lifelong journey?
-Do you think it’s not yet time to take on the re-
-sponsibilities that life, marriage, being a spouse,
+growing up, behaving like adults, and understanding that marriage is a lifelong journey?
+Do you think it’s not yet time to take on the responsibilities that life, marriage, being a spouse,
 and having children bring?
 The book in your hands provides answers to
 many such questions. With its simple and easily
 understandable language, it not only addresses all
 the questions that come to mind when it comes to
-marriage for married couples and those consider-
-ing marriage but also provides important insights in
+marriage for married couples and those considering marriage but also provides important insights in
 every line.
 For those intending to embark on the path of
-adulthood and understanding the nature of mar-
-riage to take an important step, the book has a lot
+adulthood and understanding the nature of marriage to take an important step, the book has a lot
 to say...
 <!--more--> 
 

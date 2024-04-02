@@ -45,11 +45,9 @@ Sadness is the name of an indescribable taste in
 Anatolia. Like the bitterness of pepper… Burning,
 aching, sweating; Then it gives a unique flavor, a
 strange comfort…
-“Sadness” is a special emotion that we are al-
-ways “familiar with”. Like a hawk’s claw, the lover’s
+“Sadness” is a special emotion that we are always “familiar with”. Like a hawk’s claw, the lover’s
 sad glance carves us through. “We are not familiar
 with the generation that does not know sadness.”
-says Yahya Kemal. So much sadness has perme-
-ated our souls for generations…
+says Yahya Kemal. So much sadness has permeated our souls for generations…
 <!--more--> 
 

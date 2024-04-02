@@ -48,8 +48,7 @@ and determined.
 “Let the trees on Maçka and Dolapdere sides be
 cut down tonight, let the thin navy of sixty-seven
 pieces be lowered to the Golden Horn tonight by
-making sledges, so that the mortar fire never ceas-
-es so that the enemy cannot notice the situation!”
+making sledges, so that the mortar fire never ceases so that the enemy cannot notice the situation!”
 “So, the ships will sail by land, my sultan?!”
 “If we can’t break the chain by walking by the
 sea, we’ll walk by the land.”

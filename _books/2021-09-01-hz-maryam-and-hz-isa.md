@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 ---
 This work presents colors and patterns from the
 exemplary life of a blessed prophet, who is unique
-in the world in terms of creation. By Allah’s permis-
-sion, that innocent prophet spoke when he was still
+in the world in terms of creation. By Allah’s permission, that innocent prophet spoke when he was still
 a baby and silenced the deniers who smelled of
 polytheism:
 “I am truly a servant of Allah, he gave me the

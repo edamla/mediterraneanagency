@@ -59,7 +59,6 @@ world!
 It was as if he had let go of both the heart and the
 world. He groaned in sorrow and said:
 -O Prophet, who casts his sun as a shadow on
-the Throne, make the blessing of your gaze a com-
-rade to me!
+the Throne, make the blessing of your gaze a comrade to me!
 <!--more--> 
 

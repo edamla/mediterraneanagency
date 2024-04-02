@@ -44,16 +44,14 @@ sold: [] # 'AZ', 'TR'
 ---
 This book reveals the “European miracle,” a
 notion that Turkish intellectuals have pursued for
-a century and a half, through different and sur-
-prising perspectives. Mustafa Armağan exposes
+a century and a half, through different and surprising perspectives. Mustafa Armağan exposes
 the great lies of European history. Some intriguing
 titles include: Florence Nightingale being known as
 the angel of death in England, Galileo not being a
 hero of science who opposed the church, Magna
 Carta being a step backward rather than forward in
 European history, and Hitler not actually having a
-plan to invade Europe. The author’s aim is to pro-
-voke thought and surprise readers. Following his
+plan to invade Europe. The author’s aim is to provoke thought and surprise readers. Following his
 significant works on Ottoman and recent history,
 Armağan invites readers to explore the unknown
 aspects of European history.

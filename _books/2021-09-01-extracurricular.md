@@ -42,8 +42,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 Being inside the school, being inside the office,
-being inside popular culture... “Being inside” inher-
-ently implies being limited, and as long as a person
+being inside popular culture... “Being inside” inherently implies being limited, and as long as a person
 remains “inside,” they are bound to confine their
 potential within these existing worlds. To liberate
 and become unique, one needs to step outside of
@@ -51,8 +50,7 @@ these boundaries.
 “Okuldışı” is a book of liberation narrated by a
 writer who has fallen off the horse many times on
 this path, despite all the pessimism, troubles, and
-difficulties, and tells young people that “there is an-
-other way” despite all the challenges. This book is
+difficulties, and tells young people that “there is another way” despite all the challenges. This book is
 a youth manifesto that claims the solution to many
 problems seen in our education system lies outside
 of school.

@@ -53,11 +53,8 @@ occurred throughout Ottoman history in this work.
 The consequences of these attempts and the fates
 of those who sought to overthrow the sultans are
 depicted vividly, like a film strip. Those who defied
-the Ottoman Palace and sought to depose the sul-
-tans from their thrones to install individuals of their
-own liking generally faced both societal condemna-
-tion and violent punishment for their mostly unsuc-
-cessful endeavors. To better understand today, it is
+the Ottoman Palace and sought to depose the sultans from their thrones to install individuals of their
+own liking generally faced both societal condemnation and violent punishment for their mostly unsuccessful endeavors. To better understand today, it is
 necessary to know and comprehend yesterday.
 <!--more--> 
 

@@ -46,8 +46,6 @@ sold: [] # 'AZ', 'TR'
 you... I learned to desire paradise; and eternity...
 Taking sleep beside me like a gentle cat, in the
 dawn prayers I offer... Looking at you and my
-love... I learned my Lord... Learning that His great-
-ness cannot be comprehended... I learned won-
-der...
+love... I learned my Lord... Learning that His greatness cannot be comprehended... I learned wonder...
 <!--more--> 
 

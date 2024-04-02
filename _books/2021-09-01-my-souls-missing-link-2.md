@@ -41,16 +41,12 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Experiencing psychological distress and prob-
-lems is not a deficiency. On the contrary, if these
+Experiencing psychological distress and problems is not a deficiency. On the contrary, if these
 problems and troubles can be evaluated, they are
 opportunities for people. That opportunity; It does
-not come to eliminate, erase or destroy the pain-
-ful events, losses, concerns and anger. On the
+not come to eliminate, erase or destroy the painful events, losses, concerns and anger. On the
 contrary, it comes to ensure the ability to live with
-them. This skill accompanies your evolution pro-
-cess in your life journey and protects you from get-
-ting lost spiritually. In order not to get lost spiritually
+them. This skill accompanies your evolution process in your life journey and protects you from getting lost spiritually. In order not to get lost spiritually
 and not to lose the rings of the soul, it is our duty to
 make an effort. In order not to become a prisoner
 and victim of negativity, you need to make an effort

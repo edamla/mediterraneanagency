@@ -47,10 +47,8 @@ of Islamic lands into small states, were initiated
 by Crusader and Zionist organizations through
 intelligence warfare starting 150 years ago. In this
 research:
-- Sultan Abdulhamid’s “Yıldız Intelligence Organi-
-zation”,
-- Operations and operatives of the Special Organi-
-zation,
+- Sultan Abdulhamid’s “Yıldız Intelligence Organization”,
+- Operations and operatives of the Special Organization,
 - Pre-British occupation Zionist organizations such
 as Nili, Bilu, Gideon, Hashomer, etc.,
 - Post-occupation Zionist organizations such as

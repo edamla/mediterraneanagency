@@ -44,14 +44,11 @@ sold: [] # 'AZ', 'TR'
 ---
 Yıldırım Bayezid, fittingly named for his swift
 movements, was a sultan who moved quickly,
-reached everywhere, and had extremely high mo-
-bility. Living between 1354 and March 8, 1403, and
+reached everywhere, and had extremely high mobility. Living between 1354 and March 8, 1403, and
 reigning for a total of 14 years, Yıldırım Bayezid
-achieved a magnificent victory against the Crusad-
-ers in Niğbolu. Loved and respected by his close
+achieved a magnificent victory against the Crusaders in Niğbolu. Loved and respected by his close
 circle, Yıldırım Bayezid, who died at a young age,
-lost the battle against Timur, known for his atroci-
-ties, in Ankara, leading the Ottoman Empire into a
+lost the battle against Timur, known for his atrocities, in Ankara, leading the Ottoman Empire into a
 period of civil strife. Experiencing the first betrayals
 in the Ottoman Empire but never losing his morale
 and completing his life for the sake of spreading

@@ -42,19 +42,16 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Men and women develop their skills through mar-
-riage... They try to overcome the difficul-ties they
+Men and women develop their skills through marriage... They try to overcome the difficul-ties they
 encounter together... If the spouses sincerely share
-their personal interests and friendships, the magnif-
-icent adventure called marriage becomes the most
+their personal interests and friendships, the magnificent adventure called marriage becomes the most
 beautiful reality in the world. Men and women alike,
 not to lead a harder, worse life in the past; they get
 married for a better, more orderly, more humane
 life. Marriage is the best reward for both men and
 women. If the spouses approach each other with
 loyalty, self-sacrifice, and unrequited love in order
-to obtain this reward, they will achie-ve their wish-
-es. They make each other happy and they will be
+to obtain this reward, they will achie-ve their wishes. They make each other happy and they will be
 happy...
 <!--more--> 
 

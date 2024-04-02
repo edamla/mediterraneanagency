@@ -43,15 +43,12 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 The Prophet, who is the reason for existence,
-states the following about his blessed grandchil-
-dren: “Whoever loves Hassan and Hussein has
+states the following about his blessed grandchildren: “Whoever loves Hassan and Hussein has
 loved me, and whoever is hostile to them will
 certainly be hostile to me!” The Messenger of Allah
-loved those everlasting flowers with this love. Haz-
-rat Abu Bakr (radiyallahu anh) once called out to
+loved those everlasting flowers with this love. Hazrat Abu Bakr (radiyallahu anh) once called out to
 the Companions:
-“O people! Protect Allah’s Beloved, Almigh-ty Mu-
-hammad Mustafa (sallallahu ‘alaihi wa sallam) and
+“O people! Protect Allah’s Beloved, Almigh-ty Muhammad Mustafa (sallallahu ‘alaihi wa sallam) and
 his family! Do not torture or op-press them. Know
 well that I prefer visiting the relatives of the Prophet
 to visiting my own relatives and I love them more

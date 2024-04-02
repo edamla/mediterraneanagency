@@ -44,8 +44,7 @@ sold: [] # 'AZ', 'TR'
 ---
 Our storybook series “From Life” consisting of 3
 volumes has been read by millions of people for
-half a century. Later, it was translated into 10 for-
-eign languages and won the hearts of those people
+half a century. Later, it was translated into 10 foreign languages and won the hearts of those people
 as well. Since these works appeal to people of “all
 ages” from 7 to 77, in the book you have in your
 hands, we have brought together the stories that

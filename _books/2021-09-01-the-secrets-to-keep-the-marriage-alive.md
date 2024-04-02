@@ -45,8 +45,7 @@ sold: [] # 'AZ', 'TR'
 This book is a reference book prepared for
 spouses who experience monotony in their family
 life, who cannot get out of some deadlocks over
-time, or who experience uneasiness due to differ-
-ent reasons. In addition, it is a must-see for those
+time, or who experience uneasiness due to different reasons. In addition, it is a must-see for those
 who want to get married, those who seek peace in
 marriage, and those who are considering divorce.
 <!--more--> 

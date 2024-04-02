@@ -51,8 +51,7 @@ classic characters, all the new heroes who take
 the stage in this novel are historical figures. The
 political and social conditions of the period leading
 up to World War I are recounted in this work. The
-plundered Great State!.. The regrets of the poli-
-ticians who orchestrated the 31 March incidents
+plundered Great State!.. The regrets of the politicians who orchestrated the 31 March incidents
 and dethroned Sultan Abdulhamid!.. The defeat in
 Trablusgarp!.. The bitter face of the Second Balkan
 Defeat!.. The helplessness of the Ottoman Empire,

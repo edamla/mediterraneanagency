@@ -43,13 +43,10 @@ sold: [] # 'AZ', 'TR'
 ---
 Life is a matter of balance...
 It is important to establish a balance betwe-en
-body and soul, heart and conscience, and happi-
-ness and success. Success and health are neces-
-sary for all of us, but most and first for our children.
+body and soul, heart and conscience, and happiness and success. Success and health are necessary for all of us, but most and first for our children.
 Of course, it is the duty of the parents to ensure
 this. Then it belongs to re-latives, neighbors,
-schools, the whole society. Because today’s suc-
-cessful and healthy child-ren will be the mothers
+schools, the whole society. Because today’s successful and healthy child-ren will be the mothers
 and fathers of tomor-row’s more successful and
 robust generations. In other words, those who think
 a century ahead have no more realistic and easier

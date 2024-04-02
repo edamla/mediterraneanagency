@@ -51,8 +51,7 @@ for their death. I have already healed the three
 wounds inflicted on my body by your weapons with
 the medicines I have made from the healing herbs
 of Dagestan, and I have prepared to fight against
-you. I have already dedicated my remaining chil-
-dren as a sacrifice to the country and the way of
+you. I have already dedicated my remaining children as a sacrifice to the country and the way of
 Allah. We will give everything to you and your Tsar
 in abundance, but never the freedom and honor of
 the homeland!”

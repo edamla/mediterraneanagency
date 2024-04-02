@@ -57,8 +57,7 @@ When we are born, millions of minutes are given
 to us. As we live, we find ourselves face to face
 with slippery millions of minutes. As the minutes
 diminish, we become more and more helpless. No
-matter how much we resist, we can’t stop this cra-
-zy disappearance. We are afraid. And side by side,
+matter how much we resist, we can’t stop this crazy disappearance. We are afraid. And side by side,
 we stand. Now...
 And forever...
 <!--more--> 

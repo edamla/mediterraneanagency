@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 This book is an expression of our burning love,
-unbreakable devotion and following in the fo-ot-
-steps of the Prophet (pbuh).
+unbreakable devotion and following in the fo-otsteps of the Prophet (pbuh).
 O our leader, our prophet, whom we follow! No
 instrument of attraction can determine the degree
 of our devotion to the Divine Prophethood.

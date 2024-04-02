@@ -47,14 +47,11 @@ the Ottoman Empire in her lifetime.
 She is a sultana who came to the rescue in the
 difficult times of the state and raised Mehmed the
 Fourth in her arms.
-Her contemporaries recognized her as an epit-
-ome of chastity. It is not possible to calculate her
+Her contemporaries recognized her as an epitome of chastity. It is not possible to calculate her
 charities that serve humanity. She is the one who
-saved the honor of Istanbul by building the Çanak-
-kale fortifications. In addition, her charity works on
+saved the honor of Istanbul by building the Çanakkale fortifications. In addition, her charity works on
 the way to the Kaaba and the unique mosque in
-Istanbul can be seen. There has never been anoth-
-er Sultana in history to whom such greatness has
+Istanbul can be seen. There has never been another Sultana in history to whom such greatness has
 been bestowed.
 <!--more--> 
 

@@ -55,9 +55,7 @@ spiritual motifs. Despite his very simple language, it
 is poetic and rich... I am expecting many beautiful
 works from him... (Ahmet Kabaklı)
 Look, Murat is speaking. He has something to
-say: Fresh and directed from the last border of rea-
-son... I wish all Murats spoke the same way. Lov-
-ing... is both easy and hard. Dying... is both easy
+say: Fresh and directed from the last border of reason... I wish all Murats spoke the same way. Loving... is both easy and hard. Dying... is both easy
 and hard. Beginning... is both easy and hard. But,
 listening to Murat is quite pleasant. Your moments
 become more enriched. Suddenly, a ticking clock

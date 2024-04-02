@@ -44,12 +44,10 @@ sold: [] # 'AZ', 'TR'
 ---
 These stories differ in many ways from those that
 have been written so far: They contain stories that
-shed light on real life and, in a way, reveal thou-
-sands of years of experience of the Orient. Again,
+shed light on real life and, in a way, reveal thousands of years of experience of the Orient. Again,
 exemplary signs that have been lived in life in
 history and whose similar ones will be experienced
-in the future have been revealed. Again, the mem-
-ories of our author himself are also included in this
+in the future have been revealed. Again, the memories of our author himself are also included in this
 work.
 <!--more--> 
 

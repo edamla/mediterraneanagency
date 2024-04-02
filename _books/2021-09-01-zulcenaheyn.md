@@ -46,8 +46,7 @@ Where does the lineage of Erzurumlu Ibrahim
 Hakki originate from? Is he a Seyyid? Who are the
 two people you need to know before understanding
 him? How did his father’s spiritual distress affect
-him? Who was the first teacher of Erzurumlu Ibra-
-him Hakki? At what age did he begin his pursuit
+him? Who was the first teacher of Erzurumlu Ibrahim Hakki? At what age did he begin his pursuit
 of knowledge? How did he meet Ismail Fakirullah
 Hazretleri? How many years did he stay at the
 Tillo Dergah? Who were his companions on the
@@ -58,14 +57,11 @@ he experience while writing? Throughout his life,
 how many journeys did Erzurumlu Ibrahim Hakki
 undertake? Did Erzurumlu Ibrahim Hakki, may he
 rest in peace, pass away feeling estranged from
-Erzurum? Why was he buried in Tillo instead of Er-
-zurum? Erzurumlu Ibrahim Hakki... a poet encom-
-passing a 77-year lifespan, a traveler, a sage... A
+Erzurum? Why was he buried in Tillo instead of Erzurum? Erzurumlu Ibrahim Hakki... a poet encompassing a 77-year lifespan, a traveler, a sage... A
 great Sufi master, a great scientist, far ahead of his
 time with his most famous work being Marifetname
 and dozens more unknown works... A genius in
 both worldly and spiritual sciences... Two-winged,
-known as Zülcenaheyn... Erzurumlu Ibrahim Hak-
-ki...
+known as Zülcenaheyn... Erzurumlu Ibrahim Hakki...
 <!--more--> 
 

@@ -42,16 +42,14 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-This book presents gleams from the life of Fati-
-mah al-Zahra (Radıyallahü Anha), who is the
+This book presents gleams from the life of Fatimah al-Zahra (Radıyallahü Anha), who is the
 highest of the women of the world and heaven.
 She was Fatimah, a pearl that fell from the horizon
 of heaven to the earth of the world.
 Fatima was the light and joy of the eyes of the
 Messenger of Allah. She was a part of the blessed
 body of the Prophet (pbuh). That Fatima was an
-unfading flower that grew from the ro-sary of Haz-
-rat Khadijah.
+unfading flower that grew from the ro-sary of Hazrat Khadijah.
 What can I say for her with this weakness? She
 was an unfading flower that the Prophet, who was
 a mercy to the worlds, kissed and smelled.

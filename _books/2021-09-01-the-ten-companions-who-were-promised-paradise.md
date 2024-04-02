@@ -43,8 +43,7 @@ sold: [] # 'AZ', 'TR'
 # For adding excerpt add <!--more--> and break the line
 ---
 A Companion is someone who sees the Beloved
-of Allah once, or is seen for a moment by Rasulal-
-lah with his heart filled with the light of faith. The
+of Allah once, or is seen for a moment by Rasulallah with his heart filled with the light of faith. The
 Messenger of Allah himself said, “My Companions
 are like stars; whichever you follow, you will find
 the right way!”

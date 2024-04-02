@@ -45,23 +45,16 @@ sold: [] # 'AZ', 'TR'
 Our Noble Prophet implemented the new spirit
 and dynamism brought by Islam and left us his
 duty forever as a trust of faith with his preaching,
-which became a means of salvation for all human-
-ity. The Four Caliphs who succeeded him fulfilled
+which became a means of salvation for all humanity. The Four Caliphs who succeeded him fulfilled
 this sacred trust with honor. In the first century of
 Islam, the Umayyads who came after the Four
-Caliphs subjected many Muslims, including the be-
-loved grandsons of the Prophet, Hasan and Hus-
-sein, to unspeakable atrocities. In such a darkness
+Caliphs subjected many Muslims, including the beloved grandsons of the Prophet, Hasan and Hussein, to unspeakable atrocities. In such a darkness
 of oppression, the divine wisdom manifested, and
-Umar bin Abdulaziz, who restored the light and jus-
-tice of Islam, became the caliph. The main reason
+Umar bin Abdulaziz, who restored the light and justice of Islam, became the caliph. The main reason
 why he is rightfully referred to as the ‘5th Caliph’
-or ‘Second Umar’ in Islamic history is his re-estab-
-lishment of just governance in accordance with the
+or ‘Second Umar’ in Islamic history is his re-establishment of just governance in accordance with the
 Quran and Sunnah. This work in your hands is the
-novel of this Honorable Man, who greatly contrib-
-uted to the advancement of Islam beyond the dirty
-wheel of political intrigues during his short caliph-
-ate period, achieving great deeds.
+novel of this Honorable Man, who greatly contributed to the advancement of Islam beyond the dirty
+wheel of political intrigues during his short caliphate period, achieving great deeds.
 <!--more--> 
 
