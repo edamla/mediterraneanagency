@@ -12,6 +12,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: false
+fiction: true
+
 # Book attributes
 ean: 9786057660305
 languages: []

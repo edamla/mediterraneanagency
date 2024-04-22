@@ -12,6 +12,9 @@ tags: [ "history"]
 previewpage: false
 featured: false
 
+children: false
+fiction: true
+
 # Book attributes
 ean: 9786057164056
 languages: []

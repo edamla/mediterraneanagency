@@ -12,6 +12,9 @@ tags: [ "dairy","fun","adventure"]
 previewpage: true
 featured: true
 
+children: true
+fiction: true
+
 # Book attributes
 ean: 9786051745176
 languages: ["English","Arabic"]

@@ -12,6 +12,9 @@ tags: [ "literary"]
 previewpage: false
 featured: false
 
+children: false
+fiction: true
+
 # Book attributes
 ean: 9789757726821
 languages: []

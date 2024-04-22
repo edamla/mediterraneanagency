@@ -12,6 +12,9 @@ tags: [ "fiction"]
 previewpage: true
 featured: true
 
+children: true
+fiction: true
+
 # Book attributes
 ean: 9786051742663
 languages: ["Türkçe"]

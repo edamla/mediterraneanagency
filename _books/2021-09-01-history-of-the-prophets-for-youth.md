@@ -13,6 +13,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: true
+fiction: false
+
 # Book attributes
 ean: 9786057660251
 languages: []

@@ -13,6 +13,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: false
+fiction: true
+
 # Book attributes
 ean: 786057094667
 languages: []

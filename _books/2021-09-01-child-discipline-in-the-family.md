@@ -12,6 +12,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: false
+fiction: false
+
 # Book attributes
 ean: 9799756457039
 languages: []

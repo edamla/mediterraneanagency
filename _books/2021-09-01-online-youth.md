@@ -12,6 +12,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: true
+fiction: true
+
 # Book attributes
 ean: 9786059114318
 languages: []

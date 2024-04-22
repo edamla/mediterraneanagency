@@ -13,6 +13,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: true
+fiction: true
+
 # Book attributes
 ean: 9786057195302
 languages: []

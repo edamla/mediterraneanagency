@@ -13,6 +13,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: false
+fiction: false
+
 # Book attributes
 ean: 9789756457955
 languages: []

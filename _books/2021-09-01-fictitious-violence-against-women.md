@@ -12,6 +12,9 @@ tags: [ "female"]
 previewpage: false
 featured: false
 
+children: false
+fiction: false
+
 # Book attributes
 ean: 9786057164087
 languages: []

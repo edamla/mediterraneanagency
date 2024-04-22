@@ -12,6 +12,9 @@ tags: [ "mercy"]
 previewpage: false
 featured: false
 
+children: false
+fiction: true
+
 # Book attributes
 ean: 9786057660237
 languages: []

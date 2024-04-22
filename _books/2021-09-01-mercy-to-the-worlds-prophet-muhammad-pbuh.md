@@ -13,6 +13,9 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
+children: false
+fiction: false
+
 # Book attributes
 ean: 9786055457150
 languages: []
