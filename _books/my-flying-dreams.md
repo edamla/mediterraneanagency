@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "My Flying Dreams"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: damlapublishing
+authors: "Sara Gürbüz Özeren"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786051745374.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786051745374
 languages: []
-page: 256
+page: 800
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Hayallerimin Kanatları"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,14 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Joshua was a very clever and curious boy who was also a little
+bit stubborn!
+He always loved dreaming as it made him feel like flying
+together with his dreams. He was passionate in anything he did,
+one of them being skiing. But one day, this passion drags him
+into a big trouble. Joshua never gives up and promises himself
+to be a successful in his life by the great help of his mother.
+Let’s read how Joshua flies with his dreams and writes his own
+success story.
 <!--more--> 
 

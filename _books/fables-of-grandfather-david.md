@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Fables of Grandfather David"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: elmapublishing
+authors: "Emre Şimdi"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786257112529.jpg
+categories: [ "Personal Training" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786257112529
 languages: []
-page: 256
+page: 96
 size: "13,5x21cm"
 #publish-number: 60
 cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+original-name:  "Dede Davut Masalları"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,8 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Tales of Grandfather David are like a magnificent tapestry woven from magical tales woven
+with brightly colored threads into a child’s memories. The combination of these two elements creates a remarkable and extraordinarily profound
+children’s book.
 <!--more--> 
 

@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "One Peach A Thousand Peaches"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: bilgilipublishing
+authors: "Necati Akbaba"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786259895239.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786259895239
 languages: []
-page: 256
+page: 60
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Bir Şeftali Bin Şeftali"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,32 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+This masterpiece from the poignant pen
+of Samed Behrengi narrates the journey
+of a child’s growth and the complexity
+of life. Interwoven with nested stories,
+this novel offers a journey into human
+values, friendship, love, and the beauty
+of nature.
+Behrengi, who said, “Man needs nature
+to discover himself,” tells the adventures
+of a group of children in a peach orchard
+in this book. When we see the world
+through their eyes, we begin to discover
+the great secrets lying beneath a simple
+peach tree.
+Every page of this heartwarming story
+emphasizes the power of innocence and
+curiosity. Samed Behrengi’s emotional
+richness and simple language immerse
+readers in deep thoughts. The book
+encourages young people and adults to
+think, question, and enjoy life.
+“A Peach for a Peach” is a story about
+humanity, nature, and the relationship
+between humans and nature. This
+work, filled with unforgettable characters by Behrengi, takes readers on
+a journey into their own inner worlds
+and the secrets of nature.
 <!--more--> 
 

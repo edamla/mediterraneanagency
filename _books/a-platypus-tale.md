@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "A Platypus Tale"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
-illustrators: [""]
+publisher: vadipublishing
+authors: "Yağmur Kartal"
+illustrators: ["Deniz Avcıer"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786059114479.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786059114479
 languages: []
-page: 256
+page: 36
 size: "13,5x21cm"
 #publish-number: 60
 cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+original-name:  "Bir Ornitorenk Masalı"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,11 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+My name is Little Ornit.
+I was so impatient to get to know the world and meet my friends in the forest that I hatched early.
+While everyone was sleeping soundly, I went little by little, I went far, I went straight up and down the river.
+I met many friends who were similar to me but different from me, and I saw and heard a lot. Afterwards, when I
+returned to my mother’s arms, I wanted to include you in my adventures.
+Come on, open the pages of the book now and follow my steps in the forest...
 <!--more--> 
 

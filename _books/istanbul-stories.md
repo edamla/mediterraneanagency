@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Istanbul Stories"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: damlapublishing
+authors: "Sara Gürbüz Özeren"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786053838135.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786053838135
 languages: []
-page: 256
+page: 176
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "İstanbul Semt Öyküleri"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,11 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Istanbul Neighborhood Tales: Istanbul’s neighborhoods, streets, and monuments, each imbued with the scent
+of history, have become the subject of various legends, shrouded in mystery as if deriving their beauty from
+a divine elixir. We have compiled some of these Istanbul neighborhood legends, passed down from mouth to
+mouth, generation to generation, to share with you, our readers, as much as our abilities allow. We wanted you
+to hear about the jewel of the world, Istanbul, from the perspective of legends. As you read this book, you will get
+to know the beautiful Istanbul from a different angle and feel proud to have a city like Istanbul.
 <!--more--> 
 

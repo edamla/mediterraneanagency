@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "365 Fairy Tales"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: minikdamlapublishing
+authors: "Betül Yağsağan"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9789753819275.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9789753819275
 languages: []
 page: 256
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "365 Fairy Tales"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,12 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Each day you can read a story from this book that helps to develop the personality of your child. The book is designed for ages
+from 4 to 9, either to read or to be read. Every tale in the book has
+a message like; not to lie, to share, to apologize, not to brag, to
+sacrifice, empathy, humility, and of course to love.
+Enjoyable illustrations that support the stories throughout the book.
+Expert pedagogues check the conformity of the stories for these
+age groups.
 <!--more--> 
 

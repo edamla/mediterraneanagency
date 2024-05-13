@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Live in the Name of Allah !"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: nitopublishing
+authors: "Nurten Ceceli Alkan"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786050648416.jpg
+categories: [ "Personal Training" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786050648416
 languages: []
-page: 256
+page: 232
 size: "13,5x21cm"
 #publish-number: 60
 cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+original-name:  "Rabbinin Adıyla Yaşa!"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,11 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+This book consists of a female theologian’s contem- porary commentary on selected Qur’an verses. It
+is vital to understand the holy verses, because the Holy Qur’an is not only supposed to be recited as a gift to the
+dead, but it is a life-guide for the living. If we consult the Qur’an and ask ‘What our God would tell us on this?’, it
+would help us solve our daily problems and would bring peace and happiness to our lives.
+These commentaries were written during Ramadan and on Fridays for more than a year. Each one of them ends
+with a beautiful prayer and they invite the readers to adorn their lives with good deeds.
 <!--more--> 
 

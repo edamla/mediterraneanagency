@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Kraken, Explorer Of The Seas"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
-illustrators: [""]
+publisher: gencdamlapublishing
+authors: "Necati Akbaba"
+illustrators: ["Eslem Yaşar"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786051744179.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786051744179
 languages: []
-page: 256
+page: 160
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Kraken , Derinlerdeki Gölge"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,16 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Ships, submarines, and even diving fishmen are disappearing one by one.
+No one can explain why. Because those who go to investigate never return.
+The famous oceanographer Prof. Celalettin and his team set out to unravel
+this mystery with research ships named Kraken. The Kraken, named after
+the mythological sea monster, is equipped with state-of-the-art submarines.
+Our heroes board these submarines and decide to dive deep into the ocean
+to solve the mystery of the mysterious disappearances. Will they be able to
+solve this mystery? What if they disappear too? What lies beneath the sea?
+Why is no one returning? Could there be different life forms under the sea?
+The answers to all these questions are hidden in this book. Come on, if you
+can’t resist your curiosity, open the cover of this book too...
 <!--more--> 
 

@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "A Woderfull Factory"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: celikpublishing
+authors: "Hatice Kübra İpek"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786057367457.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786057367457
 languages: []
-page: 256
+page: 800
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Bir Acayip Fabrika"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,15 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Zeynep, Ömer, Ertuğrul, Almina, Yasir Asaf and Elif are our
+benevolent, generous, compassionate and conscientious he-roes...
+They live in a land of incredible beauty, like a fairy tale. They embark
+on various adventures with the tasks they rece-ive from Strange
+Factory, which only children can enter. Our heroes who are realizing
+the beauty of friendship, the impor-tance of love and cooperation in
+these tasks, will be able to reach solutions and fulfill the task?
+If you want to open the doors of a Strange Factory and find out
+what’s going on inside, what kind of secret it carries, to whom and
+why it sends gifts, we are waiting for you...
 <!--more--> 
 

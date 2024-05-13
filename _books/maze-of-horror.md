@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Maze of Horror"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: gencdamlapublishing
+authors: "Necati Akbaba"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786051747989.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786051747989
 languages: []
-page: 256
+page: 176
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Korku Labirenti"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,15 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Zeynep, Elif, Soykan and Miraç are four friends who took a diving
+course during the summer break. While they are diving they meet
+with the sharks and accidentally seek refuge in an undersea cave.
+However that cave is not a place to refuge at all. Four friends who
+enter through a door that suddenly opens; they find themselves in a
+labyrinth of mystery and fear. There was an invisible one or ones in
+this labyrinth constantly play games to these teens. What do teens
+encounter in this horror labyrinth? Who are those who play these
+games? Are teens able to get out of this labyrinth?
+“this is it.”
 <!--more--> 
 

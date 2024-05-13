@@ -1,29 +1,28 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "I’m Learning Quran Letters with Fairy Tales"
 
-
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: celikpublishing
+authors: "Yusuf Dikili"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786059495387.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
+children: true
 fiction: false
 
 # Book attributes
-ean: 9786057410719
+ean: 9786059495387
 languages: []
-page: 256
+page: 84
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Masallarla Kur'an Harflerini Öğreniyorum"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +44,18 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+This book aims to help our children to establish an
+emotional bond with the Qur’an by making use of the
+magical world of fairy tales, and to contribute to their
+absorbation of our spiritual and human values.
+Each of the tales aims to be learned with pleasure by
+establishing a bond of love with the Qur’an, not by tiring
+memorization with the Qur’an alphabet, but by establishing relationships with other beings and phenomena. It is
+one of the aims of the book that our children adopt our
+dozens of values, especially unity.
+These tales, which will be read to our pre-school children be-fore they go to sleep, will hopefully enable them
+to sleep with the Qur’an and wake up with the Qur’an,
+and our religious values will flourish like seeds in their
+pure and clean minds.
 <!--more--> 
 

@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "My Dear Guide Prophet Muhammad (Pbuh)"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
+publisher: damlapublishing
+authors: "Nehi̇r Aydin Gökduman"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786051742656.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786051742656
 languages: []
-page: 256
+page: 320
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Canım Rehberim Peygamberim"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,17 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+Eren and Ceren are two curious and
+lovely siblings. They learn about life and
+follow the path of being a good person.
+And they take Prophet Muhammad as
+their main example. One day, Eren told
+this to Ceren: “We love our Prophet so
+much and care about every single word
+of his. But why don’t we have an email
+group dedicated to hadiths? And the adventure started around this simple question. Come on, join the group and make
+your life more meaningful with beautiful
+hadiths! Let Prophet Muhammad be your
+only guide!
 <!--more--> 
 

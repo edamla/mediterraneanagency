@@ -1,29 +1,29 @@
 ---
 layout: book
-title:  "A Life In Pursuit Of The Red Apple - Fatih Sultan Mehmed"
+title:  "Aliens Club"
 
 
-publisher: hümayunpublishing
-authors: "Mustafa Armağan"
-illustrators: [""]
+publisher: gencdamlapublishing
+authors: "Resul Dede"
+illustrators: ["Ahmet Uzun"]
 translators: #["naci-turan","burak-dogru"]
-image: assets/images/ean/9786057410719.jpg
-categories: [ "History" ]
+image: assets/images/ean/9786254114281.jpg
+categories: [ "Children’s Story" ]
 tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+children: true
+fiction: true
 
 # Book attributes
-ean: 9786057410719
+ean: 9786254114281
 languages: []
-page: 256
+page: 128
 size: "13,5x21cm"
 #publish-number: 60
-cover: "Paperback"
-original-name:  "Kızıl Elma Peşinde Bir Ömür"
+cover: "Coated Paper"
+original-name:  "Uzaydan Gelenler Kulübü"
 original-language: "Turkish"
 youtube:
 
@@ -45,23 +45,21 @@ sold: [] # 'AZ', 'TR'
 
 # For adding excerpt add <!--more--> and break the line
 ---
-“Journey Towards the Burning Ember Within Fa-
-tih” This book is filled with boats passing through,
-filled with scholars. It identifies the golden rings
-that intertwine geographies like a necklace. It sets
-sail towards a vast horizon that combines the pas-
-sion for maps with inner world technology. For the
-author, the substance of Fatih and his conquests
-is as important, perhaps even more so, than what
-they express. What was this young Sultan looking
-for in the legendary library of the Byzantine Emper-
-or? And why did he have the biography of Plutarch,
-the oracle of the Delphi temple, transcribed? What
-void did he expect the wisdom in the dozens of
-commentaries on Fusus al-Hikam to fill? We don’t
-know enough about these. What we do know is
-that there is a fire burning within him. If this book
-can bring the reader even one step closer to that
-ember, it will have largely fulfilled its duty.
+From the darkness, a mysterious alien entity
+silently glides into Ali’s room, leaving behind an
+object that will change his life: a beam clock.
+When Ali wakes up in the morning, he discovers this enigmatic device, and an instinctual
+curiosity leads him into an unexpected adventure to Planet-9. On this mysterious planet, a
+teacher named Acura awakens, shaken by back
+pain. The cause of this pain will not only set off
+a chain of dangerous events but also determine
+the fate of the entire planet.
+Planet-9, with its inhabitants of blue-skinned and
+red-haired individuals, is beyond our imagination, free from stereotypes, and a unique world.
+However, this peaceful existence, lasting for
+years, is threatened by the upcoming presidential elections...
+Between Earth and Planet-9, a fantastical and
+mysterious adventure awaits, woven with clever
+and witty dialogues.
 <!--more--> 
 
