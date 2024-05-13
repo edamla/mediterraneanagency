@@ -105,7 +105,7 @@ layout: default
                             {% if book.children %}
 							<div class="book" data-category="ChildrensFiction">
                             <li class="list-group-item">
-                            <div id="childrenFictionLink" class="md-v-line"></div><i class="fas fa-scroll mr-1 fa-lg text-danger"></i><span class="mr-1">Type:</span>Children's Fiction
+                            <div id="childrenFictionLink" class="md-v-line"></div><i class="fas fa-scroll mr-1 fa-lg text-danger"></i><span class="mr-1">Type:</span>Fiction
                             </li>
 						    </div>
 
@@ -126,6 +126,15 @@ layout: default
 								<span class="mr-1">Type:</span>Non-Fiction
 							</li>
 
+							{% endif %}
+							{% if book.children %}
+    						<li class="list-group-item">
+        						<div class="md-v-line"></div><i class="fas fa-scroll mr-1 fa-lg text-success"></i><span class="mr-1"> Genre:</span>Children
+    						</li>
+							{% else %}
+    						<li class="list-group-item">
+        						<div class="md-v-line"></div><i class="fas fa-scroll mr-1 fa-lg text-success"></i><span class="mr-1"> Genre:</span>Adult
+    						</li>
 							{% endif %}
 
 							{% if book.authors.size > 0 %}
