@@ -1,0 +1,58 @@
+---
+layout: book
+title:  "Rumi"
+
+
+publisher: celikpublishing
+authors: "Veysel Akkaya"
+illustrators: [""]
+translators: #["naci-turan","burak-dogru"]
+image: assets/images/ean/9786057916044.jpg
+categories: [ "Children’s Story" ]
+tags: [ "literature"]
+previewpage: false
+featured: false
+
+children: true
+fiction: true
+
+# Book attributes
+ean: 9786057916044
+languages: []
+page: 448
+size: "13,5x21cm"
+#publish-number: 60
+cover: "Coated Paper"
+original-name:  "Rumi"
+original-language: "Turkish"
+youtube:
+
+# Foreign Rights attributes
+sold: [] # 'AZ', 'TR'
+
+# Buyout Ecommerce
+# dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# kitapyurdu: "https://www.kitapyurdu.com/kitap/sacakli-kizin-pasakli-gunlugu-2-/560122.html&filter_name=Sa%C3%A7akl%C4%B1+K%C4%B1z%27%C4%B1n+Pasakl%C4%B1+G%C3%BCnl%C3%BC%C4%9F%C3%BC+2"
+# idefix: "https://www.idefix.com/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
+# hepsiburada: "https://www.hepsiburada.com/sacakli-kiz-in-pasakli-gunlugu-2-damla-yayinevi-p-HBV000012ER86"
+# trendyol: "https://www.trendyol.com/genc-damla-yayinevi/sacakli-kiz-in-pasakli-gunlugu-2-p-54825777"
+# gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
+# odatvkitap: #"https://www.odatvkitap.com.tr"
+# bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
+# amazontr: #"https://www.amazon.com.tr"
+# dkitap: #"https://www.dkitap.com/sacakli-kizin-pasakli-gunlugu"
+# damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kiz-in-pasakli-gunlugu-2-bu-iste-bi-terslik-var"
+
+# For adding excerpt add <!--more--> and break the line
+---
+They were men of heart who united their cause with love and held a
+deep affection for children. One of them, Mawlana, once encountered a
+group of children. The children playfully surrounded him and declared,
+“You are now our prisoner. There is no escape!” Mawlana immediate-
+ly joined their game, raising his hands in surrender. Pretending to be
+upset, he asked, “How can I free myself from captivity?” The children
+responded seriously, “If you offer a ransom, we will release you. Otherwise, you will remain our prisoner!” Mawlana checked his pockets and
+took out some walnuts, asking, “Will I be set free if I give these as ransom?” Understanding that the children were seeking gifts, they accepted the walnuts and departed. Mawlana smiled after them and remarked,
+“We were released at a bargain, just like Prophet Joseph.”
+<!--more--> 
+
