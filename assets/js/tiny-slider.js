@@ -3173,6 +3173,5 @@ var tns = function(options) {
     }
   };
 };
-
 return tns;
 })();

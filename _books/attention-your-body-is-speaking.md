@@ -14,7 +14,7 @@ previewpage: false
 featured: false
 
 children: false
-fiction: true
+fiction: false
 
 # Book attributes
 ean: 9789756093115

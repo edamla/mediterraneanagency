@@ -13,7 +13,7 @@ tags: [ "literature"]
 previewpage: false
 featured: false
 
-children: false
+children: true
 fiction: true
 
 # Book attributes
