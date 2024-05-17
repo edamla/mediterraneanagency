@@ -9,19 +9,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9789759199234.jpg
 categories: [ "Family" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9789759199234
 languages: []
 page: 317
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Evliliği Canlı Tutmanın Sırları"
 original-language: "Turkish"

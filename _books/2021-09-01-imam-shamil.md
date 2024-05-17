@@ -8,20 +8,20 @@ authors: "Ebubekir Subaşı"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786059844710.jpg
-categories: [ "Historical Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786059844710
 languages: []
 page: 464
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "İmam Şamil"
 original-language: "Turkish"

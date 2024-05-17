@@ -8,19 +8,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055822460.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055822460
 languages: []
 page: 176
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Hüzün Adrese Gelir"
 original-language: "Turkish"

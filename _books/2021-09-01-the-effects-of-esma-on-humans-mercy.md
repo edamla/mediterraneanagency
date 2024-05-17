@@ -12,15 +12,15 @@ tags: [ "mercy"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057660237
 languages: []
 page: 248
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Merhamet"
 original-language: "Turkish"

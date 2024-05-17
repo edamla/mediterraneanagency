@@ -7,20 +7,20 @@ authors: "Hasan Çalışkan"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9799756457022.jpg
-categories: [ "Family - Child" ]
-tags: [ "literature"]
+categories: [ "Family" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9799756457022
 languages: []
 page: 285
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Başarılı ve Sağlıklı Çocuk Yetiştirmek"
 original-language: "Turkish"

@@ -12,15 +12,15 @@ tags: [ "fiction"]
 previewpage: true
 featured: true
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786051748207
 languages: ["Türkçe"]
 page: 176
 size: "13,5x21cm"
-publish-number: 50
+
 cover: "Hard Cover"
 original-name: "Asık Suratlı Çocuk 2 Böcek İstilası"
 original-language: "Turkish"

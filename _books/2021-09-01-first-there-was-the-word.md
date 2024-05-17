@@ -8,19 +8,19 @@ illustrators: ["Hüma Abay"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9789757726333.jpg
 categories: [ "Philosophy" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9789757726333
 languages: []
 page: 536
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Önce Söz Vardı"
 original-language: "Turkish"

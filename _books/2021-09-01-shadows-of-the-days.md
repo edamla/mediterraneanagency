@@ -12,15 +12,15 @@ tags: [ "story"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055830366
 languages: []
 page: 168
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Günlerin Gölgeleri"
 original-language: "Turkish"

@@ -8,20 +8,20 @@ authors: "Cavit Ersen"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786056667800.jpg
-categories: [ "History Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786056667800
 languages: []
 page: 352
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Ertuğrul Gazi'nin Oğlu Osman Gazi"
 original-language: "Turkish"

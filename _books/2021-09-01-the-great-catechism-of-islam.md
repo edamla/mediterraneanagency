@@ -9,19 +9,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055094713.jpg
 categories: [ "Religion" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055094713
 languages: []
 page: 612
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Büyük İslam İlmihali"
 original-language: "Turkish"

@@ -8,20 +8,20 @@ authors: "Nurettin Taşkesen"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786056986581.jpg
-categories: [ "Historical Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786056986581
 languages: []
 page: 240
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Kurtuba'nın Altın Çağı"
 original-language: "Turkish"

@@ -9,19 +9,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9789758596294.jpg
 categories: [ "Religion" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9789758596294
 languages: []
 page: 696
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Peygamberler Tarihi"
 original-language: "Turkish"

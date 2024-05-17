@@ -8,20 +8,20 @@ authors: "Eda Geyik"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057660190.jpg
-categories: [ "Novel" ]
-tags: [ "literature"]
+categories: [ "Literature" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057660190
 languages: []
 page: 288
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Balca Bozkırın Hekimi"
 original-language: "Turkish"

@@ -8,20 +8,20 @@ authors: "Ebubekir Subaşı"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057916211.jpg
-categories: [ "Historical Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057916211
 languages: []
 page: 424
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Enver Paşa ve Naciye Sultan"
 original-language: "Turkish"

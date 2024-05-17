@@ -7,20 +7,20 @@ authors: "Hasan Çalışkan"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9799756457039.jpg
-categories: [ "Family - Child" ]
-tags: [ "literature"]
+categories: [ "Family" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9799756457039
 languages: []
 page: 293
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Ailede Çocuk Terbiyesi"
 original-language: "Turkish"

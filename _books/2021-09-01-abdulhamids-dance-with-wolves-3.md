@@ -9,19 +9,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057407962.jpg
 categories: [ "History" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057407962
 languages: []
 page: 384
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Abdülhamid'in Kurtlarla Dansı -3"
 original-language: "Turkish"

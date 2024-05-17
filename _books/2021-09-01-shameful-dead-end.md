@@ -8,20 +8,20 @@ authors: "Nurettin Taşkesen"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058199170.jpg
-categories: [ "Historical Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786058199170
 languages: []
 page: 324
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Yazıklar Çıkmazı"
 original-language: "Turkish"

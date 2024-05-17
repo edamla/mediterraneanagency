@@ -9,19 +9,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057660077.jpg
 categories: [ "Story" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786057660077
 languages: []
 page: 224
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Hırçın Kızın Günlüğü"
 original-language: "Turkish"

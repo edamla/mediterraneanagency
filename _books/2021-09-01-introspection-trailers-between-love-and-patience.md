@@ -8,19 +8,19 @@ illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057164070.jpg
 categories: [ "Philosophy" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057164070
 languages: []
 page: 140
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "İçebakış Fragmanları"
 original-language: "Turkish"

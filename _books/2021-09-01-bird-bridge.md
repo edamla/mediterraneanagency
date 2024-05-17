@@ -8,20 +8,20 @@ authors: "Sencar Olgun"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786056846229.jpg
-categories: [ "Novel" ]
-tags: [ "literature"]
+categories: [ "Literature" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786056846229
 languages: []
 page: 416
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Kuş Köprü"
 original-language: "Turkish"

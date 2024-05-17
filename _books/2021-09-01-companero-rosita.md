@@ -8,19 +8,19 @@ illustrators: ["Harun Tan"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055830571.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055830571
 languages: []
 page: 256
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Compañero Rosita"
 original-language: "Turkish"

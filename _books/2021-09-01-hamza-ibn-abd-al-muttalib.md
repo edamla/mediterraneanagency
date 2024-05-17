@@ -8,20 +8,20 @@ authors: "Ebubekir Subaşı"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055094379.jpg
-categories: [ "Historical Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055094379
 languages: []
 page: 268
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Allah'ın Arslanı Hazreti Hamza"
 original-language: "Turkish"

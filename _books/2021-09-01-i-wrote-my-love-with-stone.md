@@ -8,20 +8,20 @@ authors: "Muhsin İlyas Subaşı"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058247567.jpg
-categories: [ "Novel" ]
-tags: [ "literature"]
+categories: [ "Literature" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786058247567
 languages: []
 page: 376
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Aşkımı Taşla Yazdım"
 original-language: "Turkish"

@@ -8,19 +8,19 @@ illustrators: ["Hüma Abay"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786059114615.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786059114615
 languages: []
 page: 136
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Mümkün Mertebe"
 original-language: "Turkish"

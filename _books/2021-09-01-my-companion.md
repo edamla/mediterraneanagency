@@ -8,20 +8,20 @@ authors: "Sait Köşk"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057660244.jpg
-categories: [ "Novel" ]
-tags: [ "literature"]
+categories: [ "Literature" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057660244
 languages: []
 page: 240
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Yol Arkadaşım"
 original-language: "Turkish"

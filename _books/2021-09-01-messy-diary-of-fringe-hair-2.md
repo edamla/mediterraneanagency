@@ -7,20 +7,20 @@ authors: "Nur Dombaycı"
 illustrators: ["nur-dombayci"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051746968.jpg
-categories: [ "Young Adult", "Novel" ]
+categories: [ "Young Adult", "Literature" ]
 tags: [ "dairy","fun","adventure"]
 previewpage: true
 featured: true
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786051746968
 languages: ["English","Arabic"]
 page: 160
 size: "13,5x21cm"
-publish-number: 60
+
 cover: "Hard Cover"
 original-name:  "Saçaklı Kız'ın Pasaklı Günlüğü 2 Bu İşte Bi Terslik Var!!!"
 original-language: "Turkish"

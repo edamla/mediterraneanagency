@@ -8,20 +8,20 @@ authors: "Murat Başaran"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058301931.jpg
-categories: [ "Novel" ]
-tags: [ "literature"]
+categories: [ "Literature" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786058301931
 languages: []
 page: 216
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Kış Bebeği"
 original-language: "Turkish"

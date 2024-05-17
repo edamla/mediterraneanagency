@@ -8,20 +8,20 @@ authors: "Muhsin İlyas Subaşı"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057471604.jpg
-categories: [ "History Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786057471604
 languages: []
 page: 384
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Anadolu Selçuklu Sultanları"
 original-language: "Turkish"

@@ -7,20 +7,20 @@ authors: "Neslihan Baki"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786257746519.jpg
-categories: [ "Family - Child" ]
-tags: [ "literature"]
+categories: [ "Family" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786257746519
 languages: []
 page: 152
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Çocuk Eğitiminde Uygulamalı Çözüm Önerileri"
 original-language: "Turkish"

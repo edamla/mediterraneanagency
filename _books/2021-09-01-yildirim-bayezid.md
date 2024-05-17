@@ -8,20 +8,20 @@ authors: "Cavit Ersen"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058301955.jpg
-categories: [ "History Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786058301955
 languages: []
 page: 264
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Yıldırım Bayezid"
 original-language: "Turkish"

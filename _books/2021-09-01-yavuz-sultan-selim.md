@@ -8,20 +8,20 @@ authors: "Talip Arışahin"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058301948.jpg
-categories: [ "History Novel" ]
-tags: [ "literature"]
+categories: [ "History" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786058301948
 languages: []
 page: 232
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Yavuz Sultan Selim"
 original-language: "Turkish"

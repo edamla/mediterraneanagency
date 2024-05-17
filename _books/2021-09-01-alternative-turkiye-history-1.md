@@ -8,19 +8,19 @@ illustrators: ["Latif Çetinkaya"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055830755.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786055830755
 languages: []
 page: 432
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Alternatif Türkiye Tarihi -1"
 original-language: "Turkish"

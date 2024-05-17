@@ -12,15 +12,15 @@ tags: [ "history"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786058199163
 languages: []
 page: 224
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Osmanlı Coğrafyasında İstihbarat Teşkilatları"
 original-language: "Turkish"

@@ -1,7 +1,6 @@
 ---
 layout: book
 title:  "The Grumpy Kid 1 Howling Forest"
-
 publisher: damlapublishing
 authors: "Nur Dombaycı"
 illustrators: #["nur-dombayci","umit-ozturk"]
@@ -12,15 +11,15 @@ tags: [ "fiction"]
 previewpage: true
 featured: true
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786051742663
 languages: ["Türkçe"]
 page: 192
 size: "13,5x21cm"
-publish-number: 29
+
 cover: "Hard Cover"
 original-name: "Asık Suratlı Çocuk 1 Uğultulu Orman"
 original-language: "Turkish"

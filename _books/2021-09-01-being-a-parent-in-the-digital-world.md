@@ -7,20 +7,20 @@ authors: "Orhan Toker"
 illustrators: ["Nuhun Gemisi Ajans"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786059114752.jpg
-categories: [ "Family - Child" ]
-tags: [ "literature"]
+categories: [ "Family" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9786059114752
 languages: []
 page: 132
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Dijital Dünyada Anne-Baba Olmak"
 original-language: "Turkish"

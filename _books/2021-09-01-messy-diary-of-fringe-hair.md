@@ -7,20 +7,20 @@ authors: "Nur Dombaycı"
 illustrators: ["nur-dombayci"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051745176.jpg
-categories: [ "Young Adult", "Novel" ]
+categories: [ "Young Adult", "Literature" ]
 tags: [ "dairy","fun","adventure"]
 previewpage: true
 featured: true
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786051745176
 languages: ["English","Arabic"]
 page: 128
 size: "13,5x21cm"
-publish-number: 37
+
 cover: "Hard Cover"
 original-name: "Saçaklı Kızın Pasaklı Günlüğü 1"
 original-language: "Turkish"

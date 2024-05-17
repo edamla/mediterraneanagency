@@ -12,15 +12,15 @@ tags: [ "literary"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9789757726821
 languages: []
 page: 128
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Ruh Yordamı"
 original-language: "Turkish"

@@ -8,19 +8,19 @@ illustrators: ["M.Halit Çukuryurt"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786059114318.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: true
-fiction: true
+genre: children
+type: fiction
 
 # Book attributes
 ean: 9786059114318
 languages: []
 page: 168
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Çevrimiçi Gençlik"
 original-language: "Turkish"

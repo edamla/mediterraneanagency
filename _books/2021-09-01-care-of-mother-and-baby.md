@@ -7,20 +7,20 @@ authors: "Dr. Ömer Turgutalp Kadıoğlu"
 illustrators: ["Publisher Graphics"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9789753812610.jpg
-categories: [ "Family - Child" ]
-tags: [ "literature"]
+categories: [ "Health" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: false
+genre: adult
+type: nonfiction
 
 # Book attributes
 ean: 9789753812610
 languages: []
 page: 256
 size: "19.5x23.5cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Anne ve Bebeğin Bakımı"
 original-language: "Turkish"

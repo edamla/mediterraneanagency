@@ -12,15 +12,15 @@ tags: [ "history"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055830922
 languages: []
 page: 320
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Dengi Dengine Evlilikler"
 original-language: "Turkish"

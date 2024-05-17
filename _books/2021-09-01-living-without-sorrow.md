@@ -8,20 +8,20 @@ authors: "Vehbi Vakkasoğlu"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786058082304.jpg
-categories: [ "Personal Training" ]
-tags: [ "literature"]
+categories: [ "Self-Help" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786058082304
 languages: []
 page: 216
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Üzüntüsüz Yaşamak"
 original-language: "Turkish"

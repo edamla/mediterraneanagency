@@ -8,19 +8,19 @@ illustrators: ["Hüma Abay"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055830724.jpg
 categories: [ "Literature" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055830724
 languages: []
 page: 176
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Dünya Bir Gelindir"
 original-language: "Turkish"

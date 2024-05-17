@@ -8,20 +8,20 @@ authors: "Prof. Dr. Hali̇m Ulaş"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786259436814.jpg
-categories: [ "Personal Training" ]
-tags: [ "literature"]
+categories: [ "Self-Help" ]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786259436814
 languages: []
 page: 248
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "İrade Terbiyesi"
 original-language: "Turkish"

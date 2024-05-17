@@ -12,15 +12,15 @@ tags: [ "literary"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9789757726012
 languages: []
 page: 132
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "Hiçbişey"
 original-language: "Turkish"

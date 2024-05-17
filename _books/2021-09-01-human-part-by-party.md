@@ -8,19 +8,19 @@ illustrators: ["Hüma Abay"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786055830939.jpg
 categories: [ "Sociology" ]
-tags: [ "literature"]
+tags: [ "Literature"]
 previewpage: false
 featured: false
 
-children: false
-fiction: true
+genre: adult
+type: fiction
 
 # Book attributes
 ean: 9786055830939
 languages: []
 page: 300
 size: "13,5x21cm"
-#publish-number: 60
+
 cover: "Paperback"
 original-name:  "İnsan Kısım Kısım"
 original-language: "Turkish"
