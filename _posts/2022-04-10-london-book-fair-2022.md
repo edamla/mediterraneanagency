@@ -4,7 +4,7 @@ title:  "London Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Fair ]
 image: assets/images/posts/londonbookfair2.jpg
-tags: ["Award","Young Adult","Children"]
+tags: ["Award","Youth","Children"]
 sticky: false
 featured: false
 # For adding excerpt add <!--more--> and break the line

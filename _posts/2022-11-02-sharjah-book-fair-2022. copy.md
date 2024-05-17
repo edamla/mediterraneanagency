@@ -4,7 +4,7 @@ title:  "International Sharjah Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Fair ]
 image: assets/images/posts/sharjah-book-fair.png
-tags: ["Literature","Young Adult","Children", "Sharjah","BAE","Culture","History"]
+tags: ["Literature","Youth","Children", "Sharjah","BAE","Culture","History"]
 sticky: false
 featured: true
 # For adding excerpt add <!--more--> and break the line

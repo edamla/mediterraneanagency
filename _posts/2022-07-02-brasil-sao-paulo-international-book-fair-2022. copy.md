@@ -4,7 +4,7 @@ title:  "International Brasillian Sao Paulo Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Fair ]
 image: assets/images/posts/brasil-sao-paulo.jpg
-tags: ["Literature","Young Adult","Children", "Brasillian","Culture","history"]
+tags: ["Literature","Youth","Children", "Brasillian","Culture","history"]
 sticky: false
 featured: true
 # For adding excerpt add <!--more--> and break the line

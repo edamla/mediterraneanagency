@@ -7,7 +7,7 @@ authors: "Nur Dombaycı"
 illustrators: ["nur-dombayci"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051746968.jpg
-categories: [ "Young Adult", "Literature" ]
+categories: [ "Youth", "Literature" ]
 tags: [ "dairy","fun","adventure"]
 previewpage: true
 featured: true

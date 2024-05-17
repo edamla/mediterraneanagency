@@ -4,7 +4,7 @@ title:  "Georgian International Tbilisi Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Fair ]
 image: assets/images/posts/tbilisibookfair.jpg
-tags: ["Literature","Young Adult","Children", "Georgian","Culture","history"]
+tags: ["Literature","Youth","Children", "Georgian","Culture","history"]
 sticky: false
 featured: true
 # For adding excerpt add <!--more--> and break the line

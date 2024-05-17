@@ -4,7 +4,7 @@ title:  "International Frankfurt Book Fair 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Fair ]
 image: assets/images/posts/frankfurt-book-fair.jpg
-tags: ["Literature","Young Adult","Children", "Germany","Culture","History"]
+tags: ["Literature","Youth","Children", "Germany","Culture","History"]
 sticky: false
 featured: true
 # For adding excerpt add <!--more--> and break the line
