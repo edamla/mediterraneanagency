@@ -269,43 +269,42 @@ function filterBooks() {
     var books = document.querySelectorAll('.kitap-kutu');
     debugger;
     books.forEach(function(book) {
-        var show = false;
+        var show = true;
+        var typeFound = false;
+        var genreFound = false;
+        var categoryFound = false;
+        var publisherFound = false;
+
         types.forEach(function(type) {
             if (book.classList.contains(type)) {
-                showType = true;
+            typeFound = true;
             }
         });
 
         genres.forEach(function(genre) {
             if (book.classList.contains(genre)) {
-                showGenre = true;
+            genreFound = true;
             }
         });
 
         categories.forEach(function(category) {
             if (book.classList.contains(category)) {
-                showCategory = true;
+            categoryFound = true;
             }
         });
 
         publishers.forEach(function(publisher) {
             if (book.classList.contains(publisher)) {
-                showPublisher = true;
+            publisherFound = true;
             }
         });
+
+        // typeFound ve genreFound ve categoryFound ve publisherFound değerlerinden birisi bile false ise show false olacak değilse true olacak.
+        show = typeFound && genreFound && categoryFound && publisherFound; 
+
         // buradaki if kurgusu değişcek.
-        //book.style.display = (showType && showGenre && showCategory && showPublisher) ? 'block' : 'none';
-        if (!showPublisher) {
-            book.style.display = 'none';
-        } else if (!showCategory) {
-            book.style.display = 'none';
-        } else if (!showGenre) {
-            book.style.display = 'none';
-        } else if (!showType) {
-            book.style.display = 'none';
-        } else {
-            book.style.display = 'block';
-        }
+        book.style.display = (show) ? 'block' : 'none';
+
     });
 
     // updateUrlParams();
