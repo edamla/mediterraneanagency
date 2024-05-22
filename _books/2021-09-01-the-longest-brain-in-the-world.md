@@ -8,7 +8,7 @@ authors: "Serkan Karaismailoğlu"
 illustrators: [""]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786057144621.jpg
-categories: [ "Popular Science" ]
+categories: [ "Science" ]
 tags: [ "Literature"]
 previewpage: false
 featured: false
