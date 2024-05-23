@@ -3,7 +3,7 @@ layout: book
 title:  "Who Emerged from the Egg?"
 
 
-publisher: elmapublishing
+publisher: nitopublishing
 authors: "Sezai Ozan Zeybek"
 illustrators: ["Büşra Cantürk Durmaz"]
 translators: #["naci-turan","burak-dogru"]
