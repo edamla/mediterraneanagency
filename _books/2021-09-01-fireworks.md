@@ -23,7 +23,7 @@ page: 32
 size: "13,5x21cm"
 
 cover: "Coated Paper"
-original-name:  "Fireworks"
+original-name:  "Havai Fişekler"
 original-language: "Turkish"
 youtube:
 
