@@ -102,7 +102,14 @@ defaults:
       type: "illustrators"
       path: "_illustrators"
     values:
-      layout: illustrator
+      layout: illustrator 
+      
+      # all team
+  - scope:
+      type: "team"
+      path: "_team"
+    values:
+      layout: member
 
   # all translators
   - scope:
@@ -177,6 +184,10 @@ collections:
   slides: 
     output: false
     sort_by: order
-
+  team:
+    output: true
+    permalink: /team/:title/
+plugins:
+  - jekyll-sitemap
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
