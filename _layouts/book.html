@@ -95,6 +95,17 @@ layout: default
 		<div class="col-md-3 order-md-1">
 						<ul class="list-group mb-4">
 							
+							{% if book.ean %}
+							<li class="list-group-item text-center" style="background-color: transparent;">
+								<div class="md-v-line"></div>
+								<span class="mr-1"></span>
+								<a href="https://cdn.e-damla.com.tr/PUBLIC/magency/review-pdf/{{book.ean}}.pdf" target="_blank"
+									class="btn btn-outline-primary btn-sm">
+									Preview
+								</a>
+							</li>
+							{% endif %}
+
 							{% if book.publisher %}
 							<li class="list-group-item">
 								<div class="md-v-line"></div><i class="fas fa-university mr-1 fa-lg text-primary"></i><span class="mr-1">Publisher:</span>{% assign sitecompany = site.companys | where:"key", book.publisher | first %} <a href="{{sitecompany.url}}">{{ sitecompany.title }}</a> 
