@@ -9,24 +9,18 @@ permalink: "/represented"
     <div class="row gap-y listrecent listrecent listauthor">
         {% for company in site.companys %}
             <div class="col-6 col-lg-2 mb-2">
-                <div class="p-4 border rounded">
+                <div class="p-4 border rounded fixed-box">
                     <div class="row">
                         <a href="{{ company.url }}">
-                        <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1"><img alt="{{ company.title }}" src="{{site.baseurl}}/{{ company.image }}" class="rounded" height="100%" width="100%"></div>
                             <div class="col-md-12">
-                                
-                                <h5 class="text-dark mb-0 justify-content-center text-center"> {{ company.title }} </h5>
-                                </a>
-                                <!-- <div class="icon-block mt-3 d-flex justify-content-center">  
-                                    <div>
-                                    <a target="_blank" href="{{ company.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                    <a target="_blank" href="{{ company.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                    <a target="_blank" href="{{ company.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                    <a target="_blank" href="{{ company.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                    <a target="_blank" href="{{ company.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-                                    </div>
-                            </div> -->
-                        </div>
+                                <!-- Şirket ismi üstte -->
+                                <h5 class="text-dark mb-3 justify-content-center text-center"> {{ company.title }} </h5>
+                            </div>
+                            <div class="col-md-12 d-flex justify-content-between">
+                                <!-- Logo altta -->
+                                <img alt="{{ company.title }}" src="{{site.baseurl}}/{{ company.image }}" class="rounded company-image">
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -35,9 +29,40 @@ permalink: "/represented"
 </div>
 
 <style>
-    footer {
-       *position: fixed !important;
-       bottom: 0px !important;
-       width: 100vw !important;
-   }
-   </style>
+/* Kutuların sabit boyutları */
+.fixed-box {
+    width: 200px; /* Sabit genişlik */
+    height: 200px; /* Sabit yükseklik */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden; /* Taşmaları gizler */
+    text-align: center;
+}
+
+/* Şirket isimlerinin tasarımı */
+.fixed-box h5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+/* Görselin kutuya uyum sağlaması */
+.company-image {
+    width: 100%; /* Görselin genişliği kutuya uyar */
+    height: auto; /* Oranını koruyarak yeniden boyutlandırılır */
+    max-height: 150px; /* Sabit bir yükseklik ayarlanabilir */
+    object-fit: cover; /* Görselin düzgün şekilde sığdırılması için */
+    border-radius: 5px; /* Görsele yuvarlatılmış köşe */
+}
+
+/* Footer sabitleme */
+footer {
+    *position: fixed !important;
+    bottom: 0px !important;
+    width: 100vw !important;
+    position: bottom;
+}
+</style>
