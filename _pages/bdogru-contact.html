@@ -14,9 +14,9 @@ permalink: "/bdogru-contact"
                         </div>
                         <div class="col-md-12">
                             <h4 class="text-dark mb-0 justify-content-center text-center">{{ member.title }}</h4>
-                            <p class="text-muted text-center mt-2">{{ member.subtittle }}</p>
+                            <p class="text-muted text-center">{{ member.subtittle }}</p>
                         </div>
-                        <div class="icon-block mt-3 d-flex justify-content-center flex-column">  
+                        <div class="icon-block d-flex justify-content-center flex-column">  
                             <a href="about:blank" class="contact-button mb-3">
                                 Visit Children and Y.A. Catalogue
                             </a>
@@ -39,7 +39,7 @@ permalink: "/bdogru-contact"
     .team-member-card {
         position: relative;
         height: auto;
-        min-height: 600px;
+        min-height: auto;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -73,17 +73,17 @@ permalink: "/bdogru-contact"
 
     .team-member-card p {
         font-size: 0.9rem;
-        margin-bottom: 5px;
+        margin: 0 !important;
+        padding: 0 !important;
         color: #6c757d;
     }
 
     .team-member-card .icon-block {
         width: 90%;
-        margin-top: auto;
-        padding: 15px;
+        margin-top: 8px !important;
+        padding: 0 !important;
         text-align: center;
-        position: absolute;
-        bottom: 15px;
+        position: relative;
         left: 5%;
         display: flex;
         flex-direction: column;
@@ -159,6 +159,16 @@ permalink: "/bdogru-contact"
         }
     }
 
+    .col-md-12 {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .text-muted {
+        margin: 0 !important;
+        padding: 0 !important;
+        margin-bottom: 5px !important;
+    }
 
 .contact-button {
   padding: 8px 15px;
