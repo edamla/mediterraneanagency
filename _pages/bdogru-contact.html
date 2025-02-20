@@ -16,23 +16,16 @@ permalink: "/bdogru-contact"
                             <h4 class="text-dark mb-0 justify-content-center text-center">{{ member.title }}</h4>
                             <p class="text-muted text-center mt-2">{{ member.subtittle }}</p>
                         </div>
-                        <div class="icon-block mt-3 d-flex justify-content-center">  
-                            <div>
-                                {% if member.linkedin %}    
-                                <a target="_blank" href="{{ member.linkedin }}"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.youtube %} 
-                                <a target="_blank" href="{{ member.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.instagram %} 
-                                <a target="_blank" href="{{ member.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.site %} 
-                                <a target="_blank" href="{{ member.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-                                {% endif %}
-                                <a href="mailto:rights@mediterraneanagency.com"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a> &nbsp;
-                                <a href="data:text/vcard;charset=utf-8,BEGIN:VCARD%0AVERSION:3.0%0AN:DOĞRU;Mehmet Bahadır;;;%0AFN:Mehmet Bahadır DOĞRU%0AORG:Mediterranean Agency%0ATITLE:Chief Business Officer%0ATEL;type=CELL:+905325866356%0AEMAIL:rights@mediterraneanagency.com%0AURL:https://mediterranean.agency/%0AEND:VCARD"><i class="fa fa-phone text-muted" aria-hidden="true"></i></a>
-                            </div>
+                        <div class="icon-block mt-3 d-flex justify-content-center flex-column">  
+                            <a href="about:blank" class="contact-button mb-3">
+                                Visit Children and Y.A. Catalogue
+                            </a>
+                            <a href="about:blank" class="contact-button mb-3">
+                                Visit Adult Catalogue
+                            </a>
+                            <a href="data:text/vcard;charset=utf-8,BEGIN:VCARD%0AVERSION:3.0%0AN:DOĞRU;Mehmet Bahadır;;;%0AFN:Mehmet Bahadır DOĞRU%0AORG:Mediterranean Agency%0ATITLE:Chief Business Officer%0ATEL;type=CELL:+905325866356%0AEMAIL:rights@mediterraneanagency.com%0AURL:https://mediterranean.agency/%0AEND:VCARD" class="contact-button">
+                                Add Contact
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -46,7 +39,7 @@ permalink: "/bdogru-contact"
     .team-member-card {
         position: relative;
         height: auto;
-        min-height: 500px;
+        min-height: 600px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -85,13 +78,17 @@ permalink: "/bdogru-contact"
     }
 
     .team-member-card .icon-block {
-        width: 100%;
-        margin-top: 50px;
-        margin-bottom: 10px;
+        width: 90%;
+        margin-top: auto;
+        padding: 15px;
         text-align: center;
         position: absolute;
-        bottom: 20px;
-        left: 0;
+        bottom: 15px;
+        left: 5%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
     }
 
     .team-member-card .icon-block a {
@@ -148,4 +145,55 @@ permalink: "/bdogru-contact"
             margin-bottom: 20px;
         }
     }
+
+
+.contact-button {
+  padding: 12px 19px;
+  border: 2px solid #2c2c2c;
+  background-color: #1a1a1a;
+  color: #ffffff !important;
+  font-size: 0.95rem !important;
+  cursor: pointer;
+  border-radius: 30px;
+  transition: all 0.4s ease;
+  outline: none;
+  position: relative;
+  overflow: hidden;
+  font-weight: bold;
+  width: 100%;
+  max-width: 250px;
+  display: block;
+  text-align: center;
+  margin: 0 auto 10px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-decoration: none;
+}
+
+.contact-button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.25) 0%,
+    rgba(255, 255, 255, 0) 70%
+  );
+  transform: scale(0);
+  transition: transform 0.5s ease;
+}
+
+.contact-button:hover::after {
+  transform: scale(4);
+}
+
+.contact-button:hover {
+  border-color: #666666;
+  background: #292929;
+  color: #ffffff !important;
+}
+
 </style>
