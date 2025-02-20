@@ -58,7 +58,6 @@ permalink: "/bdogru-contact"
         max-width: 300px;
         padding: 15px;
         text-align: center;
-        margin-bottom: 100px;
     }
 
     .team-member-card img {
@@ -122,16 +121,27 @@ permalink: "/bdogru-contact"
         cursor: pointer;
     }
 
-    footer {
-        position: fixed !important;
-        bottom: 0px !important;
-        width: 100vw !important;
-        z-index: 1000;
+    /* Footer'ı bu sayfada gizle */
+    footer, .site-footer, #footer, .footer {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        height: 0 !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    /* Footer'ın wrapper'ını da gizle */
+    .footer-wrapper, #footer-wrapper, .site-footer-wrapper {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        height: 0 !important;
     }
 
     @media (max-width: 768px) {
         .team-member-card {
-            margin-bottom: 150px;
+            margin-bottom: 20px;
         }
     }
 </style>
