@@ -6,6 +6,9 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
 
+childrenya-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
+adult-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
+
 # Social Settings
 disqus: #'demowebsite'
 email: 'rights@mediterraneanagency.com'
@@ -186,7 +189,7 @@ collections:
     sort_by: order
   team:
     output: true
-    permalink: /team/:title/
+    permalink: /:name
 plugins:
   - jekyll-sitemap
 # Exclude metadata and development time dependencies (like Grunt plugins)

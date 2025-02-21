@@ -3,8 +3,10 @@ layout: member
 title: "Samir SARRAJ"
 key: "samir-sarraj"
 image: assets/images/avatar/man.jpg
-position: "Business Development Director"
+position: "Literary Agent"
 
+contact-url: "/ssarraj-contact"
+vcard: "data:text/vcard;charset=utf-8,BEGIN:VCARD%0AVERSION:3.0%0ANSARRAJ;Samir;;;%0AFN:Samir SARRAJ%0AORG:Mediterranean Agency%0ATITLE:Literary Agent%0ATEL;type=CELL:+905396696171%0AEMAIL:rights@mediterraneanagency.com%0AURL:https://mediterranean.agency/%0AEND:VCARD"
 #twitter: https://twitter.com/
 #facebook: https://www.facebook.com/
 #youtube: https://youtube.com/

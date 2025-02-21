@@ -5,6 +5,7 @@ key: "hilal-bilgin"
 image: assets/images/avatar/women.jpg
 position: "Literary Agent"
 
+contact-url: "/bilgin-contact"
 #twitter: https://twitter.com/
 #facebook: https://www.facebook.com/
 #youtube: https://youtube.com/
