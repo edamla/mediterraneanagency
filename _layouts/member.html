@@ -27,6 +27,10 @@ layout: default
                     <a href="{{ page.vcard }}" class="contact-button" id="vcardButton" type="text/vcard">
                         Add Contact
                     </a>
+                    <a href="intent:{{ page.vcard }}#Intent;scheme=https;action=android.intent.action.VIEW;type=text/x-vcard;end;" 
+                       class="contact-button" id="vcardButtonAndroid" style="display: none;">
+                        Add Contact
+                    </a>
                     {% endif %}
                 </div>
             </div>
@@ -222,6 +226,7 @@ layout: default
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const vcardButton = document.getElementById('vcardButton');
+        const vcardButtonAndroid = document.getElementById('vcardButtonAndroid');
         
         function getMobileOS() {
             const userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -236,6 +241,8 @@ layout: default
         }
 
         if (getMobileOS() === "Android") {
+            vcardButton.style.display = 'none';
+            vcardButtonAndroid.style.display = 'block';
             vcardButton.setAttribute('download', 'contact.vcf');
         }
     });
