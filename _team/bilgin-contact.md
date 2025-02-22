@@ -4,7 +4,7 @@ title: "Hilal BİLGİN"
 key: "hilal-bilgin"
 image: assets/images/avatar/women.jpg
 position: "Business Development Manager"
-language: ["English"]
+language: ["English", "Turkish"]
 
 contact-url: "/bilgin-contact"
 #twitter: https://twitter.com/
