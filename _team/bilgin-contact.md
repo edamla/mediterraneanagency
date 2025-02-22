@@ -3,7 +3,7 @@ layout: member
 title: "Hilal BİLGİN"
 key: "hilal-bilgin"
 image: assets/images/avatar/women.jpg
-position: "Literary Agent"
+position: "Business Development Manager"
 
 contact-url: "/bilgin-contact"
 #twitter: https://twitter.com/
