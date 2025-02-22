@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
 
-childrenya-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
-adult-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
+childrenya-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/magency/catalogs/children-catalogue/index.html'
+adult-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/magency/catalogs/adult-catalogue/index.html'
 
 # Social Settings
 disqus: #'demowebsite'
