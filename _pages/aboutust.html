@@ -36,43 +36,48 @@ comments: false
     
     <div class="row gap-y listrecent listrecent listauthor">
         {% for member in site.team %}
-        <a href="{{ site.baseurl }}{{ member.contact-url }}">
             <div class="col-lg-3 mb-5">
-                <div class="p-4 border rounded team-member-card">
-                    <div class="row">
-                        
+                <a href="{{ site.baseurl }}{{ member.contact-url }}" class="text-decoration-none">
+                    <div class="p-4 border rounded team-member-card">
+                        <div class="row">
                             <div class="col-md-12 d-flex justify-content-between mb-4 mb-md-1">
                                 <img alt="{{ member.title }}" src="{{ site.baseurl }}{{ member.image }}" class="rounded-circle">
                             </div>
                             <div class="col-md-12">
                                 <h4 class="text-dark mb-0 justify-content-center text-center">{{ member.title }}</h4>
-                            </div>
-                        <div class="icon-block mt-3 d-flex justify-content-center">  
-                            <div>
-                                {% if member.twitter %}    
-                                <a target="_blank" href="{{ member.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.facebook %} 
-                                <a target="_blank" href="{{ member.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.youtube %} 
-                                <a target="_blank" href="{{ member.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.instagram %} 
-                                <a target="_blank" href="{{ member.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
-                                {% endif %}
-                                {% if member.site %} 
-                                <a target="_blank" href="{{ member.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+                                <p class="text-muted text-center mb-2">{{ member.position }}</p>
+                                {% if member.language %}
+                                    <p class="text-muted text-center mb-2">Spoken Languages:</p>
+                                    <div class="d-flex justify-content-center flex-wrap">
+                                        {% for lang in member.language %}
+                                            <span class="badge badge-light mr-1 mb-1">{{ lang }}</span>
+                                        {% endfor %}
+                                    </div>
                                 {% endif %}
                             </div>
-                        </div>
-                        <div class="card-overlay">
-                            <p>{{ member.position }}</p>
+                            <div class="icon-block mt-3 d-flex justify-content-center">  
+                                <div>
+                                    {% if member.twitter %}    
+                                    <a target="_blank" href="{{ member.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+                                    {% endif %}
+                                    {% if member.facebook %} 
+                                    <a target="_blank" href="{{ member.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;
+                                    {% endif %}
+                                    {% if member.youtube %} 
+                                    <a target="_blank" href="{{ member.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
+                                    {% endif %}
+                                    {% if member.instagram %} 
+                                    <a target="_blank" href="{{ member.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
+                                    {% endif %}
+                                    {% if member.site %} 
+                                    <a target="_blank" href="{{ member.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+                                    {% endif %}
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
-        </a>
         {% endfor %}
     </div>
 </div>
@@ -81,7 +86,7 @@ comments: false
 <style>
     .team-member-card {
         position: relative;
-        height: 400px; /* Sabit bir yükseklik belirleyin */
+        height: 450px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -89,13 +94,10 @@ comments: false
     }
 
     .team-member-card img {
-        max-width: 100%;
+        max-width: 200px;
         height: auto;
-        transition: opacity 0.3s ease;
-    }
-
-    .team-member-card:hover img {
-        opacity: 0.5;
+        margin: 0 auto;
+        display: block;
     }
 
     .team-member-card .card-overlay {
@@ -109,26 +111,19 @@ comments: false
         display: flex;
         align-items: center;
         justify-content: center;
-        opacity: 0;
-        transition: opacity 0.3s ease;
         text-align: center;
         padding: 1rem;
         box-sizing: border-box;
-        z-index: 1; /* Overlay'in kartın üzerindeki içeriği kaplamasını sağlar */
-    }
-
-    .team-member-card:hover .card-overlay {
-        opacity: 1;
+        z-index: 1;
     }
 
     .team-member-card .icon-block {
-        margin-top: auto; /* Sosyal medya ikonlarını en alta itmek için */
+        margin-top: auto;
         display: flex;
-        justify-content: center; /* Sosyal medya ikonlarını yatayda ortalar */
-        
+        justify-content: center;
     }
 
     .team-member-card .icon-block a {
-        margin: 0 5px; /* İkonlar arasındaki boşluğu ayarlar */
+        margin: 0 5px;
     }
 </style>

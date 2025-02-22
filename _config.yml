@@ -134,14 +134,12 @@ highlighter: rouge
 # XML feed
 feed:
   collections:
-    books:
-      path: "/titles/feed.xml"
-    companys:
-      path: "/represented/feed.xml"
-    catalogs:
-      path: "/catalogs/feed.xml"
-    illustrators:
-      path: "/illustrators/feed.xml"
+    - books
+    - companys
+    - catalogs
+    - illustrators
+  excerpt_only: true  # Sadece özet içeriği kullan
+  disable_in_development: true  # Geliştirme ortamında devre dışı bırak
 
 # excerpt
 excerpt_separator: <!--more-->
@@ -194,3 +192,5 @@ plugins:
   - jekyll-sitemap
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+incremental: true

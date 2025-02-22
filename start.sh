@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Jekyll Start";
-bundle exec jekyll serve;
+JEKYLL_ENV=development bundle exec jekyll serve --incremental --limit_posts 10
