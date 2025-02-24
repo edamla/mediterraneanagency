@@ -27,7 +27,7 @@ The Future of Global Literature
 With advancements in technology and increasing interest in diverse narratives, the demand for translated literature is growing. More readers are seeking out books from different parts of the world, eager to explore stories that challenge, inspire, and move them. At Mediterranean Agency, we are proud to be part of this exciting movement, working to ensure that no great story remains confined to a single language.  
 Every book we help translate and publish internationally is a step toward a more connected and culturally enriched world. Because at the heart of what we do lies a simple yet powerful belief: great stories deserve to be shared—no matter the language. 
 Let’s bring stories to the world, together!  
-#Translation #Publishing #GlobalStories #MediterraneanAgency #LiteraryRights
+
 
 
 

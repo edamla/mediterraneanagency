@@ -6,12 +6,90 @@ pagination:
 description: "We work to bring people and their stories, books, souls together."
 ---
 
+<style>
+.post-card-image {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.topfirstimage {
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    background-color: #f8f9fa;
+}
+
+.topfirstimage:hover {
+    transform: scale(1.02);
+}
+
+.card.border-0 {
+    transition: all 0.3s ease;
+    background-color: #f8f9fa;
+}
+
+.card.border-0:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.story-section {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.story-container {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px 0;
+    gap: 15px;
+    scrollbar-width: none;
+    justify-content: center;
+}
+
+.story-container::-webkit-scrollbar {
+    display: none;
+}
+
+.story-item {
+    flex: 0 0 auto;
+    width: 70px;
+    text-align: center;
+}
+
+.story-circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 2px;
+    background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.story-title {
+    font-size: 11px;
+    color: #262626;
+    margin-top: 4px;
+    text-align: center;
+}
+
+/* Diğer stiller aynı kalacak */
+</style>
 
 <div class="container">
     
 {% if page.url == "/" %}
     
-
 
 <!-- slider -->
 {% include slider.html %}
@@ -38,11 +116,7 @@ description: "We work to bring people and their stories, books, souls together."
 {% endif %}
 {% endfor %}
 
-<!-- Featured Slider -->
-<h4 class="font-weight-bold spanborder mt-2"><span>Our Services</span></h4>
-{% include services.html %}
 
-<hr>
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <h4 class="font-weight-bold spanborder mt-2"><span>Latest News</span></h4>
 <div class="row add-site-content-margin">
@@ -52,7 +126,7 @@ description: "We work to bring people and their stories, books, souls together."
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %});"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -86,7 +160,7 @@ description: "We work to bring people and their stories, books, souls together."
                 <div class="row">
                     <div class="col-6">
                         <a href="{{site.baseurl}}{{second_post.url}}">
-                         <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                         <img class="post-card-image" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" alt="{{ second_post.title }}">
                         </a>
                     </div>
                     <div class="col-6">
@@ -131,7 +205,7 @@ description: "We work to bring people and their stories, books, souls together."
                 <div class="row">
                     <div class="col-6">
                         <a href="{{site.baseurl}}{{third_post.url}}">
-                         <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                         <img class="post-card-image" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                         </a>
                     </div>
                     <div class="col-6">
@@ -176,7 +250,7 @@ description: "We work to bring people and their stories, books, souls together."
                 <div class="row">
                     <div class="col-6">
                         <a href="{{site.baseurl}}{{fourth_post.url}}">
-                        <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                        <img class="post-card-image" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                         </a>
                     </div>
                     <div class="col-6">
@@ -220,6 +294,13 @@ description: "We work to bring people and their stories, books, souls together."
     
 </div>
 
+
+<hr>
+
+<!-- Featured Slider -->
+<h4 class="font-weight-bold spanborder mt-2"><span>Our Services</span></h4>
+{% include services.html %}
+
 <hr>
 
 <h4 class="font-weight-bold spanborder"><span>New Titles</span></h4>
@@ -239,10 +320,16 @@ description: "We work to bring people and their stories, books, souls together."
 
 <hr>
 
-   
-
-
-
+<!-- Story Section -->
+<div class="story-section">
+    <div class="story-container">
+        <!-- Story items aynı kalacak -->
+        <div class="story-item">
+            <!-- ... -->
+        </div>
+        <!-- Diğer story-item'lar -->
+    </div>
+</div>
 
 {% endif %} <!--endif page url is / -->
 

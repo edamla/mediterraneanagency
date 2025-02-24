@@ -17,7 +17,7 @@ google_analytics: 'G-KFMVQ3WNN3'
 katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
 #twitter: 'https://twitter.com/damlayayinevi'
 #facebook: 'https://www.facebook.com/damlayayinevi'
-instagram: 'https://instagram.com/mediterranean_agency'
+instagram: 'https://instagram.com/medit.agency'
 #youtube: 'https://www.youtube.com/c/mediterraneanagency'
 #telegram: 'https://t.me/MediterraneanAgency'
 
@@ -193,4 +193,4 @@ plugins:
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
-incremental: true
+#incremental: true
