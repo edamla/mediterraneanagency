@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Rukiye Hilal KESİK"
+title: "Hilal BİLGİN"
 key: "hilal-bilgin"
 image: assets/images/avatar/women.jpg
 position: "Business Development Manager"
