@@ -127,7 +127,15 @@ defaults:
       path: "_slides"
     values:
       author: "Anonymous"
-      
+  # all newsletters
+  - scope:
+      type: "newsletter"
+      path: "_newsletter"
+    values:
+      layout: newsletter
+
+
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -139,6 +147,7 @@ feed:
     - companys
     - catalogs
     - illustrators
+    - newsletter
   excerpt_only: true  # Sadece özet içeriği kullan
   disable_in_development: true  # Geliştirme ortamında devre dışı bırak
 
@@ -189,6 +198,9 @@ collections:
   team:
     output: true
     permalink: /:name
+  newsletter:
+    output: true
+    permalink: /newsletters/:title
 plugins:
   - jekyll-sitemap
 # Exclude metadata and development time dependencies (like Grunt plugins)
