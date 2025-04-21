@@ -2,7 +2,7 @@
 layout: company
 title: "Minik Damla Publishing"
 key: "minikdamlapublishing"
-image: assets/images/companies/damla-publishing.jpg
+image: assets/images/companies/minikdamla-publishing.png
 
 
 categories: #[ cat1, cat2 ]

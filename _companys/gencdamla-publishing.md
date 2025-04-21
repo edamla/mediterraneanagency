@@ -2,7 +2,7 @@
 layout: company
 title: "Genç Damla Publishing"
 key: "gencdamlapublishing"
-image: assets/images/companies/damla-publishing.jpg
+image: assets/images/companies/gencdamla-publishing.jpg
 
 
 categories: #[ cat1, cat2 ]
