@@ -2,7 +2,7 @@
 layout: company
 title: "Bilgili Publishing"
 key: "bilgilipublishing"
-image: assets/images/companies/damla-publishing.jpg
+image: assets/images/companies/bilgili-publishing.png
 
 
 categories: #[ cat1, cat2 ]
