@@ -8,6 +8,7 @@ baseurl: ''
 
 childrenya-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/magency/catalogs/children-catalogue/index.html'
 adult-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/magency/catalogs/adult-catalogue/index.html'
+award-winning-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/magency/catalogs/award-winning-catalogue/index.html'
 
 # Social Settings
 disqus: #'demowebsite'

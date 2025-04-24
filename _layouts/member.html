@@ -23,10 +23,16 @@ layout: default
                         Visit Adult Catalogue
                     </a>
                     {% endif %}
+                    {% if site.award-winning-catalog %}
+                    <a href="{{ site.award-winning-catalog }}" class="contact-button mb-3" target="_blank">
+                        Visit Award-Winning Catalogue
+                    </a>
+                    {% endif %}
                     {% if page.vcard %}
                     <a href="{{ page.vcard }}" class="contact-button" id="vcardButton" type="text/vcard">
                         Add Contact
                     </a>
+                    
                     {% endif %}
                 </div>
             </div>
