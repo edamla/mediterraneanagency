@@ -2,7 +2,7 @@
 layout: company
 title: "Alice Publishing"
 key: "alicepublishing"
-image: assets/images/companies/alice-publishing.jpg
+image: assets/images/companies/alice-publishing.png
 link: 
 
 # For adding excerpt add <!--more--> and break the line
