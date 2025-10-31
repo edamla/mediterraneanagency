@@ -1,0 +1,165 @@
+<style>
+.subscribe-section {
+    margin-top: 50px;
+    padding: 40px 0;
+    background: #f8f9fa;
+    margin-bottom: 40px;
+    border-top: 1px solid #e9ecef;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.subscribe-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.subscribe-form {
+    display: flex;
+    background: white;
+    border-radius: 50px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid #e9ecef;
+}
+
+.subscribe-form:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    border-color: #dee2e6;
+}
+
+.subscribe-input {
+    flex: 1;
+    padding: 18px 25px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #212529;
+    background: transparent;
+}
+
+.subscribe-input::placeholder {
+    color: #6c757d;
+}
+
+.subscribe-input:focus {
+    background: #f8f9fa;
+}
+
+.subscribe-button {
+    padding: 18px 30px;
+    background: #212529;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.subscribe-button:hover {
+    background: #000000;
+    transform: scale(1.02);
+}
+
+.subscribe-icon {
+    width: 18px;
+    height: 18px;
+    transition: transform 0.3s ease;
+    fill: white;
+}
+
+.subscribe-button:hover .subscribe-icon {
+    transform: translateX(3px);
+}
+
+/* Responsive tasarım */
+@media (max-width: 768px) {
+    .subscribe-form {
+        flex-direction: column;
+        border-radius: 25px;
+    }
+    
+    .subscribe-input {
+        padding: 16px 20px;
+        text-align: center;
+    }
+    
+    .subscribe-button {
+        padding: 16px 20px;
+        justify-content: center;
+    }
+}
+</style>
+
+<!-- Tek Satırlık Subscribe Form -->
+<div class="subscribe-section">
+    <div class="subscribe-container">
+        <form id="form1" action="https://joinbox.today/form/659bf3fbdd8ab90001878c22/67bc5052cf1798b28ddc870d" method="post" autocomplete="off" onsubmit="submitForm(event)">
+            <div class="subscribe-form">
+                <input 
+                    id="cf_0" 
+                    name="cf_0" 
+                    type="email" 
+                    class="subscribe-input required" 
+                    placeholder="Enter your email address"
+                    required
+                >
+                <button id="btnSubmit" type="submit" class="subscribe-button">
+                    <span>Subscribe to our newsletter</span>
+                    <svg class="subscribe-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 4L11.2929 4.70711L16.5858 10H4V12H16.5858L11.2929 17.2929L12 18L19 11L12 4Z" fill="currentColor"/>
+                    </svg>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Popup Modal -->
+<div id="confirmationModal" class="modal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);">
+    <div class="modal-content" style="background-color: #fefefe; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 80%; max-width: 500px; border-radius: 5px;">
+        <h2>Thanks!</h2>
+        <p>You have successfully subscribed to our newsletter.</p>
+        <button onclick="closeModal()" style="padding: 10px 20px; background-color: #212529; color: white; border: none; border-radius: 5px; cursor: pointer;">Close</button>
+    </div>
+</div>
+
+<script>
+function submitForm(event) {
+    event.preventDefault();
+    
+    const form = document.getElementById('form1');
+    const formData = new FormData(form);
+    
+    fetch(form.action, {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => {
+        document.getElementById('confirmationModal').style.display = 'block';
+        form.reset();
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+}
+
+function closeModal() {
+    document.getElementById('confirmationModal').style.display = 'none';
+}
+
+// Modal dışına tıklandığında kapatma
+window.onclick = function(event) {
+    const modal = document.getElementById('confirmationModal');
+    if (event.target == modal) {
+        modal.style.display = 'none';
+    }
+}
+</script>

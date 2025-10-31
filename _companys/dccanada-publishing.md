@@ -2,7 +2,7 @@
 layout: company
 title: "DC Canada Education Publishing"
 key: "dccanadapublishing"
-image: assets/images/companies/iktisat-publishing.jpg
+image: assets/images/companies/dccanada.png
 link: 
 
 # For adding excerpt add <!--more--> and break the line

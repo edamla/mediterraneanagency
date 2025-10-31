@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Contact Us"
 permalink: "/contact"
 comments: false
 ---
 
-<h5>Phone, Whatsapp, Telegram</h5>
-<div>+90 532 586 63 56</div>
+<h5>Whatsapp, Telegram</h5>
+<div>+90 533 267 40 22</div>
 <h5>E-Mail:</h5>
 <div><a href="mailto:{{site.email}}">{{site.email}}</a></div>
 <hr>

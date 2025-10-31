@@ -4,6 +4,94 @@ layout: default
 
 {% assign newsletter = page %}
 
+<div class="language-switcher text-center mb-4">
+    <button class="btn btn-outline-secondary btn-sm mx-1" data-lang="fr" style="display: none;">FR</button>
+    <button class="btn btn-outline-secondary btn-sm mx-1" data-lang="tr" style="display: none;">TR</button>
+    <button class="btn btn-outline-secondary btn-sm mx-1" data-lang="en" style="display: none;">EN</button>
+    <button class="btn btn-outline-secondary btn-sm mx-1" data-lang="ar" style="display: none;">AR</button>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const langButtons = document.querySelectorAll('.language-switcher .btn');
+        // Tüm potansiyel dil içerik bloklarını seçin - hem div hem de table elementleri için
+        const contentBlocks = document.querySelectorAll('.english, .arabic, .french, .turkish'); 
+
+        // Mevcut dil sınıflarına göre butonları göster/gizle
+        function showAvailableLanguageButtons() {
+            const availableLanguages = [];
+            
+            // Hangi dil sınıflarının mevcut olduğunu kontrol et
+            if (document.querySelector('.english')) availableLanguages.push('en');
+            if (document.querySelector('.arabic')) availableLanguages.push('ar');
+            if (document.querySelector('.french')) availableLanguages.push('fr');
+            if (document.querySelector('.turkish')) availableLanguages.push('tr');
+            
+            // Sadece mevcut diller için butonları göster
+            langButtons.forEach(button => {
+                const lang = button.dataset.lang;
+                if (availableLanguages.includes(lang)) {
+                    button.style.display = 'inline-block';
+                } else {
+                    button.style.display = 'none';
+                }
+            });
+            
+            return availableLanguages;
+        }
+
+        function setLanguage(lang) {
+            // Tüm dil butonlarından 'active' ve 'btn-primary' sınıflarını kaldır, 'btn-outline-secondary' ekle
+            langButtons.forEach(button => {
+                button.classList.remove('active', 'btn-primary');
+                button.classList.add('btn-outline-secondary');
+            });
+
+            // Seçilen dil butonuna 'active' ve 'btn-primary' sınıflarını ekle, 'btn-outline-secondary' kaldır
+            const activeButton = document.querySelector(`.language-switcher .btn[data-lang="${lang}"]`);
+            if (activeButton) {
+                activeButton.classList.add('active', 'btn-primary');
+                activeButton.classList.remove('btn-outline-secondary');
+            }
+
+            // Tüm dil içerik bloklarını gizle (hem div hem table elementleri)
+            contentBlocks.forEach(block => {
+                block.classList.add('d-none');
+            });
+
+            // Seçilen dil içerik bloğunu göster (hem div hem table elementleri)
+            // Dil kodlarını CSS sınıf isimlerine eşle
+            let cssClass = '';
+            switch(lang) {
+                case 'en': cssClass = 'english'; break;
+                case 'ar': cssClass = 'arabic'; break;
+                case 'fr': cssClass = 'french'; break;
+                case 'tr': cssClass = 'turkish'; break;
+                default: cssClass = 'english';
+            }
+            
+            const selectedBlocks = document.querySelectorAll('.' + cssClass);
+            selectedBlocks.forEach(block => {
+                block.classList.remove('d-none');
+            });
+        }
+
+        // Butonlara tıklama olay dinleyicileri ekle
+        langButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                setLanguage(this.dataset.lang);
+            });
+        });
+
+        // Sayfa yüklendiğinde mevcut dilleri kontrol et ve butonları göster
+        const availableLanguages = showAvailableLanguageButtons();
+        
+        // Varsayılan olarak mevcut ilk dili seç (genellikle İngilizce)
+        if (availableLanguages.length > 0) {
+            setLanguage(availableLanguages[0]);
+        }
+    });
+</script>
 
 <div class="row justify-content-center">
             <!-- Article -->

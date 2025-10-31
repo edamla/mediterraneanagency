@@ -6,22 +6,16 @@ permalink: "/represented"
 
 <div class="container">
     <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
-    <div class="row gap-y listrecent listrecent listauthor">
+    <div class="companies-grid">
         {% for company in site.companys %}
-            <div class="col-6 col-lg-2 mb-2">
+            <div class="company-item">
                 <div class="fixed-box">
-                    <div class="row">
-                        <a href="{{ company.url }}">
-                            <div class="col-md-12">
-                                <!-- Şirket ismi üstte -->
-                                <h5 class="text-dark mb-3 justify-content-center text-center"> {{ company.title }} </h5>
-                            </div>
-                            <div class="col-md-12 d-flex justify-content-between">
-                                <!-- Logo altta -->
-                                <img alt="{{ company.title }}" src="{{site.baseurl}}/{{ company.image }}" class="rounded company-image">
-                            </div>
-                        </a>
-                    </div>
+                    <a href="{{ company.url }}">
+                        <!-- Şirket ismi üstte -->
+                        <h5 class="text-dark mb-3 text-center">{{ company.title }}</h5>
+                        <!-- Logo altta -->
+                        <img alt="{{ company.title }}" src="{{site.baseurl}}/{{ company.image }}" class="rounded company-image">
+                    </a>
                 </div>
             </div>
         {% endfor %}
@@ -29,51 +23,87 @@ permalink: "/represented"
 </div>
 
 <style>
+/* Grid sistem ile düzenli yerleşim */
+.companies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.company-item {
+    width: 100%;
+    max-width: 250px;
+}
+
 /* Kutuların sabit boyutları */
 .fixed-box {
-    width: 250px; /* Sabit genişlik */
-    height: 250px; /* Sabit yükseklik */
+    width: 250px;
+    height: 250px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    overflow: hidden; /* Taşmaları gizler */
+    overflow: hidden;
     text-align: center;
     padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Şi-2rket isimlerinin tasarımı */
+.fixed-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+/* Şirket isimlerinin tasarımı */
 .fixed-box h5 {
     font-size: 16px;
     font-weight: bold;
     margin-bottom: 10px;
     line-height: 1.2;
+    color: #333;
 }
 
 /* Görselin kutuya uyum sağlaması */
 .company-image {
-    width: 150px; /* Sabit genişlik */
-    height: 150px; /* Sabit yükseklik */
-    object-fit: contain; /* Görselin oranını koruyarak sığdırma */
-    border-radius: 50%; /* Tam yuvarlak görünüm */
-    padding: 10px; /* Logo etrafında boşluk */
-    background-color: white; /* Arka plan rengi */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Belirgin gölge efekti */
-    transition: transform 0.3s ease; /* Hover efekti için geçiş */
-    border: 3px solid #e0e0e0; /* Yuvarlak çerçeve */
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+    border: 3px solid #e0e0e0;
 }
 
 .company-image:hover {
-    transform: scale(1.1); /* Hover durumunda büyüme efekti */
-    box-shadow: 0 6px 12px rgba(0,0,0,0.3); /* Hover durumunda daha belirgin gölge */
-    border-color: #bdbdbd; /* Hover durumunda çerçeve rengi değişimi */
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    border-color: #bdbdbd;
 }
 
-/* Footer sabitleme */
-footer {
-    *position: fixed !important;
-    bottom: 0px !important;
-    width: 100vw !important;
-    position: bottom;
+/* Responsive tasarım */
+@media (max-width: 768px) {
+    .companies-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 15px;
+    }
+    
+    .fixed-box {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .company-image {
+        width: 120px;
+        height: 120px;
+    }
 }
+
 </style>
