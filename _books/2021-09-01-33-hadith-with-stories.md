@@ -12,7 +12,6 @@ categories: [ "Religion" ]
 tags: [ "Literature"]
 previewpage: false
 featured: false
-
 genre: children
 type: fiction
 
