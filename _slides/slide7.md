@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 7
 title:  "new-endonesian"
 img: "assets/images/slides/3.jpg"
 mobile-img:  "assets/images/slides/3m.jpg"
